@@ -1,0 +1,2 @@
+# wxMessageCatalogs
+wxWidgets Message Catalogs
