@@ -6,64 +6,152 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2004-05-12 12:57+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-16 13:06+0000\n"
 "PO-Revision-Date: 2004-05-12 13:50+0100\n"
 "Last-Translator: Włodzimierz ABX Skiba <abx@abx.art.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n>1 && n<5 ? 1 : 2;\n"
 
-#: ../internat.cpp:200
-msgid "&About"
-msgstr "Inform&acje"
+msgid "skip setting locale on startup"
+msgstr ""
 
-#: ../internat.cpp:202
+msgid "do set locale on startup without asking"
+msgstr ""
+
+#, c-format
+msgid "Couldn't find/load 'internat' catalog for %s."
+msgstr ""
+
+#, fuzzy
+msgid "International wxWidgets App"
+msgstr "Wielojęzyczna aplikacja wxWindows"
+
+msgid "&Test locale availability...\tCtrl-T"
+msgstr ""
+
 msgid "E&xit"
 msgstr "Zakoń&cz"
 
-#: ../internat.cpp:205
 msgid "&Open bogus file"
 msgstr "&Otwórz nieistniejący plik"
 
-#: ../internat.cpp:206
+msgid "Shows a wxWidgets localized error message"
+msgstr ""
+
+msgid "&Save dummy file"
+msgstr ""
+
+msgid "Shows a localized standard dialog"
+msgstr ""
+
 msgid "&Play a game"
 msgstr "&Pobaw się"
 
-#: ../internat.cpp:208
+msgid "A little game; hint: 17 is a lucky number for many"
+msgstr ""
+
 msgid "&1 _() (gettext)"
 msgstr "&1 _() (gettext)"
 
-#: ../internat.cpp:209
+msgid "Tests the _() macro"
+msgstr ""
+
 msgid "&2 _N() (ngettext)"
 msgstr "&2 _N() (ngettext)"
 
-#: ../internat.cpp:210
+msgid "Tests the _N() macro"
+msgstr ""
+
 msgid "&3 wxTRANSLATE() (gettext_noop)"
 msgstr "&3 wxTRANSLATE() (gettext_noop)"
 
-#: ../internat.cpp:214
+#, fuzzy
+msgid "Tests the wxTRANSLATE() macro"
+msgstr "Test wxTRANSLATE() (gettext_noop)"
+
+msgid "&Message box test"
+msgstr ""
+
+msgid "Tests message box buttons labels translation"
+msgstr ""
+
+msgid "item"
+msgstr ""
+
+msgctxt "context_1"
+msgid "item"
+msgstr ""
+
+msgctxt "context_2"
+msgid "item"
+msgstr ""
+
+msgid "sing"
+msgid_plural "plur"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgctxt "context_1"
+msgid "sing"
+msgid_plural "plur"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgctxt "context_2"
+msgid "sing"
+msgid_plural "plur"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "Show coreutils &help"
+msgstr ""
+
+msgid "&About"
+msgstr "Inform&acje"
+
 msgid "&Test"
 msgstr "&Test"
 
-#: ../internat.cpp:232
-msgid "International wxWindows App"
-msgstr "Wielojęzyczna aplikacja wxWindows"
-
-#: ../internat.cpp:252
-msgid ""
-"Language: %s\n"
-"System locale name:\n"
-"%s\n"
-"Canonical locale name: %s\n"
+msgid "&Macro"
 msgstr ""
-"Język: %s\n"
-"Językowe ustawienia systemu:\n"
-"%s\n"
-"Wybrany język: %s\n"
 
-#: ../internat.cpp:258
+msgctxt "standard Windows menu"
+msgid "&Help"
+msgstr ""
+
+#, c-format
+msgid "Current UI locale: %s; C locale: %s"
+msgstr ""
+
+#, c-format
+msgid "UI locale name in English: %s"
+msgstr ""
+
+#, c-format
+msgid "... and in the locale language: %s"
+msgstr ""
+
+msgid "Numeric input:"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+#, c-format
+msgid "Number in UI locale: %s; in C locale: %.2f"
+msgstr ""
+
 msgid ""
 "I18n sample\n"
 "(c) 1998, 1999 Vadim Zeitlin and Julian Smart"
@@ -71,78 +159,101 @@ msgstr ""
 "Przykład programu I18n\n"
 "(c) 1998, 1999 Vadim Zeitlin i Julian Smart"
 
-#: ../internat.cpp:261
 msgid "About Internat"
 msgstr "Informacje o programie Internat"
 
-#: ../internat.cpp:270
 msgid "Enter your number:"
 msgstr "Wprowadź liczbę"
 
-#: ../internat.cpp:271
 msgid "Try to guess my number!"
 msgstr "Spróbuj odgadnąć moją liczbę!"
 
-#: ../internat.cpp:285
 msgid "You've probably entered an invalid number."
 msgstr "Najprawdopodobniej wprowadzono błędną liczbę."
 
-#: ../internat.cpp:299
 msgid "Congratulations! you've won. Here is the magic phrase:"
 msgstr "Gratulacje! wygrałeś. Oto magiczna formuła:"
 
-#: ../internat.cpp:300
 #, c-format
 msgid "cannot create fifo `%s'"
 msgstr "nie można utworzyć struktury fifo `%s'"
 
-#: ../internat.cpp:311
-msgid "Result"
-msgstr "Wynik"
-
-#: ../internat.cpp:323
-msgid "Testing _() (gettext)"
-msgstr "Test _() (gettext)"
-
-#: ../internat.cpp:324
-msgid "Please enter text to translate"
-msgstr "Wprowadź tekst do przetłumaczenia"
-
-#: ../internat.cpp:338
-msgid "Testing _N() (ngettext)"
-msgstr "Test _N() (ngettext)"
-
-#: ../internat.cpp:340
-msgid "Please enter range for plural forms of \"n files deleted\" phrase"
-msgstr "Wprowadź zakres dla form liczby mnogiej wyrażenia \"sn plików usuniętych\""
-
-#: ../internat.cpp:366
-msgid "Testing wxTRANSLATE() (gettext_noop)"
-msgstr "Test wxTRANSLATE() (gettext_noop)"
-
-#: ../internat.cpp:310
 msgid "Bad luck! try again..."
 msgstr "Pudło! spróbuj jeszcze raz..."
 
-#: ../internat.cpp:327
+msgid "Result"
+msgstr "Wynik"
+
+msgid "Enter the locale to test"
+msgstr ""
+
+#, c-format
+msgid ""
+"Locale \"%s\" is available.\n"
+"Identifier: %s; Layout: %s\n"
+"English name: %s\n"
+"Localized name: %s"
+msgstr ""
+
+#, c-format
+msgid "Locale \"%s\" is not available."
+msgstr ""
+
+msgid "Dummy file dialog"
+msgstr ""
+
+msgid "Testing _() (gettext)"
+msgstr "Test _() (gettext)"
+
+msgid "Please enter text to translate"
+msgstr "Wprowadź tekst do przetłumaczenia"
+
 msgid "default value"
 msgstr "wartość domyślna"
 
-#: ../internat.cpp:364
-msgid "line 1"
-msgstr "wiersz 1"
+msgid "Testing _N() (ngettext)"
+msgstr "Test _N() (ngettext)"
 
-#: ../internat.cpp:365
-msgid "line 2"
-msgstr "wiersz 2"
+msgid "Please enter range for plural forms of \"n files deleted\" phrase"
+msgstr ""
+"Wprowadź zakres dla form liczby mnogiej wyrażenia \"sn plików usuniętych\""
 
-#: ../internat.cpp:366
-msgid "line 3"
-msgstr "wiersz 3"
-
-#: ../internat.cpp:353
 msgid "file deleted"
 msgid_plural "files deleted"
 msgstr[0] "plik usunięty"
 msgstr[1] "pliki usunięte"
 msgstr[2] "plików usuniętych"
+
+msgid "line 1"
+msgstr "wiersz 1"
+
+msgid "line 2"
+msgstr "wiersz 2"
+
+msgid "line 3"
+msgstr "wiersz 3"
+
+msgid "Testing wxTRANSLATE() (gettext_noop)"
+msgstr "Test wxTRANSLATE() (gettext_noop)"
+
+msgid ""
+"Are the labels of the buttons in this message box translated into the "
+"current locale language?"
+msgstr ""
+
+msgid "wxWidgets i18n sample"
+msgstr ""
+
+msgid "Please report the details of your platform to us."
+msgstr ""
+
+#~ msgid ""
+#~ "Language: %s\n"
+#~ "System locale name:\n"
+#~ "%s\n"
+#~ "Canonical locale name: %s\n"
+#~ msgstr ""
+#~ "Język: %s\n"
+#~ "Językowe ustawienia systemu:\n"
+#~ "%s\n"
+#~ "Wybrany język: %s\n"

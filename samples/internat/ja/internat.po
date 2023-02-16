@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.00.00\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-08 18:21+0900\n"
+"POT-Creation-Date: 2023-02-16 13:06+0000\n"
 "PO-Revision-Date: 2006-07-14 20:43+0900\n"
 "Last-Translator: 鈴見咲君高 <suzumizaki@free.japandesign.ne.jp>\n"
 "Language-Team: 鈴見咲 <suzumizaki@free.japandesign.ne.jp>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,55 +15,134 @@ msgstr ""
 "X-Poedit-Country: JAPAN\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
 
-#: ../internat.cpp:214
-msgid "&About"
-msgstr "このアプリケーションについて(&A)"
+msgid "skip setting locale on startup"
+msgstr ""
 
-#: ../internat.cpp:216
-msgid "E&xit"
-msgstr "終了(&X)\tAlt-X"
+msgid "do set locale on startup without asking"
+msgstr ""
 
-#: ../internat.cpp:219
-msgid "&Open bogus file"
-msgstr "存在しないファイルを開いてみる(&O)"
+#, c-format
+msgid "Couldn't find/load 'internat' catalog for %s."
+msgstr ""
 
-#: ../internat.cpp:220
-msgid "&Play a game"
-msgstr "ゲーム(&P)"
-
-#: ../internat.cpp:222
-msgid "&1 _() (gettext)"
-msgstr "&1 _() (gettext)"
-
-#: ../internat.cpp:223
-msgid "&2 _N() (ngettext)"
-msgstr "&2 _N() (ngettext)"
-
-#: ../internat.cpp:224
-msgid "&3 wxTRANSLATE() (gettext_noop)"
-msgstr "&3 wxTRANSLATE() (gettext_noop)"
-
-#: ../internat.cpp:228
-msgid "&Test"
-msgstr "試行(&T)"
-
-#: ../internat.cpp:246
 msgid "International wxWidgets App"
 msgstr "wxWidgets 国際化実装例"
 
-#: ../internat.cpp:264
-#, c-format
-msgid ""
-"Language: %s\n"
-"System locale name:\n"
-"%s\n"
-"Canonical locale name: %s\n"
+msgid "&Test locale availability...\tCtrl-T"
 msgstr ""
-"C言語形式の言語: %s\n"
-"現処理系の地域名: %s\n"
-"正式名称: %s\n"
 
-#: ../internat.cpp:269
+msgid "E&xit"
+msgstr "終了(&X)\tAlt-X"
+
+msgid "&Open bogus file"
+msgstr "存在しないファイルを開いてみる(&O)"
+
+msgid "Shows a wxWidgets localized error message"
+msgstr ""
+
+msgid "&Save dummy file"
+msgstr ""
+
+msgid "Shows a localized standard dialog"
+msgstr ""
+
+msgid "&Play a game"
+msgstr "ゲーム(&P)"
+
+msgid "A little game; hint: 17 is a lucky number for many"
+msgstr ""
+
+msgid "&1 _() (gettext)"
+msgstr "&1 _() (gettext)"
+
+msgid "Tests the _() macro"
+msgstr ""
+
+msgid "&2 _N() (ngettext)"
+msgstr "&2 _N() (ngettext)"
+
+msgid "Tests the _N() macro"
+msgstr ""
+
+msgid "&3 wxTRANSLATE() (gettext_noop)"
+msgstr "&3 wxTRANSLATE() (gettext_noop)"
+
+#, fuzzy
+msgid "Tests the wxTRANSLATE() macro"
+msgstr "wxTRANSLATE() (gettext_noop) の結果をチェック"
+
+msgid "&Message box test"
+msgstr ""
+
+msgid "Tests message box buttons labels translation"
+msgstr ""
+
+msgid "item"
+msgstr ""
+
+msgctxt "context_1"
+msgid "item"
+msgstr ""
+
+msgctxt "context_2"
+msgid "item"
+msgstr ""
+
+msgid "sing"
+msgid_plural "plur"
+msgstr[0] ""
+
+msgctxt "context_1"
+msgid "sing"
+msgid_plural "plur"
+msgstr[0] ""
+
+msgctxt "context_2"
+msgid "sing"
+msgid_plural "plur"
+msgstr[0] ""
+
+msgid "Show coreutils &help"
+msgstr ""
+
+msgid "&About"
+msgstr "このアプリケーションについて(&A)"
+
+msgid "&Test"
+msgstr "試行(&T)"
+
+msgid "&Macro"
+msgstr ""
+
+msgctxt "standard Windows menu"
+msgid "&Help"
+msgstr ""
+
+#, c-format
+msgid "Current UI locale: %s; C locale: %s"
+msgstr ""
+
+#, c-format
+msgid "UI locale name in English: %s"
+msgstr ""
+
+#, c-format
+msgid "... and in the locale language: %s"
+msgstr ""
+
+msgid "Numeric input:"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+#, c-format
+msgid "Number in UI locale: %s; in C locale: %.2f"
+msgstr ""
+
 msgid ""
 "I18n sample\n"
 "(c) 1998, 1999 Vadim Zeitlin and Julian Smart"
@@ -70,73 +150,100 @@ msgstr ""
 "I18n 実装例\n"
 "© 1998, 1999 Vadim Zeitlin and Julian Smart"
 
-#: ../internat.cpp:272
 msgid "About Internat"
 msgstr "このアプリケーションについて"
 
-#: ../internat.cpp:282
 msgid "Enter your number:"
 msgstr "数字を入力して下さい："
 
-#: ../internat.cpp:283
 msgid "Try to guess my number!"
 msgstr "数字を入力してください。"
 
-#: ../internat.cpp:297
 msgid "You've probably entered an invalid number."
 msgstr "入力した文字は数値としては無効と思われます。"
 
-#: ../internat.cpp:311
 msgid "Congratulations! you've won. Here is the magic phrase:"
 msgstr "正解です。 ここに暗号を表示します："
 
-#: ../internat.cpp:312
 #, c-format
 msgid "cannot create fifo `%s'"
 msgstr "fifo %s を作ることができませんでした"
 
-#: ../internat.cpp:323
+msgid "Bad luck! try again..."
+msgstr ""
+
 msgid "Result"
 msgstr "結果"
 
-#: ../internat.cpp:335
+msgid "Enter the locale to test"
+msgstr ""
+
+#, c-format
+msgid ""
+"Locale \"%s\" is available.\n"
+"Identifier: %s; Layout: %s\n"
+"English name: %s\n"
+"Localized name: %s"
+msgstr ""
+
+#, c-format
+msgid "Locale \"%s\" is not available."
+msgstr ""
+
+msgid "Dummy file dialog"
+msgstr ""
+
 msgid "Testing _() (gettext)"
 msgstr "_() (gettext) の結果をチェック"
 
-#: ../internat.cpp:336
 msgid "Please enter text to translate"
 msgstr "翻訳したい文字列を入力"
 
-#: ../internat.cpp:337
 msgid "default value"
 msgstr "初期設定値"
 
-#: ../internat.cpp:350
 msgid "Testing _N() (ngettext)"
 msgstr "_N() (ngettext) を試行します。"
 
-#: ../internat.cpp:352
 msgid "Please enter range for plural forms of \"n files deleted\" phrase"
-msgstr "\"n 個のファイルが削除されました。\" という文の複数形対応を試行します。試行する値の範囲を入力してください（日本語では無意味ですが）。"
+msgstr ""
+"\"n 個のファイルが削除されました。\" という文の複数形対応を試行します。試行す"
+"る値の範囲を入力してください（日本語では無意味ですが）。"
 
-#: ../internat.cpp:363
 msgid "file deleted"
 msgid_plural "files deleted"
 msgstr[0] "個のファイルが削除されました。"
 
-#: ../internat.cpp:374
 msgid "line 1"
 msgstr "1行目"
 
-#: ../internat.cpp:375
 msgid "line 2"
 msgstr "2行目"
 
-#: ../internat.cpp:376
 msgid "line 3"
 msgstr "3行目"
 
-#: ../internat.cpp:378
 msgid "Testing wxTRANSLATE() (gettext_noop)"
 msgstr "wxTRANSLATE() (gettext_noop) の結果をチェック"
 
+msgid ""
+"Are the labels of the buttons in this message box translated into the "
+"current locale language?"
+msgstr ""
+
+msgid "wxWidgets i18n sample"
+msgstr ""
+
+msgid "Please report the details of your platform to us."
+msgstr ""
+
+#, c-format
+#~ msgid ""
+#~ "Language: %s\n"
+#~ "System locale name:\n"
+#~ "%s\n"
+#~ "Canonical locale name: %s\n"
+#~ msgstr ""
+#~ "C言語形式の言語: %s\n"
+#~ "現処理系の地域名: %s\n"
+#~ "正式名称: %s\n"
