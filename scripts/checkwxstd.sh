@@ -74,9 +74,13 @@ check_wxstd () {
   echo "--- Compare old and new standard message catalog"
 
   # Compare old and new standard catalog, but ignore the timestamp in the header
-  if cmp -s <(tail -n +12 $WXSTDCTLG_OLD) <(tail -n +12 $WXSTDCTLG_NEW);
+  tail -n +12 $WXSTDCTLG_OLD > "temp_ctlg.old"
+  tail -n +12 $WXSTDCTLG_NEW > "temp_ctlg.new"
+#  if cmp -s <(tail -n +12 $WXSTDCTLG_OLD) <(tail -n +12 $WXSTDCTLG_NEW);
+  if cmp -s "temp_ctlg.old" "temp_ctlg.new"
   then
     echo "No changes in standard message catalog $WXSTDCTLG_OLD detected."
+    DoGen=0
   else
     echo "Changes in standard message catalog $WXSTDCTLG_OLD detected."
 
@@ -124,6 +128,10 @@ check_wxstd () {
       DoGen=0
     fi
   fi
+
+  # Remove temp files
+  rm "temp_ctlg.old"
+  rm "temp_ctlg.new"
 
   if [ $force -eq 1 ] && [ $DoGen -eq 0 ];
   then
