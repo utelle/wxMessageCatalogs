@@ -31,7 +31,9 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
     - name: Check message catalogs, update if necessary
-      run: ./scripts/checkwxstd.sh
+      run: |
+        bash --version
+        ./scripts/checkwxstd.sh
 
     - name: Auto commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
