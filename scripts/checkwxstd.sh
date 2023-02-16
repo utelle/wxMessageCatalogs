@@ -34,7 +34,7 @@ force=0
 #   3) untranslated messages (UT)
 #   4) total number of messages (TOTAL)
 # Returns results in global variables TR, FZ, UT, and TOTAL
-function count_msgids {
+count_msgids() {
   local x
   x=`LC_MESSAGES=en_US $MSGSTAT "$1" -o /dev/null 2>&1 | tail -n 1 | sed -e 's/[,\.]//g' \
     -e 's/\([0-9]\+\) translated messages\?/TR=\1/' \
@@ -46,19 +46,19 @@ function count_msgids {
 }
 
 # Function to merge updated standard catalog into language specific catalog
-function merge_pot_into_po {
+merge_pot_into_po() {
   echo "Merge $1.po with $WXSTDCTLG_OLD:"
   $MSGMERGE "$1.po" $WXSTDCTLG_OLD > $1.po.new && mv $1.po.new $1.po;
 }
 
 # Function to generate compiled language catalog from source catalog
-function generate_mo_from_po {
+generate_mo_from_po() {
   echo "Generate $1.mo from $1.po"
   $MSGFMT -c -o "$1.mo" $1.po
 }
 
 # Check the wxWidgets standard message catalogs
-function check_wxstd {
+check_wxstd() {
   echo "--- Check wxWidgets standard catalog"
   echo "--- Extract messages from sources"
 
@@ -154,7 +154,7 @@ function check_wxstd {
 }
 
 # Check the samples' message catalogs
-function check_samples {
+check_samples() {
   echo "--- Check samples' message catalogs"
 
   # Sample 'internat'
