@@ -204,7 +204,7 @@ check_samples () {
     echo "New I18N catalog ${t}internat.po.new: $TRi18nNew translated, $UTi18nNew untranslated, $TOTALi18nNew total."
 
     updI18n=0
-    if [ $TOTALi18n -ne $TOTALi18nNew ]; then
+    if [ $TOTALi18nOld -ne $TOTALi18nNew ]; then
       echo "The total number of message ids in the specific language catalog changed."
       updI18n=1
     elif [ $UTold -ne $UTnew ]; then
