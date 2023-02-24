@@ -48,7 +48,7 @@ count_msgids () {
 # Function to merge updated standard catalog into language specific catalog
 merge_pot_into_po () {
   echo "Merge $1.po with $WXSTDCTLG_OLD:"
-  $MSGMERGE "$1.po" $WXSTDCTLG_OLD > $1.po.new && mv $1.po.new $1.po;
+  $MSGMERGE "$WXDIR/locale/$1.po" $WXSTDCTLG_OLD > $1.po.new && mv $1.po.new $1.po;
 }
 
 # Function to generate compiled language catalog from source catalog
