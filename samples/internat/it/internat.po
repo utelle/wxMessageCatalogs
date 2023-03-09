@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-16 13:06+0000\n"
+"POT-Creation-Date: 2023-03-09 03:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Francesco Montorsi <f18m_cpp217828@yahoo.it>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
