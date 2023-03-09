@@ -207,7 +207,7 @@ check_samples () {
     if [ $TOTALi18nOld -ne $TOTALi18nNew ]; then
       echo "The total number of message ids in the specific language catalog changed."
       updI18n=1
-    elif [ $UTold -ne $UTnew ]; then
+    elif [ $UTi18nOld -ne $UTi18nNew ]; then
       echo "The total number of message ids in the specific language catalog did not change, but"
       echo "the number of untranslated message ids in the specific language catalog changed."
       updI18n=1
