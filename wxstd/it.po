@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets revised 09.02.2023 by bovirus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2023-02-09 19:31+0100\n"
 "Last-Translator: bovirus <bovirus@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -4274,12 +4274,6 @@ msgstr "Impossibile chiudere gli Appunti."
 msgid "Failed to empty the clipboard."
 msgstr "Impossibile eliminare il contenuto degli appunti."
 
-msgid "Unsupported clipboard format."
-msgstr "Formato degli Appunti non supportato."
-
-msgid "Failed to set clipboard data."
-msgstr "Impossibile scrivere i dati degli appunti."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Impossibile mettere dati negli Appunti"
 
@@ -6763,3 +6757,9 @@ msgstr "Impossibile caricare le risorse dal file '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Creazione di %s \"%s\" fallita."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Formato degli Appunti non supportato."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Impossibile scrivere i dati degli appunti."

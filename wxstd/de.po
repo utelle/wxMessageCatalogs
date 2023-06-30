@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.3.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2023-02-06 17:46+0100\n"
 "Last-Translator: Ulrich Telle <ulrich@telle-online.eu>\n"
 "Language-Team: wxWidgets Team <wx-dev@wxwidgets.org>\n"
@@ -4291,12 +4291,6 @@ msgstr "Konnte Zwischenablage nicht schließen."
 msgid "Failed to empty the clipboard."
 msgstr "Konnte Zwischenablage nicht leeren."
 
-msgid "Unsupported clipboard format."
-msgstr "Nicht unterstütztes Format in der Zwischenablage."
-
-msgid "Failed to set clipboard data."
-msgstr "Konnte Dateien nicht in die Zwischenablage kopieren."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Versuch Daten in der Zwischenablage abzulegen, fehlgeschlagen"
 
@@ -6806,6 +6800,12 @@ msgstr "Kann die Ressourcen nicht aus der Datei „%s“ laden."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Erstellung von %s „%s“ fehlgeschlagen."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Nicht unterstütztes Format in der Zwischenablage."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Konnte Dateien nicht in die Zwischenablage kopieren."
 
 #~ msgid "Printing "
 #~ msgstr "Drucken von "

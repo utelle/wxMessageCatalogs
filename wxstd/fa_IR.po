@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2020-07-17 12:42+0430\n"
 "Last-Translator: \n"
 "Language-Team: Ali Asadi <ali.asadi@wxwidgets.ir>\n"
@@ -4167,12 +4167,6 @@ msgid "Failed to close the clipboard."
 msgstr ""
 
 msgid "Failed to empty the clipboard."
-msgstr ""
-
-msgid "Unsupported clipboard format."
-msgstr ""
-
-msgid "Failed to set clipboard data."
 msgstr ""
 
 msgid "Failed to put data on the clipboard"

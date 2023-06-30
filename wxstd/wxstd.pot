@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4159,12 +4159,6 @@ msgid "Failed to close the clipboard."
 msgstr ""
 
 msgid "Failed to empty the clipboard."
-msgstr ""
-
-msgid "Unsupported clipboard format."
-msgstr ""
-
-msgid "Failed to set clipboard data."
 msgstr ""
 
 msgid "Failed to put data on the clipboard"

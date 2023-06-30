@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2018-09-06 07:55+0500\n"
 "Last-Translator: Alexander Kovalenko <nktch@yandex.ru>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4258,12 +4258,6 @@ msgstr "Не удалось закрыть буфер обмена."
 msgid "Failed to empty the clipboard."
 msgstr "Не удалось очистить буфер обмена."
 
-msgid "Unsupported clipboard format."
-msgstr "Неподдерживаемый формат буфера обмена."
-
-msgid "Failed to set clipboard data."
-msgstr "Не удалось установить данные буфера обмена."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Не удалось поместить данные в буфер обмена"
 
@@ -6746,6 +6740,12 @@ msgstr "Невозможно загрузить ресурсы из файла '
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Не удалось создать '%s' в '%s'."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Неподдерживаемый формат буфера обмена."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Не удалось установить данные буфера обмена."
 
 #~ msgid "Printing "
 #~ msgstr "Печать "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2006-11-06 10:48+0800\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: ms_MY <ms@li.org>\n"
@@ -4381,12 +4381,6 @@ msgstr "Gagal menutup klipbod."
 msgid "Failed to empty the clipboard."
 msgstr "Gagal melapangkan klipbod."
 
-msgid "Unsupported clipboard format."
-msgstr "Format klipbod tidak disokong."
-
-msgid "Failed to set clipboard data."
-msgstr "Gagal tetapkan data klipbod."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Gagal letak data pada klipbod"
 
@@ -7008,6 +7002,12 @@ msgstr "Gagal memuat sumber dari fail '%s'."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Pengekstrakan '%s' kepada '%s' gagal."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Format klipbod tidak disokong."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Gagal tetapkan data klipbod."
 
 #~ msgid "Printing "
 #~ msgstr "Mencetak "

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -4290,12 +4290,6 @@ msgstr "Đóng clipboard gặp lỗi."
 msgid "Failed to empty the clipboard."
 msgstr "Làm rỗng clipboard gặp lỗi."
 
-msgid "Unsupported clipboard format."
-msgstr "Dạng thức clipboard không được hỗ trợ."
-
-msgid "Failed to set clipboard data."
-msgstr "Đặt dữ liệu clipboard gặp lỗi."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Đặt dữ liệu vào clipboard gặp lỗi"
 
@@ -6793,6 +6787,12 @@ msgstr "Không thể tải tài nguyên từ tập tin '%s'."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Rút trích '%s' vào '%s' gặp lỗi."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Dạng thức clipboard không được hỗ trợ."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Đặt dữ liệu clipboard gặp lỗi."
 
 #~ msgid "Printing "
 #~ msgstr "Đang in "

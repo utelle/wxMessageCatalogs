@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2013-01-23 13:14+0300\n"
 "Last-Translator: Jānis Eisaks <jancs@dv.lv>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4283,12 +4283,6 @@ msgstr "Nevar aizvērt starpliktuvi."
 msgid "Failed to empty the clipboard."
 msgstr "Neizdevās iztīrīt starpliktuvi."
 
-msgid "Unsupported clipboard format."
-msgstr "Neatbalstīts starpliktuves formāts."
-
-msgid "Failed to set clipboard data."
-msgstr "Neizdevās iestatīt starpliktuves datus."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Neizdevās ievieto datus starpliktuvē"
 
@@ -6788,6 +6782,12 @@ msgstr "Nav iespējams ielādēt resursus no faila '%s'."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Neizdevās izveidot hronometru"
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Neatbalstīts starpliktuves formāts."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Neizdevās iestatīt starpliktuves datus."
 
 #~ msgid "Printing "
 #~ msgstr "Drukāšana"

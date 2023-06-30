@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2014-06-04 16:19+1200\n"
 "Last-Translator: Mariusz Drozdowski <schemedit@wp.pl>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4326,12 +4326,6 @@ msgstr "Nie udało się zamknąć schowka."
 msgid "Failed to empty the clipboard."
 msgstr "Nie udało się opróżnić schowka."
 
-msgid "Unsupported clipboard format."
-msgstr "Nieobsługiwany format schowka."
-
-msgid "Failed to set clipboard data."
-msgstr "Nie udało się skorzystać ze schowka."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Nie udało się umieścić danych w schowku"
 
@@ -6854,6 +6848,12 @@ msgstr "Nie można wczytać zasobów z pliku '%s'."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Pobranie '%s' do '%s' nie powiodło się."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Nieobsługiwany format schowka."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Nie udało się skorzystać ze schowka."
 
 #~ msgid "Printing "
 #~ msgstr "Drukowanie "

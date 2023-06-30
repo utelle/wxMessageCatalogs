@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-07-03 20:43+0200\n"
 "Last-Translator: Andriy Byelikov\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -4275,12 +4275,6 @@ msgstr "No s'ha pogut tancar el porta-retalls."
 msgid "Failed to empty the clipboard."
 msgstr "No s'ha pogut buidar el porta-retalls."
 
-msgid "Unsupported clipboard format."
-msgstr "Format de porta-retalls no suportat."
-
-msgid "Failed to set clipboard data."
-msgstr "No s'han pogut definir les dades del porta-retalls."
-
 msgid "Failed to put data on the clipboard"
 msgstr "No s'han pogut posar les dades al porta-retalls"
 
@@ -6761,6 +6755,12 @@ msgstr "No es poden carregar els recursos del fitxer '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "No s'ha pogut crear %s \"%s\"."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Format de porta-retalls no suportat."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "No s'han pogut definir les dades del porta-retalls."
 
 #~ msgid "Printing "
 #~ msgstr "S'està imprimint "

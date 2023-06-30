@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -4260,12 +4260,6 @@ msgstr "Sluiten van klembord mislukt."
 msgid "Failed to empty the clipboard."
 msgstr "Legen van klembord mislukt."
 
-msgid "Unsupported clipboard format."
-msgstr "Niet ondersteund klembord-formaat."
-
-msgid "Failed to set clipboard data."
-msgstr "Instellen van klembordgegevens mislukt."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Bewaren van gegevens op klembord mislukt"
 
@@ -6757,6 +6751,12 @@ msgstr "Kan bronnen niet laden uit bestand '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Aanmaken van '%s' in '%s' mislukte."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Niet ondersteund klembord-formaat."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Instellen van klembordgegevens mislukt."
 
 #~ msgid "Printing "
 #~ msgstr "Bezig met afdrukken "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -4400,12 +4400,6 @@ msgstr "क्लिपबोर्ड को बन्द करने मे�
 msgid "Failed to empty the clipboard."
 msgstr "क्लिपबोर्ड को खाली करने में असफ़ल।"
 
-msgid "Unsupported clipboard format."
-msgstr "असमर्थित क्लिपबोर्ड प्रारूप।"
-
-msgid "Failed to set clipboard data."
-msgstr "क्लिपबोर्ड डाटा को स्थापित करने में असफ़ल।"
-
 msgid "Failed to put data on the clipboard"
 msgstr "क्लिपबोर्ड पर डाटा डालने में असफ़ल"
 
@@ -7001,6 +6995,12 @@ msgstr "'%s' फ़ाइल से स्रोत संसाधनों को
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "'%s' का निष्कर्षण '%s' में असफ़ल रहा।"
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "असमर्थित क्लिपबोर्ड प्रारूप।"
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "क्लिपबोर्ड डाटा को स्थापित करने में असफ़ल।"
 
 #~ msgid "Printing "
 #~ msgstr "मुद्रण हो रहा है "

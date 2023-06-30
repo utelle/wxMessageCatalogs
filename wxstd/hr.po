@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
-"PO-Revision-Date: 2022-08-05 00:46+0200\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"PO-Revision-Date: 2023-05-14 14:24+0200\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: \n"
 "Language: hr\n"
@@ -855,29 +855,27 @@ msgid "&Save"
 msgstr "&Spremi"
 
 msgid "&Discard changes"
-msgstr ""
+msgstr "&Odbaci promjene"
 
-#, fuzzy
 msgid "Do&n't close"
-msgstr "Nemoj spremiti"
+msgstr "&Nemoj zatvoriti"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Do you want to save changes to %s before closing it?"
-msgstr "Želiš li spremiti promjene u %s?"
+msgstr "Želiš li spremiti promjene u %s prije zatvaranja?"
 
-#, fuzzy
 msgid "The document must be closed."
-msgstr "Nije bilo moguće spremiti tekst."
+msgstr "Dokument se mora zatvoriti."
 
 #, c-format
 msgid "Saving %s failed, would you like to retry?"
-msgstr ""
+msgstr "Spremanje %s nije uspjelo. Želiš li pokušati ponovo?"
 
 msgid "Retry"
-msgstr ""
+msgstr "Pokušaj ponovo"
 
 msgid "Discard changes"
-msgstr ""
+msgstr "Odbaci promjene"
 
 #, c-format
 msgid "File \"%s\" could not be opened for writing."
@@ -3849,7 +3847,7 @@ msgid "< &Back"
 msgstr "< &Natrag"
 
 msgid "translator-credits"
-msgstr "Milo Ivir <mail@milotype.de>, 2019., 2021."
+msgstr "Milo Ivir <mail@milotype.de>"
 
 msgid ""
 "WARNING: using XIM input method is unsupported and may result in problems "
@@ -3905,7 +3903,7 @@ msgid ""
 "work around this by setting environment variable GDK_BACKEND=x11 before\n"
 "starting your program."
 msgstr ""
-"Trenutačno se ne podržava wxGLCanvas na Waylandu i X11. Možda je moguće\n"
+"wxGLCanvas se trenutačno se ne podržava na Waylandu i X11. Možda je moguće\n"
 "zaobići taj problem postavljanjem varijable okruženja GDK_BACKEND=x11 prije\n"
 "pokretanja programa."
 
@@ -4250,12 +4248,6 @@ msgstr "Neuspjelo zatvaranje međuspremnika."
 
 msgid "Failed to empty the clipboard."
 msgstr "Neuspjelo pražnjenje međuspremnika."
-
-msgid "Unsupported clipboard format."
-msgstr "Nepodržani format međuspremnika."
-
-msgid "Failed to set clipboard data."
-msgstr "Neuspjelo postavljanje podataka međuspremnika."
 
 msgid "Failed to put data on the clipboard"
 msgstr "Neuspjelo spremanje podataka u međuspremnik"
@@ -4939,27 +4931,22 @@ msgstr "<Bilo koji strojopisni>"
 msgid "File type:"
 msgstr "Vrsta datoteke:"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Window"
-msgstr "Window"
+msgstr "Prozor"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Help"
 msgstr "Pomoć"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Minimize"
 msgstr "Smanji"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Zoom"
 msgstr "Zumiraj"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Bring All to Front"
 msgstr "Postavi sve naprijed"
@@ -6439,7 +6426,7 @@ msgid "&Size"
 msgstr "&Veličina"
 
 msgid "Mi&nimize"
-msgstr "Mi&nimiraj"
+msgstr "Sma&nji"
 
 msgid "Ma&ximize"
 msgstr "Ma&ksimiraj"
@@ -6711,6 +6698,12 @@ msgstr "Nije moguće učitati resurse iz datoteke „%s”."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Stvaranje %s „%s” nije uspjelo."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Nepodržani format međuspremnika."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Neuspjelo postavljanje podataka međuspremnika."
 
 #~ msgid "Printing "
 #~ msgstr "Ispisivanje "

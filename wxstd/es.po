@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2023-02-08 12:20+0100\n"
 "Last-Translator: Miguel Giménez <tecnico@solener.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4256,12 +4256,6 @@ msgstr "Error al cerrar el portapapeles."
 msgid "Failed to empty the clipboard."
 msgstr "Fallo al vaciar el portapapeles."
 
-msgid "Unsupported clipboard format."
-msgstr "Formato de portapapeles no admitido."
-
-msgid "Failed to set clipboard data."
-msgstr "Error al colocar datos en el portapapeles."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Falló la transferencia de datos al portapapeles"
 
@@ -6725,6 +6719,12 @@ msgstr "No se pueden cargar los recursos a partir del archivo «%s»."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Falló la creación de %s «%s»."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Formato de portapapeles no admitido."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Error al colocar datos en el portapapeles."
 
 #~ msgid "Printing "
 #~ msgstr "Imprimiendo "

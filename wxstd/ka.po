@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -4210,12 +4210,6 @@ msgstr "მიმოცვლის ბაფერის დახურვი�
 msgid "Failed to empty the clipboard."
 msgstr "მიმოცვლის ბაფერის გასუფთავების შეცდომა."
 
-msgid "Unsupported clipboard format."
-msgstr "მიმოცვლის ბაფერის არასწორი ფორმატი."
-
-msgid "Failed to set clipboard data."
-msgstr "მიმოცვლის ბაფერის დაყენების შეცდომა."
-
 msgid "Failed to put data on the clipboard"
 msgstr "მიმოცვლის ბაფერში მონაცემების ჩაწერის შეცდომა"
 
@@ -6626,6 +6620,12 @@ msgstr "'%s'-დან რესურსების ჩატვირთვ�
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "შექმნა %s \"%s\" შეცდომა."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "მიმოცვლის ბაფერის არასწორი ფორმატი."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "მიმოცვლის ბაფერის დაყენების შეცდომა."
 
 #~ msgid "Printing "
 #~ msgstr "დაბეჭდვა "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -4258,12 +4258,6 @@ msgstr "Zatvaranje privremene memorije nije uspelo."
 msgid "Failed to empty the clipboard."
 msgstr "Pražnjenje privremene memorije nije uspelo."
 
-msgid "Unsupported clipboard format."
-msgstr "Format privremene memorije nije podržan."
-
-msgid "Failed to set clipboard data."
-msgstr "Postavljanje podataka privremene memorije nije uspelo."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Stavljanje podataka u privremenu memoriju nije uspelo"
 
@@ -6718,6 +6712,12 @@ msgstr "Nemoguće učitati resurse iz datoteke '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Pravljenje %s \"%s\" nije uspelo."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Format privremene memorije nije podržan."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Postavljanje podataka privremene memorije nije uspelo."
 
 #~ msgid "Printing "
 #~ msgstr "Štampanje"

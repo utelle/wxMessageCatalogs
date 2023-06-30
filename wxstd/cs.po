@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2023-02-07 21:59+0100\n"
 "Last-Translator: PB <pbfordev@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4223,12 +4223,6 @@ msgstr "Nelze uzavřít schránku."
 msgid "Failed to empty the clipboard."
 msgstr "Nelze vyprázdnit schránku."
 
-msgid "Unsupported clipboard format."
-msgstr "Nepodporovaný formát obsahu schránky."
-
-msgid "Failed to set clipboard data."
-msgstr "Nelze uložit data do schránky."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Nelze vložit data do schránky"
 
@@ -6668,6 +6662,12 @@ msgstr "Nelze načíst zdroje ze souboru '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Vytvoření %s \"%s\" selhalo."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Nepodporovaný formát obsahu schránky."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Nelze uložit data do schránky."
 
 #~ msgid "Printing "
 #~ msgstr "Tisk "

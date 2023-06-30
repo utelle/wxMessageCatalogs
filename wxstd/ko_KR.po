@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2009-04-23 18:29+0900\n"
 "Last-Translator: 정성기 <dragoneyes.org@gmail.com>\n"
 "Language-Team: Korean <Korean>\n"
@@ -4339,12 +4339,6 @@ msgstr "클립보드를 닫는 데 실패했습니다."
 msgid "Failed to empty the clipboard."
 msgstr "클립보드를 비우는데 실패했습니다."
 
-msgid "Unsupported clipboard format."
-msgstr "클립보드를 지원하지 않습니다."
-
-msgid "Failed to set clipboard data."
-msgstr "클립보드 데이타 설정을 실패했습니다."
-
 msgid "Failed to put data on the clipboard"
 msgstr "클립보드에 데이타 추가 실패"
 
@@ -6940,6 +6934,12 @@ msgstr "'%s' 파일에서 리소스를 읽어올 수 없습니다."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "'%s' 의 추출('%s' 에서) 실패 했습니다."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "클립보드를 지원하지 않습니다."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "클립보드 데이타 설정을 실패했습니다."
 
 #~ msgid "Printing "
 #~ msgstr "인쇄중"

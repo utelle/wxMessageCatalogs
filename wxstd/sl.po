@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-06-19 13:07+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -5136,15 +5136,6 @@ msgstr "Zaprtje odložišča ni uspelo."
 msgid "Failed to empty the clipboard."
 msgstr "Izpraznitev odložišča ni uspela."
 
-# msw/clipbrd.cpp:268
-# msw/clipbrd.cpp:369
-msgid "Unsupported clipboard format."
-msgstr "Nepodprta oblika zapisa za odložišče."
-
-# msw/clipbrd.cpp:300
-msgid "Failed to set clipboard data."
-msgstr "Neuspešno določanje podatkov za odložišče."
-
 # msw/clipbrd.cpp:539
 msgid "Failed to put data on the clipboard"
 msgstr "Podatkov ni mogoče postaviti na odložišče."
@@ -7975,6 +7966,15 @@ msgstr "Ni mogoče naložiti virov iz datoteke »%s«."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Ustvarjanje %s »%s« ni uspelo."
+
+# msw/clipbrd.cpp:268
+# msw/clipbrd.cpp:369
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Nepodprta oblika zapisa za odložišče."
+
+# msw/clipbrd.cpp:300
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Neuspešno določanje podatkov za odložišče."
 
 # common/prntbase.cpp:106
 # common/prntbase.cpp:148

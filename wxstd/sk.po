@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2020-10-19 12:24+0200\n"
 "Last-Translator: Jozef Matta <jozef.m923@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -4250,12 +4250,6 @@ msgstr "Zlyhalo zatvorenie schránky."
 msgid "Failed to empty the clipboard."
 msgstr "Zlyhalo vyprázdnenie schránky."
 
-msgid "Unsupported clipboard format."
-msgstr "Nepodporovaný formát schránky."
-
-msgid "Failed to set clipboard data."
-msgstr "Zlyhalo nastavenie údajov do schránky."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Zlyhalo vloženie údajov do schránky"
 
@@ -6740,6 +6734,12 @@ msgstr "Nemožno načítať zdroje zo súboru '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Vytváranie %s '%s' zlyhalo."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Nepodporovaný formát schránky."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Zlyhalo nastavenie údajov do schránky."
 
 #~ msgid "Printing "
 #~ msgstr "Tlačí sa "

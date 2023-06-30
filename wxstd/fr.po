@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-04-10 12:52+0200\n"
 "Last-Translator: Gérard DURAND <gerard-florence.durand@orange.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -857,29 +857,27 @@ msgid "&Save"
 msgstr "&Enregistrer"
 
 msgid "&Discard changes"
-msgstr ""
+msgstr "&Ne pas enregistrer"
 
-#, fuzzy
 msgid "Do&n't close"
-msgstr "Ne pas enregistrer"
+msgstr "Ne p&as fermer"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Do you want to save changes to %s before closing it?"
-msgstr "Faut-il enregistrer les modifications vers %s ?"
+msgstr "Voulez-vous enregistrer les modifications vers %s ?"
 
-#, fuzzy
 msgid "The document must be closed."
-msgstr "Le texte n'a pas pu être enregistré."
+msgstr "Le document doit être fermé."
 
 #, c-format
 msgid "Saving %s failed, would you like to retry?"
-msgstr ""
+msgstr "L'enregistrement de %s a échoué, voulez-vous réessayer ?"
 
 msgid "Retry"
-msgstr ""
+msgstr "Réessayer"
 
 msgid "Discard changes"
-msgstr ""
+msgstr "Ne pas enregistrer"
 
 #, c-format
 msgid "File \"%s\" could not be opened for writing."
@@ -3006,9 +3004,8 @@ msgstr "Pas assez de place disque pour télécharger."
 msgid "libcurl could not be initialized"
 msgstr "libcurl n'a pas pu être initialisé"
 
-#, fuzzy
 msgid "RunScriptAsync not supported"
-msgstr "Conversion des chaînes non gérée"
+msgstr "RunScriptAsync non supporté"
 
 #, c-format
 msgid "Error running JavaScript: %s"
@@ -4279,12 +4276,6 @@ msgstr "Échec de la fermeture du presse-papiers."
 
 msgid "Failed to empty the clipboard."
 msgstr "Échec du vidage du presse-papiers."
-
-msgid "Unsupported clipboard format."
-msgstr "Format de presse-papiers non reconnu."
-
-msgid "Failed to set clipboard data."
-msgstr "Échec de la configuration des données du presse-papiers."
 
 msgid "Failed to put data on the clipboard"
 msgstr "Échec de l'ajout de données dans le presse-papiers"
@@ -6796,6 +6787,12 @@ msgstr "Impossible de charger les ressources du fichier « %s »."
 msgid "Creating %s \"%s\" failed."
 msgstr "Échec de la création de %s « %s »."
 
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Format de presse-papiers non reconnu."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Échec de la configuration des données du presse-papiers."
+
 #~ msgid "Printing "
 #~ msgstr "Impression en cours "
 
@@ -7439,13 +7436,11 @@ msgstr "Échec de la création de %s « %s »."
 #~ msgid "Print preview"
 #~ msgstr "Aperçu avant impression"
 
-#, fuzzy
 #~ msgid "&Preview..."
-#~ msgstr " Aperçu"
+#~ msgstr " Aperçu..."
 
-#, fuzzy
 #~ msgid "Preview..."
-#~ msgstr " Aperçu"
+#~ msgstr " Aperçu..."
 
 #, fuzzy
 #~ msgid "The vertical offset relative to the paragraph."

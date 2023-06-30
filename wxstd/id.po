@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2020-06-26 21:31+0700\n"
 "Last-Translator: Hertatijanto Hartono <dvertx@gmail.com>\n"
 "Language-Team: ID <doplank@gmx.com>\n"
@@ -4249,12 +4249,6 @@ msgstr "Gagal menutup clipboard."
 msgid "Failed to empty the clipboard."
 msgstr "Gagal mengosongkan clipboard."
 
-msgid "Unsupported clipboard format."
-msgstr "Format clipboard tidak didukung."
-
-msgid "Failed to set clipboard data."
-msgstr "Gagal menetapkan data clipboard."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Gagal menempatkan data pada clipboard"
 
@@ -6738,6 +6732,12 @@ msgstr "Gagal memuat sumber daya dari berkas '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Gagal membuat %s \"%s\"."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Format clipboard tidak didukung."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Gagal menetapkan data clipboard."
 
 #~ msgid "Printing "
 #~ msgstr "Mencetak "

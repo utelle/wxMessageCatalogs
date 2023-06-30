@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2011-03-02 18:30+0900\n"
 "Last-Translator: Suzumizaki-Kimitaka(鈴見咲君高) <suzumizaki@free."
 "japandesign.ne.jp>\n"
@@ -4339,12 +4339,6 @@ msgstr "クリップボードを閉じることができませんでした。"
 msgid "Failed to empty the clipboard."
 msgstr "クリップボードを空にできませんでした。"
 
-msgid "Unsupported clipboard format."
-msgstr "未対応のクリップボード様式です。"
-
-msgid "Failed to set clipboard data."
-msgstr "クリップボードデータを設定できませんでした。"
-
 msgid "Failed to put data on the clipboard"
 msgstr "データをクリップボードに置けませんでした。"
 
@@ -6926,6 +6920,12 @@ msgstr "ファイル '%s' からリソースを読み取れません。"
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "'%s' を '%s' に展開できませんでした。"
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "未対応のクリップボード様式です。"
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "クリップボードデータを設定できませんでした。"
 
 #~ msgid "Printing "
 #~ msgstr "印刷"

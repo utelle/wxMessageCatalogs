@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -4350,12 +4350,6 @@ msgstr "Falha ao fechar a área de transferência."
 msgid "Failed to empty the clipboard."
 msgstr "Falha a limpar a área de transferência."
 
-msgid "Unsupported clipboard format."
-msgstr "Formato da área de transferência não suportado."
-
-msgid "Failed to set clipboard data."
-msgstr "Falha ao definir dados da área de transferência."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Falha na inserção de dados na área de transferência"
 
@@ -6964,6 +6958,12 @@ msgstr "Não foi possível carregar recursos do ficheiro '%s'."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Falhou a extracção de '%s' para '%s'."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Formato da área de transferência não suportado."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Falha ao definir dados da área de transferência."
 
 #~ msgid "Printing "
 #~ msgstr "A Imprimir ..."

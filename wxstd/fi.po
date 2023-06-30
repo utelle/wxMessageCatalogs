@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -4366,12 +4366,6 @@ msgstr "Leikepöydän sulkeminen epäonnistui."
 msgid "Failed to empty the clipboard."
 msgstr "Leikepöydän tyhjennys epäonnistui."
 
-msgid "Unsupported clipboard format."
-msgstr "Leikepöydän muoto ei ole tuettu."
-
-msgid "Failed to set clipboard data."
-msgstr "Leikepöydän datan asetus epäonnistui."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Dataa ei voida siirtää leikepöydälle."
 
@@ -6960,6 +6954,12 @@ msgstr "Ei voi ladata resursseja tiedostosta ”%s”."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Ei voitu purkaa ”%s”:aa kohteeseen ”%s”."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Leikepöydän muoto ei ole tuettu."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Leikepöydän datan asetus epäonnistui."
 
 #~ msgid "Printing "
 #~ msgstr "Tulostetaan "

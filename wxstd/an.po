@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2014-04-13 17:41+0100\n"
 "Last-Translator: Jorge Pérez Pérez <jorgtum@gmail.com>\n"
 "Language-Team: softaragonés\n"
@@ -4329,12 +4329,6 @@ msgstr "S'ha produciu una error en zarrar o portafuellas."
 msgid "Failed to empty the clipboard."
 msgstr "S'ha produciu una error en vuedar o portafuellas."
 
-msgid "Unsupported clipboard format."
-msgstr "Formato de portafuellas no suportau."
-
-msgid "Failed to set clipboard data."
-msgstr "No s'ha puesto meter datos en o portafuellas."
-
 msgid "Failed to put data on the clipboard"
 msgstr "No s'ha puesto meter datos en o portafuellas"
 
@@ -6854,6 +6848,12 @@ msgstr "No se pueden cargar os recursos dende o fichero '%s'."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Ha fallau a extracción de '%s' en '%s'."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Formato de portafuellas no suportau."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "No s'ha puesto meter datos en o portafuellas."
 
 #~ msgid "Printing "
 #~ msgstr "Imprentando "

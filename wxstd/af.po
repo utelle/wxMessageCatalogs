@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2013-11-04 10:21+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -4324,12 +4324,6 @@ msgstr "Toemaak van knipbord het misluk."
 msgid "Failed to empty the clipboard."
 msgstr "Skoonmaak van knipbord het misluk."
 
-msgid "Unsupported clipboard format."
-msgstr "Nie-ondersteunde knipbord-formaat."
-
-msgid "Failed to set clipboard data."
-msgstr "Opstelling van knipborddata het misluk."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Stoor van data op knipbord het misluk"
 
@@ -6879,6 +6873,12 @@ msgstr "Kan hulpbronne nie uit lêer '%s' laai nie."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Uitpak van '%s' binne-in '%s' het misluk."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Nie-ondersteunde knipbord-formaat."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Opstelling van knipborddata het misluk."
 
 #~ msgid "Printing "
 #~ msgstr "Druk tans "

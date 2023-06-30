@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets in Corsican\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-05-13 19:16+0200\n"
 "Last-Translator: Patriccollu di Santa Maria è Sichè <https://github.com/"
 "Patriccollu/Lingua_Corsa-Infurmatica/#readme>\n"
@@ -4303,12 +4303,6 @@ msgstr "Fiascu à a chjusura di u preme’papei."
 msgid "Failed to empty the clipboard."
 msgstr "Fiascu à a viutatura di u preme’papei."
 
-msgid "Unsupported clipboard format."
-msgstr "Furmatu di preme’papei micca accettatu."
-
-msgid "Failed to set clipboard data."
-msgstr "Fiascu per definisce i dati di u preme’papei."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Fiascu à l’aghjuntu di dati in u preme’papei"
 
@@ -6825,6 +6819,12 @@ msgstr "Ùn si pò micca caricà e risorse da u schedariu « %s »."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Fiascu durante a creazione di %s « %s »."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Furmatu di preme’papei micca accettatu."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Fiascu per definisce i dati di u preme’papei."
 
 #~ msgid "Printing "
 #~ msgstr "Stampa "

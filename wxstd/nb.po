@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2015-10-27 22:33+0100\n"
 "Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -4409,12 +4409,6 @@ msgstr "Klarte ikke lukke utklippstavlen."
 msgid "Failed to empty the clipboard."
 msgstr "Klarte ikke tømme utklippstavlen."
 
-msgid "Unsupported clipboard format."
-msgstr "Ikke-støttet utklippstavleformat."
-
-msgid "Failed to set clipboard data."
-msgstr "Klarte ikke sette utklippstavledata."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Klarte ikke putte data på utklippstavlen."
 
@@ -7020,6 +7014,12 @@ msgstr "Klarte ikke laste ressurs fra filen «%s»."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Utpakking av «%s» inni «%s» feilet."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Ikke-støttet utklippstavleformat."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Klarte ikke sette utklippstavledata."
 
 #~ msgid "Printing "
 #~ msgstr "Skriver ut"

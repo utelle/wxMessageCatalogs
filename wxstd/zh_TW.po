@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -4209,12 +4209,6 @@ msgstr "無法關閉剪貼簿。"
 msgid "Failed to empty the clipboard."
 msgstr "無法清空剪貼簿。"
 
-msgid "Unsupported clipboard format."
-msgstr "不支援的剪貼簿格式。"
-
-msgid "Failed to set clipboard data."
-msgstr "無法設定剪貼簿資料。"
-
 msgid "Failed to put data on the clipboard"
 msgstr "無法存放資料到剪貼簿"
 
@@ -6645,6 +6639,12 @@ msgstr "無法從 '%s' 檔案載入資源。"
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "無法創建 %s “%s”。"
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "不支援的剪貼簿格式。"
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "無法設定剪貼簿資料。"
 
 #~ msgid "Printing "
 #~ msgstr "正在列印 "

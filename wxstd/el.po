@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -4449,12 +4449,6 @@ msgstr "Αποτυχία κλεισίματος του προχείρου(clipbo
 msgid "Failed to empty the clipboard."
 msgstr "Αποτυχία αδειάσματος του προχείρου (clipboard)."
 
-msgid "Unsupported clipboard format."
-msgstr "Δεν υποστηρίζεται ο τύπος προχείρου(clipboard format)."
-
-msgid "Failed to set clipboard data."
-msgstr "Αποτυχία θέσης δεδομένων προχείρου (clipboard)."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Αποτυχία τοποθέτησης δεδομένων στο πρόχειρο (clipboard)"
 
@@ -7193,6 +7187,12 @@ msgstr "Δεν είναι δυνατή η φόρτωση πόρων(resources) �
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Η εξαγωγή του '%s' στο '%s' απέτυχε"
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Δεν υποστηρίζεται ο τύπος προχείρου(clipboard format)."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Αποτυχία θέσης δεδομένων προχείρου (clipboard)."
 
 #~ msgid "Printing "
 #~ msgstr "Γίνεται εκτύπωση του "

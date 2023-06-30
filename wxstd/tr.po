@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-06-28 03:37+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -4235,12 +4235,6 @@ msgstr "Pano kapatılamadı."
 msgid "Failed to empty the clipboard."
 msgstr "Pano temizlenemedi."
 
-msgid "Unsupported clipboard format."
-msgstr "Pano biçimi desteklenmiyor."
-
-msgid "Failed to set clipboard data."
-msgstr "Pano verisi ayarlanamadı."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Veri panoya konulamadı"
 
@@ -6682,6 +6676,12 @@ msgstr "Kaynaklar '%s' dosyasından yüklenemedi."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "%s \"%s\" oluşturulamadı."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Pano biçimi desteklenmiyor."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Pano verisi ayarlanamadı."
 
 #~ msgid "Printing "
 #~ msgstr "Yazdırılıyor "

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2015-07-18 21:39+0200\n"
 "Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
 "Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
@@ -4254,12 +4254,6 @@ msgstr "Hutsegitea gakoa isterakoan."
 msgid "Failed to empty the clipboard."
 msgstr "Hutsegitea gakoa husterakoan."
 
-msgid "Unsupported clipboard format."
-msgstr "Gako heuskarri sostengatu gabea."
-
-msgid "Failed to set clipboard data."
-msgstr "Hutsegitea gako datua ezartzerakoan."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Hutsegitea datua gakoan jartzerakoan"
 
@@ -6746,6 +6740,12 @@ msgstr "Ezin dira gertatu baliabideak '%s' agiritik."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Hutsegitea %s \"%s\" sortzerakoan."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Gako heuskarri sostengatu gabea."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Hutsegitea gako datua ezartzerakoan."
 
 #~ msgid "Printing "
 #~ msgstr "Irarkitzen"

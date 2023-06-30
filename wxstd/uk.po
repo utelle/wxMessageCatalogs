@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -4262,12 +4262,6 @@ msgstr "Не вдалося закрити буфер обміну."
 msgid "Failed to empty the clipboard."
 msgstr "Не вдалося почистити clipboard."
 
-msgid "Unsupported clipboard format."
-msgstr "Непідтримуваний формат clipboard."
-
-msgid "Failed to set clipboard data."
-msgstr "Не вдалося встановити дані clipboard."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Не вдалося покласти дані в clipboard."
 
@@ -6732,6 +6726,12 @@ msgstr "Не вдалося завантажити ресурси з файла 
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Не вдалося створити %s «%s»."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Непідтримуваний формат clipboard."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Не вдалося встановити дані clipboard."
 
 #~ msgid "Printing "
 #~ msgstr "Друк"

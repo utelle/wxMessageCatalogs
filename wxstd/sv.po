@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2023-06-30 03:37+0000\n"
 "PO-Revision-Date: 2014-02-23 11:45+0100\n"
 "Last-Translator: Jonas Rydberg <jonas@drevo.se>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -4274,12 +4274,6 @@ msgstr "Kunde inte stänga urklippsbordet."
 msgid "Failed to empty the clipboard."
 msgstr "Kunde inte tömma urklippsbordet."
 
-msgid "Unsupported clipboard format."
-msgstr "Urklippsformatet stöds inte."
-
-msgid "Failed to set clipboard data."
-msgstr "Kunde inte sätta urklippsdata."
-
 msgid "Failed to put data on the clipboard"
 msgstr "Kunde inte skicka data till urklippsbordet"
 
@@ -6769,6 +6763,12 @@ msgstr "Kan inte läsa in resurser från fil \"%s\"."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Uppackning av \"%s\" till \"%s\" misslyckades."
+
+#~ msgid "Unsupported clipboard format."
+#~ msgstr "Urklippsformatet stöds inte."
+
+#~ msgid "Failed to set clipboard data."
+#~ msgstr "Kunde inte sätta urklippsdata."
 
 #~ msgid "Printing "
 #~ msgstr "Skriver ut "
