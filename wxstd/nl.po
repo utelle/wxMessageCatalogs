@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -4882,70 +4882,6 @@ msgstr "Kan het JavaScript-object niet ophalen"
 msgid "failed to evaluate"
 msgstr "evalueren mislukt"
 
-msgid "Background colour"
-msgstr "Achtergrondkleur"
-
-msgid "Font:"
-msgstr "Lettertype:"
-
-msgid "Size:"
-msgstr "Grootte:"
-
-msgid "The font size in points."
-msgstr "De lettertypegrootte in punten."
-
-msgid "Style:"
-msgstr "Stijl:"
-
-msgid "Check to make the font bold."
-msgstr "Aanvinken voor Vet Lettertype."
-
-msgid "Check to make the font italic."
-msgstr "Aanvinken voor Cursief Lettertype."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Onderstreept"
-
-msgid "Check to make the font underlined."
-msgstr "Aanvinken voor Onderstreept Lettertype."
-
-msgid "Colour:"
-msgstr "Kleur:"
-
-msgid "Click to change the font colour."
-msgstr "Klik voor het veranderen van lettertypekleur."
-
-msgid "Shows a preview of the font."
-msgstr "Toont een voorbeeld van het lettertype."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klik om lettertype veranderingen te annuleren."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klik voor bevestiging van lettertypeveranderingen."
-
-msgid "<Any>"
-msgstr "<Elke>"
-
-msgid "<Any Roman>"
-msgstr "<Elke Romaans>"
-
-msgid "<Any Decorative>"
-msgstr "<Elke Decoratief>"
-
-msgid "<Any Modern>"
-msgstr "<Elke Modern>"
-
-msgid "<Any Script>"
-msgstr "<Elke Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Elke Helvetica>"
-
-msgid "<Any Teletype>"
-msgstr "<Elke Teletype>"
-
 msgid "File type:"
 msgstr "Bestandstype:"
 
@@ -5056,6 +4992,10 @@ msgstr "Stijl"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Gewicht"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Onderstreept"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6757,6 +6697,66 @@ msgstr "Aanmaken van '%s' in '%s' mislukte."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Instellen van klembordgegevens mislukt."
+
+#~ msgid "Background colour"
+#~ msgstr "Achtergrondkleur"
+
+#~ msgid "Font:"
+#~ msgstr "Lettertype:"
+
+#~ msgid "Size:"
+#~ msgstr "Grootte:"
+
+#~ msgid "The font size in points."
+#~ msgstr "De lettertypegrootte in punten."
+
+#~ msgid "Style:"
+#~ msgstr "Stijl:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Aanvinken voor Vet Lettertype."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Aanvinken voor Cursief Lettertype."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Aanvinken voor Onderstreept Lettertype."
+
+#~ msgid "Colour:"
+#~ msgstr "Kleur:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klik voor het veranderen van lettertypekleur."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Toont een voorbeeld van het lettertype."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klik om lettertype veranderingen te annuleren."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klik voor bevestiging van lettertypeveranderingen."
+
+#~ msgid "<Any>"
+#~ msgstr "<Elke>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Elke Romaans>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Elke Decoratief>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Elke Modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Elke Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Elke Helvetica>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Elke Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "Bezig met afdrukken "

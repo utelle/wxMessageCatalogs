@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -4907,70 +4907,6 @@ msgstr "Không thể đặt mức ưu tiên tuyến trình"
 msgid "failed to evaluate"
 msgstr "Thực thi '%s' gặp lỗi\n"
 
-msgid "Background colour"
-msgstr "Màu nền"
-
-msgid "Font:"
-msgstr "Phông chữ:"
-
-msgid "Size:"
-msgstr "Kích thước:"
-
-msgid "The font size in points."
-msgstr "Cỡ phông chữ theo đơn vị point."
-
-msgid "Style:"
-msgstr "Kiểu dáng"
-
-msgid "Check to make the font bold."
-msgstr "Đánh đấu kiểm để làm cho phông chữ đậm."
-
-msgid "Check to make the font italic."
-msgstr "Đánh đấu kiểm để làm cho phông chữ nghiêng."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Bị gạch dưới"
-
-msgid "Check to make the font underlined."
-msgstr "Đánh đấu kiểm để làm cho phông chữ có gạch chân."
-
-msgid "Colour:"
-msgstr "Màu sắc:"
-
-msgid "Click to change the font colour."
-msgstr "Bấm vào để thay đổi màu sắc phông chữ."
-
-msgid "Shows a preview of the font."
-msgstr "Xem thử phông chữ."
-
-msgid "Click to cancel changes to the font."
-msgstr "Bấm vào để hủy thay đổi phông chữ."
-
-msgid "Click to confirm changes to the font."
-msgstr "Bấm vào để xác nhận thay đổi phông chữ."
-
-msgid "<Any>"
-msgstr "<Bất kỳ>"
-
-msgid "<Any Roman>"
-msgstr "<Dạng La Mã bất kỳ>"
-
-msgid "<Any Decorative>"
-msgstr "<Dạng Chữ Trang Trí bất kỳ>"
-
-msgid "<Any Modern>"
-msgstr "<Dạng Hiện Đại bất kỳ >"
-
-msgid "<Any Script>"
-msgstr "<Dạng Script bất kỳ>"
-
-msgid "<Any Swiss>"
-msgstr "<Dạng Thụy Sỹ bất kỳ>"
-
-msgid "<Any Teletype>"
-msgstr "<Dạng Teletype bất kỳ>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Dạng Teletype"
@@ -5081,6 +5017,10 @@ msgstr "Kiểu dáng"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Độ rộng"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Bị gạch dưới"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6793,6 +6733,66 @@ msgstr "Rút trích '%s' vào '%s' gặp lỗi."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Đặt dữ liệu clipboard gặp lỗi."
+
+#~ msgid "Background colour"
+#~ msgstr "Màu nền"
+
+#~ msgid "Font:"
+#~ msgstr "Phông chữ:"
+
+#~ msgid "Size:"
+#~ msgstr "Kích thước:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Cỡ phông chữ theo đơn vị point."
+
+#~ msgid "Style:"
+#~ msgstr "Kiểu dáng"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Đánh đấu kiểm để làm cho phông chữ đậm."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Đánh đấu kiểm để làm cho phông chữ nghiêng."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Đánh đấu kiểm để làm cho phông chữ có gạch chân."
+
+#~ msgid "Colour:"
+#~ msgstr "Màu sắc:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Bấm vào để thay đổi màu sắc phông chữ."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Xem thử phông chữ."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Bấm vào để hủy thay đổi phông chữ."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Bấm vào để xác nhận thay đổi phông chữ."
+
+#~ msgid "<Any>"
+#~ msgstr "<Bất kỳ>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Dạng La Mã bất kỳ>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Dạng Chữ Trang Trí bất kỳ>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Dạng Hiện Đại bất kỳ >"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Dạng Script bất kỳ>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Dạng Thụy Sỹ bất kỳ>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Dạng Teletype bất kỳ>"
 
 #~ msgid "Printing "
 #~ msgstr "Đang in "

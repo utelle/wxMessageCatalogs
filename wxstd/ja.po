@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2011-03-02 18:30+0900\n"
 "Last-Translator: Suzumizaki-Kimitaka(鈴見咲君高) <suzumizaki@free."
 "japandesign.ne.jp>\n"
@@ -4956,70 +4956,6 @@ msgstr "スレッド優先度を設定できません"
 msgid "failed to evaluate"
 msgstr "'%s' の実行に失敗しました\n"
 
-msgid "Background colour"
-msgstr "背景色"
-
-msgid "Font:"
-msgstr "フォント:"
-
-msgid "Size:"
-msgstr "大きさ:"
-
-msgid "The font size in points."
-msgstr "フォントの大きさをポイントで記します。"
-
-msgid "Style:"
-msgstr "スタイル:"
-
-msgid "Check to make the font bold."
-msgstr "フォントを太字にするときにチェックしてください｡"
-
-msgid "Check to make the font italic."
-msgstr "フォントをイタリックにするときにチェックしてください。"
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "下線付き"
-
-msgid "Check to make the font underlined."
-msgstr "フォントに下線を付けるときにチェックしてください。"
-
-msgid "Colour:"
-msgstr "色:"
-
-msgid "Click to change the font colour."
-msgstr "クリックでフォントの色を変更します。"
-
-msgid "Shows a preview of the font."
-msgstr "フォントのプレビューを表示します。"
-
-msgid "Click to cancel changes to the font."
-msgstr "クリックでフォントの変更をキャンセルします。"
-
-msgid "Click to confirm changes to the font."
-msgstr "クリックでフォントの変更を確定します。"
-
-msgid "<Any>"
-msgstr "<いずれか>"
-
-msgid "<Any Roman>"
-msgstr "<Romanのいずれか>"
-
-msgid "<Any Decorative>"
-msgstr "<Decorativeのいずれか>"
-
-msgid "<Any Modern>"
-msgstr "<Modernのいずれか>"
-
-msgid "<Any Script>"
-msgstr "<Scriptのいずれか>"
-
-msgid "<Any Swiss>"
-msgstr "<Swissのいずれか>"
-
-msgid "<Any Teletype>"
-msgstr "<Teletypeのいずれか>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5133,6 +5069,10 @@ msgstr "スタイル"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "ウエイト"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "下線付き"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6926,6 +6866,66 @@ msgstr "'%s' を '%s' に展開できませんでした。"
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "クリップボードデータを設定できませんでした。"
+
+#~ msgid "Background colour"
+#~ msgstr "背景色"
+
+#~ msgid "Font:"
+#~ msgstr "フォント:"
+
+#~ msgid "Size:"
+#~ msgstr "大きさ:"
+
+#~ msgid "The font size in points."
+#~ msgstr "フォントの大きさをポイントで記します。"
+
+#~ msgid "Style:"
+#~ msgstr "スタイル:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "フォントを太字にするときにチェックしてください｡"
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "フォントをイタリックにするときにチェックしてください。"
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "フォントに下線を付けるときにチェックしてください。"
+
+#~ msgid "Colour:"
+#~ msgstr "色:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "クリックでフォントの色を変更します。"
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "フォントのプレビューを表示します。"
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "クリックでフォントの変更をキャンセルします。"
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "クリックでフォントの変更を確定します。"
+
+#~ msgid "<Any>"
+#~ msgstr "<いずれか>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Romanのいずれか>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Decorativeのいずれか>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Modernのいずれか>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Scriptのいずれか>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Swissのいずれか>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Teletypeのいずれか>"
 
 #~ msgid "Printing "
 #~ msgstr "印刷"

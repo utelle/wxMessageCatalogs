@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-07-03 20:43+0200\n"
 "Last-Translator: Andriy Byelikov\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -4910,70 +4910,6 @@ msgstr "No es pot obtenir l'objecte de JavaScript"
 msgid "failed to evaluate"
 msgstr "no s'ha pogut evaluar"
 
-msgid "Background colour"
-msgstr "Color de fons"
-
-msgid "Font:"
-msgstr "Tipus de lletra:"
-
-msgid "Size:"
-msgstr "Mida:"
-
-msgid "The font size in points."
-msgstr "La mida del tipus de lletra en punts."
-
-msgid "Style:"
-msgstr "Estil:"
-
-msgid "Check to make the font bold."
-msgstr "Marqueu-ho per a fer que la lletra sigui negreta."
-
-msgid "Check to make the font italic."
-msgstr "Marqueu-ho per a fer que la lletra sigui cursiva."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Subratllat"
-
-msgid "Check to make the font underlined."
-msgstr "Marqueu-ho per a fer que la lletra sigui subratllada."
-
-msgid "Colour:"
-msgstr "Color:"
-
-msgid "Click to change the font colour."
-msgstr "Feu clic per a canviar el color de la lletra."
-
-msgid "Shows a preview of the font."
-msgstr "Mostra una previsualització del tipus de lletra."
-
-msgid "Click to cancel changes to the font."
-msgstr "Feu clic per a cancel·lar els canvis al tipus de lletra."
-
-msgid "Click to confirm changes to the font."
-msgstr "Feu clic per a confirmar els canvis al tipus de lletra."
-
-msgid "<Any>"
-msgstr "<Qualsevol>"
-
-msgid "<Any Roman>"
-msgstr "<Qualsevol Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Qualsevol decoratiu>"
-
-msgid "<Any Modern>"
-msgstr "<Qualsevol modern>"
-
-msgid "<Any Script>"
-msgstr "<Qualsevol Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Qualsevol Suís>"
-
-msgid "<Any Teletype>"
-msgstr "<Qualsevol Teletip>"
-
 msgid "File type:"
 msgstr "Tipus de fitxer:"
 
@@ -5082,6 +5018,10 @@ msgstr "Estil"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Pes"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Subratllat"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6761,6 +6701,66 @@ msgstr "No s'ha pogut crear %s \"%s\"."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "No s'han pogut definir les dades del porta-retalls."
+
+#~ msgid "Background colour"
+#~ msgstr "Color de fons"
+
+#~ msgid "Font:"
+#~ msgstr "Tipus de lletra:"
+
+#~ msgid "Size:"
+#~ msgstr "Mida:"
+
+#~ msgid "The font size in points."
+#~ msgstr "La mida del tipus de lletra en punts."
+
+#~ msgid "Style:"
+#~ msgstr "Estil:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Marqueu-ho per a fer que la lletra sigui negreta."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Marqueu-ho per a fer que la lletra sigui cursiva."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Marqueu-ho per a fer que la lletra sigui subratllada."
+
+#~ msgid "Colour:"
+#~ msgstr "Color:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Feu clic per a canviar el color de la lletra."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Mostra una previsualització del tipus de lletra."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Feu clic per a cancel·lar els canvis al tipus de lletra."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Feu clic per a confirmar els canvis al tipus de lletra."
+
+#~ msgid "<Any>"
+#~ msgstr "<Qualsevol>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Qualsevol Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Qualsevol decoratiu>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Qualsevol modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Qualsevol Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Qualsevol Suís>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Qualsevol Teletip>"
 
 #~ msgid "Printing "
 #~ msgstr "S'està imprimint "

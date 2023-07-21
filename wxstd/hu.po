@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2009-07-26 20:12+0100\n"
 "Last-Translator: Oaron <oaron1@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -5023,88 +5023,6 @@ msgstr "Nem tudom a szál prioritását beállítani"
 msgid "failed to evaluate"
 msgstr "Nem sikerült végrehajtani '%s'-t\n"
 
-msgid "Background colour"
-msgstr ""
-
-#, fuzzy
-msgid "Font:"
-msgstr "Jelkészlet mérete:"
-
-#, fuzzy
-msgid "Size:"
-msgstr "Méret"
-
-#, fuzzy
-msgid "The font size in points."
-msgstr "A jelkészlet mérete."
-
-#, fuzzy
-msgid "Style:"
-msgstr "&Stílus:"
-
-#, fuzzy
-msgid "Check to make the font bold."
-msgstr "Kattints ide a betűtípus választás törléséhez"
-
-#, fuzzy
-msgid "Check to make the font italic."
-msgstr "Kattints ide a betűtípus választás törléséhez"
-
-#. TRANSLATORS: Label of underlined font
-#, fuzzy
-msgid "Underlined"
-msgstr "Alá&húzás"
-
-#, fuzzy
-msgid "Check to make the font underlined."
-msgstr "Hogy aláhúzza-e a betűket."
-
-#, fuzzy
-msgid "Colour:"
-msgstr "S&zín"
-
-#, fuzzy
-msgid "Click to change the font colour."
-msgstr "Kattints ide a betűtípus választás törléséhez"
-
-msgid "Shows a preview of the font."
-msgstr ""
-
-#, fuzzy
-msgid "Click to cancel changes to the font."
-msgstr "Kattints ide a betűtípus választás törléséhez"
-
-#, fuzzy
-msgid "Click to confirm changes to the font."
-msgstr "Kattints ide a betűtípus választás megerősítéséhez"
-
-msgid "<Any>"
-msgstr ""
-
-#, fuzzy
-msgid "<Any Roman>"
-msgstr "Roman"
-
-#, fuzzy
-msgid "<Any Decorative>"
-msgstr "Dekoratív"
-
-#, fuzzy
-msgid "<Any Modern>"
-msgstr "Modern"
-
-#, fuzzy
-msgid "<Any Script>"
-msgstr "Script"
-
-#, fuzzy
-msgid "<Any Swiss>"
-msgstr "Svájci"
-
-#, fuzzy
-msgid "<Any Teletype>"
-msgstr "Teletype"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5222,6 +5140,11 @@ msgstr "&Stílus:"
 #, fuzzy
 msgid "Weight"
 msgstr "Hang&súly:"
+
+#. TRANSLATORS: Label of underlined font
+#, fuzzy
+msgid "Underlined"
+msgstr "Alá&húzás"
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -7079,6 +7002,74 @@ msgstr "Nem sikerült kifejteni  '%s'-t '%s'-be"
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Nem tudtam a vágólap adatot beállítani."
+
+#, fuzzy
+#~ msgid "Font:"
+#~ msgstr "Jelkészlet mérete:"
+
+#, fuzzy
+#~ msgid "Size:"
+#~ msgstr "Méret"
+
+#, fuzzy
+#~ msgid "The font size in points."
+#~ msgstr "A jelkészlet mérete."
+
+#, fuzzy
+#~ msgid "Style:"
+#~ msgstr "&Stílus:"
+
+#, fuzzy
+#~ msgid "Check to make the font bold."
+#~ msgstr "Kattints ide a betűtípus választás törléséhez"
+
+#, fuzzy
+#~ msgid "Check to make the font italic."
+#~ msgstr "Kattints ide a betűtípus választás törléséhez"
+
+#, fuzzy
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Hogy aláhúzza-e a betűket."
+
+#, fuzzy
+#~ msgid "Colour:"
+#~ msgstr "S&zín"
+
+#, fuzzy
+#~ msgid "Click to change the font colour."
+#~ msgstr "Kattints ide a betűtípus választás törléséhez"
+
+#, fuzzy
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Kattints ide a betűtípus választás törléséhez"
+
+#, fuzzy
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Kattints ide a betűtípus választás megerősítéséhez"
+
+#, fuzzy
+#~ msgid "<Any Roman>"
+#~ msgstr "Roman"
+
+#, fuzzy
+#~ msgid "<Any Decorative>"
+#~ msgstr "Dekoratív"
+
+#, fuzzy
+#~ msgid "<Any Modern>"
+#~ msgstr "Modern"
+
+#, fuzzy
+#~ msgid "<Any Script>"
+#~ msgstr "Script"
+
+#, fuzzy
+#~ msgid "<Any Swiss>"
+#~ msgstr "Svájci"
+
+#, fuzzy
+#~ msgid "<Any Teletype>"
+#~ msgstr "Teletype"
 
 #~ msgid "Printing "
 #~ msgstr "Nyomtatás"

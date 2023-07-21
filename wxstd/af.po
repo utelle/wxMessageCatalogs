@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2013-11-04 10:21+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -4943,76 +4943,6 @@ msgstr "Kan thread-prioriteit nie instellen"
 msgid "failed to evaluate"
 msgstr "Uitvoering van '%s' het misluk\n"
 
-msgid "Background colour"
-msgstr "Agtergrondkleur"
-
-msgid "Font:"
-msgstr "Lettertipe:"
-
-msgid "Size:"
-msgstr "Grootte:"
-
-msgid "The font size in points."
-msgstr "Lettergrootte in punte."
-
-msgid "Style:"
-msgstr "Styl:"
-
-msgid "Check to make the font bold."
-msgstr "Merk om die lettertipe vet te maak."
-
-msgid "Check to make the font italic."
-msgstr "Merk om die lettertipe kursief te maak."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Onderstreep"
-
-msgid "Check to make the font underlined."
-msgstr "Merk om die lettertipe te onderstreep."
-
-msgid "Colour:"
-msgstr "Kleur:"
-
-msgid "Click to change the font colour."
-msgstr "Klik om die tekskleur te verander."
-
-msgid "Shows a preview of the font."
-msgstr "Wys 'n voorskou van die lettertipe."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klik om veranderinge aan die lettertipe te kanselleer."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klik om veranderinge aan die lettertipe te bevestig."
-
-msgid "<Any>"
-msgstr "<Enige>"
-
-#, fuzzy
-msgid "<Any Roman>"
-msgstr "Roman"
-
-#, fuzzy
-msgid "<Any Decorative>"
-msgstr "Dekoratief"
-
-#, fuzzy
-msgid "<Any Modern>"
-msgstr "Modern"
-
-#, fuzzy
-msgid "<Any Script>"
-msgstr "Skrif-letter"
-
-#, fuzzy
-msgid "<Any Swiss>"
-msgstr "Switsers"
-
-#, fuzzy
-msgid "<Any Teletype>"
-msgstr "<Enige teletipe>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Nie-proporsioneel (Teletype)"
@@ -5126,6 +5056,10 @@ msgstr "Styl"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Gewig"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Onderstreep"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6879,6 +6813,72 @@ msgstr "Uitpak van '%s' binne-in '%s' het misluk."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Opstelling van knipborddata het misluk."
+
+#~ msgid "Background colour"
+#~ msgstr "Agtergrondkleur"
+
+#~ msgid "Font:"
+#~ msgstr "Lettertipe:"
+
+#~ msgid "Size:"
+#~ msgstr "Grootte:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Lettergrootte in punte."
+
+#~ msgid "Style:"
+#~ msgstr "Styl:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Merk om die lettertipe vet te maak."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Merk om die lettertipe kursief te maak."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Merk om die lettertipe te onderstreep."
+
+#~ msgid "Colour:"
+#~ msgstr "Kleur:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klik om die tekskleur te verander."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Wys 'n voorskou van die lettertipe."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klik om veranderinge aan die lettertipe te kanselleer."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klik om veranderinge aan die lettertipe te bevestig."
+
+#~ msgid "<Any>"
+#~ msgstr "<Enige>"
+
+#, fuzzy
+#~ msgid "<Any Roman>"
+#~ msgstr "Roman"
+
+#, fuzzy
+#~ msgid "<Any Decorative>"
+#~ msgstr "Dekoratief"
+
+#, fuzzy
+#~ msgid "<Any Modern>"
+#~ msgstr "Modern"
+
+#, fuzzy
+#~ msgid "<Any Script>"
+#~ msgstr "Skrif-letter"
+
+#, fuzzy
+#~ msgid "<Any Swiss>"
+#~ msgstr "Switsers"
+
+#, fuzzy
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Enige teletipe>"
 
 #~ msgid "Printing "
 #~ msgstr "Druk tans "

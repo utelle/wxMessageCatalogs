@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2009-04-23 18:29+0900\n"
 "Last-Translator: 정성기 <dragoneyes.org@gmail.com>\n"
 "Language-Team: Korean <Korean>\n"
@@ -4950,70 +4950,6 @@ msgstr "쓰레드 우선 순위를 설정할 수 없습니다."
 msgid "failed to evaluate"
 msgstr "'%s' 실행을 실패했습니다.\n"
 
-msgid "Background colour"
-msgstr "배경 색"
-
-msgid "Font:"
-msgstr "글꼴:"
-
-msgid "Size:"
-msgstr "크기:"
-
-msgid "The font size in points."
-msgstr "포인트로 나타낸 글꼴 크기"
-
-msgid "Style:"
-msgstr "모양새:"
-
-msgid "Check to make the font bold."
-msgstr "글꼴을 굵게"
-
-msgid "Check to make the font italic."
-msgstr "글꼴을 기울임"
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "밑줄"
-
-msgid "Check to make the font underlined."
-msgstr "글꼴에 밑줄을 추가."
-
-msgid "Colour:"
-msgstr "색상:"
-
-msgid "Click to change the font colour."
-msgstr "글꼴의 색상을 변경 하려면 여기를 누르십시오."
-
-msgid "Shows a preview of the font."
-msgstr "글꼴 미리보기"
-
-msgid "Click to cancel changes to the font."
-msgstr "글꼴 변경을 취소하려면 여기를 누르십시오."
-
-msgid "Click to confirm changes to the font."
-msgstr "글꼴을 변경 적용하려면 여기를 누르십시오."
-
-msgid "<Any>"
-msgstr ""
-
-msgid "<Any Roman>"
-msgstr ""
-
-msgid "<Any Decorative>"
-msgstr ""
-
-msgid "<Any Modern>"
-msgstr ""
-
-msgid "<Any Script>"
-msgstr ""
-
-msgid "<Any Swiss>"
-msgstr ""
-
-msgid "<Any Teletype>"
-msgstr ""
-
 #, fuzzy
 msgid "File type:"
 msgstr "파일 오류"
@@ -5130,6 +5066,10 @@ msgstr "모양새"
 #, fuzzy
 msgid "Weight"
 msgstr "두께(&W):"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "밑줄"
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -6940,6 +6880,45 @@ msgstr "'%s' 의 추출('%s' 에서) 실패 했습니다."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "클립보드 데이타 설정을 실패했습니다."
+
+#~ msgid "Background colour"
+#~ msgstr "배경 색"
+
+#~ msgid "Font:"
+#~ msgstr "글꼴:"
+
+#~ msgid "Size:"
+#~ msgstr "크기:"
+
+#~ msgid "The font size in points."
+#~ msgstr "포인트로 나타낸 글꼴 크기"
+
+#~ msgid "Style:"
+#~ msgstr "모양새:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "글꼴을 굵게"
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "글꼴을 기울임"
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "글꼴에 밑줄을 추가."
+
+#~ msgid "Colour:"
+#~ msgstr "색상:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "글꼴의 색상을 변경 하려면 여기를 누르십시오."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "글꼴 미리보기"
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "글꼴 변경을 취소하려면 여기를 누르십시오."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "글꼴을 변경 적용하려면 여기를 누르십시오."
 
 #~ msgid "Printing "
 #~ msgstr "인쇄중"

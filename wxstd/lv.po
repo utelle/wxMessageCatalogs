@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2013-01-23 13:14+0300\n"
 "Last-Translator: Jānis Eisaks <jancs@dv.lv>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4881,70 +4881,6 @@ msgstr "Nav iespējams uzstādīt pavediena prioritāti"
 msgid "failed to evaluate"
 msgstr "Neizdevās izpildīt '%s'\n"
 
-msgid "Background colour"
-msgstr "Fona krāsa"
-
-msgid "Font:"
-msgstr "Fonts:"
-
-msgid "Size:"
-msgstr "Izmērs:"
-
-msgid "The font size in points."
-msgstr "Fonta izmērs punktos"
-
-msgid "Style:"
-msgstr "Stils:"
-
-msgid "Check to make the font bold."
-msgstr "Atzīmējiet, lai iegūtu fontu treknrakstā."
-
-msgid "Check to make the font italic."
-msgstr "Atzīmējiet, lai iegūtu fontu kursīvā."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Pasvītrots"
-
-msgid "Check to make the font underlined."
-msgstr "Atzīmējiet, lai iegūtu fontu ar pasvītrojumu."
-
-msgid "Colour:"
-msgstr "Krāsa:"
-
-msgid "Click to change the font colour."
-msgstr "Nospiediet, lai mainītu fonta krāsu."
-
-msgid "Shows a preview of the font."
-msgstr "Rāda fonta priekšskatījumu."
-
-msgid "Click to cancel changes to the font."
-msgstr "Nospiediet, lai atceltu fonta izmaiņas."
-
-msgid "Click to confirm changes to the font."
-msgstr "Nospiediet, lai apstiprinātu fonta izmaiņas."
-
-msgid "<Any>"
-msgstr "<Jebkurš>"
-
-msgid "<Any Roman>"
-msgstr "<Jebkurš romāņu>"
-
-msgid "<Any Decorative>"
-msgstr "<Jebkurš dekoratīvais>"
-
-msgid "<Any Modern>"
-msgstr "<Jebkurš modernais>"
-
-msgid "<Any Script>"
-msgstr "<Jebkurš rokraksta>"
-
-msgid "<Any Swiss>"
-msgstr "<Jebkurš Šveices>"
-
-msgid "<Any Teletype>"
-msgstr "<Jebkurš teletaipa>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletaips"
@@ -5056,6 +4992,10 @@ msgstr "Stils"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Svars"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Pasvītrots"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6788,6 +6728,66 @@ msgstr "Neizdevās izveidot hronometru"
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Neizdevās iestatīt starpliktuves datus."
+
+#~ msgid "Background colour"
+#~ msgstr "Fona krāsa"
+
+#~ msgid "Font:"
+#~ msgstr "Fonts:"
+
+#~ msgid "Size:"
+#~ msgstr "Izmērs:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Fonta izmērs punktos"
+
+#~ msgid "Style:"
+#~ msgstr "Stils:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Atzīmējiet, lai iegūtu fontu treknrakstā."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Atzīmējiet, lai iegūtu fontu kursīvā."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Atzīmējiet, lai iegūtu fontu ar pasvītrojumu."
+
+#~ msgid "Colour:"
+#~ msgstr "Krāsa:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Nospiediet, lai mainītu fonta krāsu."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Rāda fonta priekšskatījumu."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Nospiediet, lai atceltu fonta izmaiņas."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Nospiediet, lai apstiprinātu fonta izmaiņas."
+
+#~ msgid "<Any>"
+#~ msgstr "<Jebkurš>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Jebkurš romāņu>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Jebkurš dekoratīvais>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Jebkurš modernais>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Jebkurš rokraksta>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Jebkurš Šveices>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Jebkurš teletaipa>"
 
 #~ msgid "Printing "
 #~ msgstr "Drukāšana"

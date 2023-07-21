@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -4810,70 +4810,6 @@ msgstr "無法取得 JavaScript 物件"
 msgid "failed to evaluate"
 msgstr "無法評估"
 
-msgid "Background colour"
-msgstr "背景顏色"
-
-msgid "Font:"
-msgstr "字型："
-
-msgid "Size:"
-msgstr "大小："
-
-msgid "The font size in points."
-msgstr "字型大小以點計。"
-
-msgid "Style:"
-msgstr "樣式："
-
-msgid "Check to make the font bold."
-msgstr "勾選後可設定為粗體。"
-
-msgid "Check to make the font italic."
-msgstr "勾選後可設定為斜體。"
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "加底線"
-
-msgid "Check to make the font underlined."
-msgstr "勾選後可將字加底線。"
-
-msgid "Colour:"
-msgstr "顏色："
-
-msgid "Click to change the font colour."
-msgstr "點擊變更字型顏色。"
-
-msgid "Shows a preview of the font."
-msgstr "預覽字型。"
-
-msgid "Click to cancel changes to the font."
-msgstr "點擊取消字型變更。"
-
-msgid "Click to confirm changes to the font."
-msgstr "點擊確認字型變更。"
-
-msgid "<Any>"
-msgstr "<任何字體>"
-
-msgid "<Any Roman>"
-msgstr "<任何羅馬字體>"
-
-msgid "<Any Decorative>"
-msgstr "<任何修飾字體>"
-
-msgid "<Any Modern>"
-msgstr "<任何現代字體>"
-
-msgid "<Any Script>"
-msgstr "<任何手寫字體>"
-
-msgid "<Any Swiss>"
-msgstr "<任何瑞士字體>"
-
-msgid "<Any Teletype>"
-msgstr "<任何打字字體>"
-
 msgid "File type:"
 msgstr "檔案類型："
 
@@ -4980,6 +4916,10 @@ msgstr "樣式"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "粗細"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "加底線"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6645,6 +6585,66 @@ msgstr "無法創建 %s “%s”。"
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "無法設定剪貼簿資料。"
+
+#~ msgid "Background colour"
+#~ msgstr "背景顏色"
+
+#~ msgid "Font:"
+#~ msgstr "字型："
+
+#~ msgid "Size:"
+#~ msgstr "大小："
+
+#~ msgid "The font size in points."
+#~ msgstr "字型大小以點計。"
+
+#~ msgid "Style:"
+#~ msgstr "樣式："
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "勾選後可設定為粗體。"
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "勾選後可設定為斜體。"
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "勾選後可將字加底線。"
+
+#~ msgid "Colour:"
+#~ msgstr "顏色："
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "點擊變更字型顏色。"
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "預覽字型。"
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "點擊取消字型變更。"
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "點擊確認字型變更。"
+
+#~ msgid "<Any>"
+#~ msgstr "<任何字體>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<任何羅馬字體>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<任何修飾字體>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<任何現代字體>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<任何手寫字體>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<任何瑞士字體>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<任何打字字體>"
 
 #~ msgid "Printing "
 #~ msgstr "正在列印 "

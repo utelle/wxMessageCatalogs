@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -5014,70 +5014,6 @@ msgstr "थ्रेड की वरीयता की स्थापना �
 msgid "failed to evaluate"
 msgstr "'%s' का निष्पादन करने में असफ़ल\n"
 
-msgid "Background colour"
-msgstr "पृष्टभूमि रंग"
-
-msgid "Font:"
-msgstr "फ़ॉन्ट:"
-
-msgid "Size:"
-msgstr "आकार:"
-
-msgid "The font size in points."
-msgstr "फ़ॉन्ट का आकार बिंदुओं में।"
-
-msgid "Style:"
-msgstr "शैली:"
-
-msgid "Check to make the font bold."
-msgstr ""
-
-msgid "Check to make the font italic."
-msgstr ""
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "रेखांकित"
-
-msgid "Check to make the font underlined."
-msgstr ""
-
-msgid "Colour:"
-msgstr "रंग:"
-
-msgid "Click to change the font colour."
-msgstr ""
-
-msgid "Shows a preview of the font."
-msgstr "फ़ॉन्ट का पूर्वालोकन दिखाएँ।"
-
-msgid "Click to cancel changes to the font."
-msgstr ""
-
-msgid "Click to confirm changes to the font."
-msgstr ""
-
-msgid "<Any>"
-msgstr "<कोई भी>"
-
-msgid "<Any Roman>"
-msgstr "<कोई रोमन>"
-
-msgid "<Any Decorative>"
-msgstr "<कोई साज-सजावट>"
-
-msgid "<Any Modern>"
-msgstr "<कोई आधुनिक>"
-
-msgid "<Any Script>"
-msgstr "<कोई लिपि>"
-
-msgid "<Any Swiss>"
-msgstr "<कोई स्वीस>"
-
-msgid "<Any Teletype>"
-msgstr "<कोई टेलीटाइप>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "टेलीटाइप"
@@ -5192,6 +5128,10 @@ msgstr "शैली"
 #, fuzzy
 msgid "Weight"
 msgstr "भार (&W):"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "रेखांकित"
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -7001,6 +6941,48 @@ msgstr "'%s' का निष्कर्षण '%s' में असफ़ल र�
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "क्लिपबोर्ड डाटा को स्थापित करने में असफ़ल।"
+
+#~ msgid "Background colour"
+#~ msgstr "पृष्टभूमि रंग"
+
+#~ msgid "Font:"
+#~ msgstr "फ़ॉन्ट:"
+
+#~ msgid "Size:"
+#~ msgstr "आकार:"
+
+#~ msgid "The font size in points."
+#~ msgstr "फ़ॉन्ट का आकार बिंदुओं में।"
+
+#~ msgid "Style:"
+#~ msgstr "शैली:"
+
+#~ msgid "Colour:"
+#~ msgstr "रंग:"
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "फ़ॉन्ट का पूर्वालोकन दिखाएँ।"
+
+#~ msgid "<Any>"
+#~ msgstr "<कोई भी>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<कोई रोमन>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<कोई साज-सजावट>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<कोई आधुनिक>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<कोई लिपि>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<कोई स्वीस>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<कोई टेलीटाइप>"
 
 #~ msgid "Printing "
 #~ msgstr "मुद्रण हो रहा है "

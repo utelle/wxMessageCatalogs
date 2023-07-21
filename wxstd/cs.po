@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2023-02-07 21:59+0100\n"
 "Last-Translator: PB <pbfordev@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4832,70 +4832,6 @@ msgstr "Nelze získat objekt JavaScriptu"
 msgid "failed to evaluate"
 msgstr "nelze vyhodnotit"
 
-msgid "Background colour"
-msgstr "Barva pozadí"
-
-msgid "Font:"
-msgstr "Písmo:"
-
-msgid "Size:"
-msgstr "Velikost:"
-
-msgid "The font size in points."
-msgstr "Velikost písma v bodech."
-
-msgid "Style:"
-msgstr "Styl:"
-
-msgid "Check to make the font bold."
-msgstr "Zaškrtněte pro tučné písmo."
-
-msgid "Check to make the font italic."
-msgstr "Zaškrtněte pro kurzívu."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Podtržené"
-
-msgid "Check to make the font underlined."
-msgstr "Zaškrtněte pro podtržené písmo."
-
-msgid "Colour:"
-msgstr "Barva:"
-
-msgid "Click to change the font colour."
-msgstr "Klikněte pro změnu barvy písma."
-
-msgid "Shows a preview of the font."
-msgstr "Zobrazí náhled písma."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klikněte pro zrušení změn v písmu."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klikněte pro potvrzení změn textu."
-
-msgid "<Any>"
-msgstr "<Libovolné>"
-
-msgid "<Any Roman>"
-msgstr "<Libovolné patkové>"
-
-msgid "<Any Decorative>"
-msgstr "<Libovolné ozdobné>"
-
-msgid "<Any Modern>"
-msgstr "<Libovolné moderní>"
-
-msgid "<Any Script>"
-msgstr "<Libovolné psací>"
-
-msgid "<Any Swiss>"
-msgstr "<Libovolné bezpatkové>"
-
-msgid "<Any Teletype>"
-msgstr "<Libovolné neproporcionální>"
-
 msgid "File type:"
 msgstr "Typ souboru:"
 
@@ -4998,6 +4934,10 @@ msgstr "Styl"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Tučnost"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Podtržené"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6668,6 +6608,66 @@ msgstr "Vytvoření %s \"%s\" selhalo."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Nelze uložit data do schránky."
+
+#~ msgid "Background colour"
+#~ msgstr "Barva pozadí"
+
+#~ msgid "Font:"
+#~ msgstr "Písmo:"
+
+#~ msgid "Size:"
+#~ msgstr "Velikost:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Velikost písma v bodech."
+
+#~ msgid "Style:"
+#~ msgstr "Styl:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Zaškrtněte pro tučné písmo."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Zaškrtněte pro kurzívu."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Zaškrtněte pro podtržené písmo."
+
+#~ msgid "Colour:"
+#~ msgstr "Barva:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klikněte pro změnu barvy písma."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Zobrazí náhled písma."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klikněte pro zrušení změn v písmu."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klikněte pro potvrzení změn textu."
+
+#~ msgid "<Any>"
+#~ msgstr "<Libovolné>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Libovolné patkové>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Libovolné ozdobné>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Libovolné moderní>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Libovolné psací>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Libovolné bezpatkové>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Libovolné neproporcionální>"
 
 #~ msgid "Printing "
 #~ msgstr "Tisk "

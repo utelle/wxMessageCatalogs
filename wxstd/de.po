@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.3.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2023-02-06 17:46+0100\n"
 "Last-Translator: Ulrich Telle <ulrich@telle-online.eu>\n"
 "Language-Team: wxWidgets Team <wx-dev@wxwidgets.org>\n"
@@ -4936,70 +4936,6 @@ msgstr "Kann das JavaScript-Objekt nicht erhalten"
 msgid "failed to evaluate"
 msgstr "Auswertung fehlgeschlagen"
 
-msgid "Background colour"
-msgstr "Hintergrundfarbe"
-
-msgid "Font:"
-msgstr "Schrift:"
-
-msgid "Size:"
-msgstr "Größe:"
-
-msgid "The font size in points."
-msgstr "Die Schriftgröße in Punkt."
-
-msgid "Style:"
-msgstr "Stil:"
-
-msgid "Check to make the font bold."
-msgstr "Klicken um die Schriftart auf fett zu stellen."
-
-msgid "Check to make the font italic."
-msgstr "Klicken um die Schriftart auf kursiv zu stellen."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Unterstrichen"
-
-msgid "Check to make the font underlined."
-msgstr "Klicken um die Schriftart auf unterstrichen zu stellen."
-
-msgid "Colour:"
-msgstr "Farbe:"
-
-msgid "Click to change the font colour."
-msgstr "Klicken um die Farbe der Schriftart zu ändern."
-
-msgid "Shows a preview of the font."
-msgstr "Zeigt eine Vorschau der Schriftart."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klicken um die Änderungen der Schriftart zu verwerfen."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klicken um die Änderungen der Schriftart zu bestätigen."
-
-msgid "<Any>"
-msgstr "<Beliebig>"
-
-msgid "<Any Roman>"
-msgstr "<Beliebige Serifenschrift>"
-
-msgid "<Any Decorative>"
-msgstr "<Beliebige Dekorative>"
-
-msgid "<Any Modern>"
-msgstr "<Beliebige Moderne>"
-
-msgid "<Any Script>"
-msgstr "<Beliebige Schreibschrift>"
-
-msgid "<Any Swiss>"
-msgstr "<Beliebige Serifenlose>"
-
-msgid "<Any Teletype>"
-msgstr "<Beliebige Schreibmaschinen-Schrift>"
-
 msgid "File type:"
 msgstr "Dateityp:"
 
@@ -5103,6 +5039,10 @@ msgstr "Stil"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Dicke"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Unterstrichen"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6806,6 +6746,66 @@ msgstr "Erstellung von %s „%s“ fehlgeschlagen."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Konnte Dateien nicht in die Zwischenablage kopieren."
+
+#~ msgid "Background colour"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Font:"
+#~ msgstr "Schrift:"
+
+#~ msgid "Size:"
+#~ msgstr "Größe:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Die Schriftgröße in Punkt."
+
+#~ msgid "Style:"
+#~ msgstr "Stil:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Klicken um die Schriftart auf fett zu stellen."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Klicken um die Schriftart auf kursiv zu stellen."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Klicken um die Schriftart auf unterstrichen zu stellen."
+
+#~ msgid "Colour:"
+#~ msgstr "Farbe:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klicken um die Farbe der Schriftart zu ändern."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Zeigt eine Vorschau der Schriftart."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klicken um die Änderungen der Schriftart zu verwerfen."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klicken um die Änderungen der Schriftart zu bestätigen."
+
+#~ msgid "<Any>"
+#~ msgstr "<Beliebig>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Beliebige Serifenschrift>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Beliebige Dekorative>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Beliebige Moderne>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Beliebige Schreibschrift>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Beliebige Serifenlose>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Beliebige Schreibmaschinen-Schrift>"
 
 #~ msgid "Printing "
 #~ msgstr "Drucken von "

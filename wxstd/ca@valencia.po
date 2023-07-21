@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2003-07-22 11:31+0100\n"
 "Last-Translator: Robert Millan <rmh@aybabtu.com>\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -5123,80 +5123,6 @@ msgstr "No es pot fixar la prioritat fils"
 msgid "failed to evaluate"
 msgstr "No s'ha pogut executar '%s'\n"
 
-msgid "Background colour"
-msgstr ""
-
-#, fuzzy
-msgid "Font:"
-msgstr "Grandària de la font:"
-
-#, fuzzy
-msgid "Size:"
-msgstr "Grandària"
-
-#, fuzzy
-msgid "The font size in points."
-msgstr "Grandària de la font:"
-
-msgid "Style:"
-msgstr ""
-
-msgid "Check to make the font bold."
-msgstr ""
-
-msgid "Check to make the font italic."
-msgstr ""
-
-#. TRANSLATORS: Label of underlined font
-#, fuzzy
-msgid "Underlined"
-msgstr "Subratllat"
-
-msgid "Check to make the font underlined."
-msgstr ""
-
-msgid "Colour:"
-msgstr ""
-
-msgid "Click to change the font colour."
-msgstr ""
-
-msgid "Shows a preview of the font."
-msgstr ""
-
-msgid "Click to cancel changes to the font."
-msgstr ""
-
-msgid "Click to confirm changes to the font."
-msgstr ""
-
-msgid "<Any>"
-msgstr ""
-
-#, fuzzy
-msgid "<Any Roman>"
-msgstr "Roman"
-
-#, fuzzy
-msgid "<Any Decorative>"
-msgstr "Decoratiu"
-
-#, fuzzy
-msgid "<Any Modern>"
-msgstr "Modern"
-
-#, fuzzy
-msgid "<Any Script>"
-msgstr "Script"
-
-#, fuzzy
-msgid "<Any Swiss>"
-msgstr "Suís"
-
-#, fuzzy
-msgid "<Any Teletype>"
-msgstr "Teletip"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletip"
@@ -5309,6 +5235,11 @@ msgstr ""
 #, fuzzy
 msgid "Weight"
 msgstr "vuitè"
+
+#. TRANSLATORS: Label of underlined font
+#, fuzzy
+msgid "Underlined"
+msgstr "Subratllat"
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -7133,6 +7064,42 @@ msgstr "L'execució de l'orde '%s' ha fallit."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "No s'ha pogut fixar les dades del porta-retalls"
+
+#, fuzzy
+#~ msgid "Font:"
+#~ msgstr "Grandària de la font:"
+
+#, fuzzy
+#~ msgid "Size:"
+#~ msgstr "Grandària"
+
+#, fuzzy
+#~ msgid "The font size in points."
+#~ msgstr "Grandària de la font:"
+
+#, fuzzy
+#~ msgid "<Any Roman>"
+#~ msgstr "Roman"
+
+#, fuzzy
+#~ msgid "<Any Decorative>"
+#~ msgstr "Decoratiu"
+
+#, fuzzy
+#~ msgid "<Any Modern>"
+#~ msgstr "Modern"
+
+#, fuzzy
+#~ msgid "<Any Script>"
+#~ msgstr "Script"
+
+#, fuzzy
+#~ msgid "<Any Swiss>"
+#~ msgstr "Suís"
+
+#, fuzzy
+#~ msgid "<Any Teletype>"
+#~ msgstr "Teletip"
 
 #~ msgid "Printing "
 #~ msgstr "S'està imprimint"

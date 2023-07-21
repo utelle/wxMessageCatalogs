@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Patriccollu di Santa Maria è Sichè <Patriccollu [at] gmail [dot] com>, 2022.
+# Patriccollu di Santa Maria è Sichè <Patriccollu [at] gmail [dot] com>, 2022-2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets in Corsican\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
-"PO-Revision-Date: 2022-05-13 19:16+0200\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"PO-Revision-Date: 2023-07-07 01:15+0200\n"
 "Last-Translator: Patriccollu di Santa Maria è Sichè <https://github.com/"
 "Patriccollu/Lingua_Corsa-Infurmatica/#readme>\n"
 "Language-Team: Patriccollu di Santa Maria è Sichè\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.3.2\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "All files (*.*)|*.*"
@@ -861,29 +861,27 @@ msgid "&Save"
 msgstr "&Arregistrà"
 
 msgid "&Discard changes"
-msgstr ""
+msgstr "&Scartà i cambiamenti"
 
-#, fuzzy
 msgid "Do&n't close"
-msgstr "Ùn arregistrà micca"
+msgstr "Ùn chjode &micca"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Do you want to save changes to %s before closing it?"
-msgstr "Vulete arregistrà i cambiamenti ver di %s ?"
+msgstr "Vulete arregistrà i cambiamenti ver di %s nanzu a chjusura ?"
 
-#, fuzzy
 msgid "The document must be closed."
-msgstr "U testu ùn pò micca esse arregistratu."
+msgstr "U ducumentu deve esse chjosu."
 
 #, c-format
 msgid "Saving %s failed, would you like to retry?"
-msgstr ""
+msgstr "Fiascu di l’arregistramentu di %s ; vulete pruvà torna ?"
 
 msgid "Retry"
-msgstr ""
+msgstr "Pruvà torna"
 
 msgid "Discard changes"
-msgstr ""
+msgstr "Scartà i cambiamenti"
 
 #, c-format
 msgid "File \"%s\" could not be opened for writing."
@@ -2466,7 +2464,7 @@ msgstr "Impussibule di truvà una currispundenza à l’espressione regulare : 
 #, c-format
 msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
 msgstr ""
-"U mutore di rinforzu « %s » hà una versione %d.%d incumpatibile è ùn pò "
+"U mutore di restituzione « %s » hà una versione %d.%d incumpatibile è ùn pò "
 "micca esse caricatu."
 
 msgid "Not available for this platform"
@@ -3952,7 +3950,7 @@ msgid ""
 "work around this by setting environment variable GDK_BACKEND=x11 before\n"
 "starting your program."
 msgstr ""
-"Attualmente, wxGLCanvas hè accettatu solu nant’à Wayland è X11.  \n"
+"Attualmente, wxGLCanvas hè accettatu solu nant’à Wayland è X11.\n"
 "Si pò circurtà què definiscendu a variabile d’ambiente\n"
 "GDK_BACKEND=x11 nanzu di lancià u vostru prugramma."
 
@@ -4953,94 +4951,25 @@ msgstr "Ùn si pò micca ottene l’oggettu JavaScript"
 msgid "failed to evaluate"
 msgstr "fiascu di a valutazione"
 
-msgid "Background colour"
-msgstr "Culore di sfondulu"
-
-msgid "Font:"
-msgstr "Grafia :"
-
-msgid "Size:"
-msgstr "Dimensione :"
-
-msgid "The font size in points."
-msgstr "A dimensione di a grafia in punti."
-
-msgid "Style:"
-msgstr "Stilu :"
-
-msgid "Check to make the font bold."
-msgstr "Selezziunà per rende grassa a grafia."
-
-msgid "Check to make the font italic."
-msgstr "Selezziunà per rende cursiva a grafia."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Sottulineata"
-
-msgid "Check to make the font underlined."
-msgstr "Selezziunà per rende sottulineata a grafia."
-
-msgid "Colour:"
-msgstr "Culore :"
-
-msgid "Click to change the font colour."
-msgstr "Cliccu per cambià u culore di a grafia."
-
-msgid "Shows a preview of the font."
-msgstr "Affisseghja una fighjulata di a grafia."
-
-msgid "Click to cancel changes to the font."
-msgstr "Cliccu per abbandunà i cambiamenti nant’à a grafia."
-
-msgid "Click to confirm changes to the font."
-msgstr "Cliccu per cunfirmà i cambiamenti nant’à a grafia."
-
-msgid "<Any>"
-msgstr "<Qualunque>"
-
-msgid "<Any Roman>"
-msgstr "<Qualunque rumanica>"
-
-msgid "<Any Decorative>"
-msgstr "<Qualunque decurativa>"
-
-msgid "<Any Modern>"
-msgstr "<Qualunque muderna>"
-
-msgid "<Any Script>"
-msgstr "<Qualunque scenariu>"
-
-msgid "<Any Swiss>"
-msgstr "<Qualunque svizzera>"
-
-msgid "<Any Teletype>"
-msgstr "<Qualunque teletipu>"
-
 msgid "File type:"
 msgstr "Tipu di schedariu :"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Window"
 msgstr "Finestra"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Help"
 msgstr "Aiutu"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Minimize"
 msgstr "Minimizà"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Zoom"
 msgstr "Ingrandamentu"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Bring All to Front"
 msgstr "Tuttu mette di fronte"
@@ -5083,10 +5012,9 @@ msgctxt "macOS menu item"
 msgid "Hide %s"
 msgstr "Piattà %s"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Hide Application"
-msgstr "Appiecazione"
+msgstr "Piattà l’appiecazione"
 
 msgctxt "macOS menu item"
 msgid "Hide Others"
@@ -5101,10 +5029,9 @@ msgctxt "macOS menu item"
 msgid "Quit %s"
 msgstr "Esce di %s"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Quit Application"
-msgstr "Appiecazione"
+msgstr "Esce di l'appiecazione"
 
 msgid "Printing is not supported by the system web control"
 msgstr "A stampa ùn hè micca accettata da u cuntrollu web di u sistema"
@@ -5127,6 +5054,10 @@ msgstr "Stilu"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Spessore"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Sottulineata"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6689,7 +6620,7 @@ msgid "No sound"
 msgstr "Nisunu sonu"
 
 msgid "Unable to play sound asynchronously."
-msgstr "Impussibule di riproduce u sonu di manera sincrona."
+msgstr "Impussibule di riproduce u sonu di manera asincrona."
 
 #, c-format
 msgid "Couldn't load sound data from '%s'."
@@ -6825,6 +6756,66 @@ msgstr "Fiascu durante a creazione di %s « %s »."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Fiascu per definisce i dati di u preme’papei."
+
+#~ msgid "Background colour"
+#~ msgstr "Culore di sfondulu"
+
+#~ msgid "Font:"
+#~ msgstr "Grafia :"
+
+#~ msgid "Size:"
+#~ msgstr "Dimensione :"
+
+#~ msgid "The font size in points."
+#~ msgstr "A dimensione di a grafia in punti."
+
+#~ msgid "Style:"
+#~ msgstr "Stilu :"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Selezziunà per rende grassa a grafia."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Selezziunà per rende cursiva a grafia."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Selezziunà per rende sottulineata a grafia."
+
+#~ msgid "Colour:"
+#~ msgstr "Culore :"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Cliccu per cambià u culore di a grafia."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Affisseghja una fighjulata di a grafia."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Cliccu per abbandunà i cambiamenti nant’à a grafia."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Cliccu per cunfirmà i cambiamenti nant’à a grafia."
+
+#~ msgid "<Any>"
+#~ msgstr "<Qualunque>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Qualunque rumanica>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Qualunque decurativa>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Qualunque muderna>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Qualunque scenariu>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Qualunque svizzera>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Qualunque teletipu>"
 
 #~ msgid "Printing "
 #~ msgstr "Stampa "

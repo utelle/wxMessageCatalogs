@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2020-06-26 21:31+0700\n"
 "Last-Translator: Hertatijanto Hartono <dvertx@gmail.com>\n"
 "Language-Team: ID <doplank@gmx.com>\n"
@@ -4860,70 +4860,6 @@ msgstr "Gagal menetapkan prioritas thread"
 msgid "failed to evaluate"
 msgstr "Gagal mengeksekusi '%s'\n"
 
-msgid "Background colour"
-msgstr "Warna latar belakang"
-
-msgid "Font:"
-msgstr "Font:"
-
-msgid "Size:"
-msgstr "Ukuran:"
-
-msgid "The font size in points."
-msgstr "Ukuran font dalam point."
-
-msgid "Style:"
-msgstr "Gaya:"
-
-msgid "Check to make the font bold."
-msgstr "Centang untuk membuat font tebal."
-
-msgid "Check to make the font italic."
-msgstr "Centang untuk membuat font miring."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Garis dibawahi"
-
-msgid "Check to make the font underlined."
-msgstr "Centang untuk membuat font bergarisbawah."
-
-msgid "Colour:"
-msgstr "Warna:"
-
-msgid "Click to change the font colour."
-msgstr "Klik untuk mengubah warna font."
-
-msgid "Shows a preview of the font."
-msgstr "Tampilkan pratinjau font."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klik untuk membatalkan perubahan font."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klik untuk mengkonfirmasi perubahan atas font."
-
-msgid "<Any>"
-msgstr "<Apapun>"
-
-msgid "<Any Roman>"
-msgstr "<Sebarang Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Sebarang Dekoratif>"
-
-msgid "<Any Modern>"
-msgstr "<Sebarang Modern>"
-
-msgid "<Any Script>"
-msgstr "<Sebarang Skrip>"
-
-msgid "<Any Swiss>"
-msgstr "<Sebarang Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Sebarang Teletype>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5034,6 +4970,10 @@ msgstr "Gaya"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Berat"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Garis dibawahi"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6738,6 +6678,66 @@ msgstr "Gagal membuat %s \"%s\"."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Gagal menetapkan data clipboard."
+
+#~ msgid "Background colour"
+#~ msgstr "Warna latar belakang"
+
+#~ msgid "Font:"
+#~ msgstr "Font:"
+
+#~ msgid "Size:"
+#~ msgstr "Ukuran:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Ukuran font dalam point."
+
+#~ msgid "Style:"
+#~ msgstr "Gaya:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Centang untuk membuat font tebal."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Centang untuk membuat font miring."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Centang untuk membuat font bergarisbawah."
+
+#~ msgid "Colour:"
+#~ msgstr "Warna:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klik untuk mengubah warna font."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Tampilkan pratinjau font."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klik untuk membatalkan perubahan font."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klik untuk mengkonfirmasi perubahan atas font."
+
+#~ msgid "<Any>"
+#~ msgstr "<Apapun>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Sebarang Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Sebarang Dekoratif>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Sebarang Modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Sebarang Skrip>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Sebarang Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Sebarang Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "Mencetak "

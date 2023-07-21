@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2015-07-09 11:22+0200\n"
 "Last-Translator: Andrius <andrius.balsevicius@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -4748,70 +4748,6 @@ msgstr ""
 msgid "failed to evaluate"
 msgstr ""
 
-msgid "Background colour"
-msgstr ""
-
-msgid "Font:"
-msgstr "Šriftas:"
-
-msgid "Size:"
-msgstr "Dydis:"
-
-msgid "The font size in points."
-msgstr ""
-
-msgid "Style:"
-msgstr "Stilius:"
-
-msgid "Check to make the font bold."
-msgstr ""
-
-msgid "Check to make the font italic."
-msgstr ""
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr ""
-
-msgid "Check to make the font underlined."
-msgstr ""
-
-msgid "Colour:"
-msgstr ""
-
-msgid "Click to change the font colour."
-msgstr ""
-
-msgid "Shows a preview of the font."
-msgstr ""
-
-msgid "Click to cancel changes to the font."
-msgstr ""
-
-msgid "Click to confirm changes to the font."
-msgstr ""
-
-msgid "<Any>"
-msgstr ""
-
-msgid "<Any Roman>"
-msgstr ""
-
-msgid "<Any Decorative>"
-msgstr ""
-
-msgid "<Any Modern>"
-msgstr ""
-
-msgid "<Any Script>"
-msgstr ""
-
-msgid "<Any Swiss>"
-msgstr ""
-
-msgid "<Any Teletype>"
-msgstr ""
-
 msgid "File type:"
 msgstr ""
 
@@ -4918,6 +4854,10 @@ msgstr "Stilius"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Storis"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr ""
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6586,6 +6526,15 @@ msgstr ""
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr ""
+
+#~ msgid "Font:"
+#~ msgstr "Šriftas:"
+
+#~ msgid "Size:"
+#~ msgstr "Dydis:"
+
+#~ msgid "Style:"
+#~ msgstr "Stilius:"
 
 #~ msgid "Filter"
 #~ msgstr "FILTER"

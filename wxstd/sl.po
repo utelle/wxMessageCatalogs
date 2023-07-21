@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-06-19 13:07+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -5934,80 +5934,6 @@ msgstr "Predmeta JavaScript ni mogoče pridobiti"
 msgid "failed to evaluate"
 msgstr "ni bilo mogoče oceniti"
 
-msgid "Background colour"
-msgstr "Barva ozadja"
-
-# html/helpfrm.cpp:899
-msgid "Font:"
-msgstr "Pisava:"
-
-# generic/filedlgg.cpp:534
-msgid "Size:"
-msgstr "Velikost:"
-
-# html/helpfrm.cpp:899
-msgid "The font size in points."
-msgstr "Velikost pisave v točkah."
-
-msgid "Style:"
-msgstr "Slog:"
-
-msgid "Check to make the font bold."
-msgstr "Označite za krepko pisavo."
-
-msgid "Check to make the font italic."
-msgstr "Označite za ležečo pisavo."
-
-# generic/fontdlgg.cpp:242
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Podčrtano"
-
-msgid "Check to make the font underlined."
-msgstr "Označite za podčrtano pisavo."
-
-msgid "Colour:"
-msgstr "Barva:"
-
-msgid "Click to change the font colour."
-msgstr "Kliknite za spremembo barve pisave."
-
-msgid "Shows a preview of the font."
-msgstr "Pokaže predogled pisave."
-
-msgid "Click to cancel changes to the font."
-msgstr "Kliknite za preklic sprememb pisave."
-
-msgid "Click to confirm changes to the font."
-msgstr "Kliknite za potrditev sprememb pisave."
-
-msgid "<Any>"
-msgstr "<poljubna>"
-
-# generic/fontdlgg.cpp:206
-msgid "<Any Roman>"
-msgstr "<poljubna serifna>"
-
-# generic/fontdlgg.cpp:207
-msgid "<Any Decorative>"
-msgstr "<poljubna okrasna>"
-
-# generic/fontdlgg.cpp:208
-msgid "<Any Modern>"
-msgstr "<poljubna sodobna>"
-
-# generic/fontdlgg.cpp:209
-msgid "<Any Script>"
-msgstr "<poljubna pisana>"
-
-# generic/fontdlgg.cpp:210
-msgid "<Any Swiss>"
-msgstr "<poljubna neserifna>"
-
-# generic/fontdlgg.cpp:211
-msgid "<Any Teletype>"
-msgstr "<poljubna strojna>"
-
 # generic/fontdlgg.cpp:211
 msgid "File type:"
 msgstr "Vrsta datoteke:"
@@ -6133,6 +6059,11 @@ msgstr "Slog"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Debelina"
+
+# generic/fontdlgg.cpp:242
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Podčrtano"
 
 # html/helpfrm.cpp:899
 #. TRANSLATORS: Label of font family
@@ -7975,6 +7906,75 @@ msgstr "Ustvarjanje %s »%s« ni uspelo."
 # msw/clipbrd.cpp:300
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Neuspešno določanje podatkov za odložišče."
+
+#~ msgid "Background colour"
+#~ msgstr "Barva ozadja"
+
+# html/helpfrm.cpp:899
+#~ msgid "Font:"
+#~ msgstr "Pisava:"
+
+# generic/filedlgg.cpp:534
+#~ msgid "Size:"
+#~ msgstr "Velikost:"
+
+# html/helpfrm.cpp:899
+#~ msgid "The font size in points."
+#~ msgstr "Velikost pisave v točkah."
+
+#~ msgid "Style:"
+#~ msgstr "Slog:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Označite za krepko pisavo."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Označite za ležečo pisavo."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Označite za podčrtano pisavo."
+
+#~ msgid "Colour:"
+#~ msgstr "Barva:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Kliknite za spremembo barve pisave."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Pokaže predogled pisave."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Kliknite za preklic sprememb pisave."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Kliknite za potrditev sprememb pisave."
+
+#~ msgid "<Any>"
+#~ msgstr "<poljubna>"
+
+# generic/fontdlgg.cpp:206
+#~ msgid "<Any Roman>"
+#~ msgstr "<poljubna serifna>"
+
+# generic/fontdlgg.cpp:207
+#~ msgid "<Any Decorative>"
+#~ msgstr "<poljubna okrasna>"
+
+# generic/fontdlgg.cpp:208
+#~ msgid "<Any Modern>"
+#~ msgstr "<poljubna sodobna>"
+
+# generic/fontdlgg.cpp:209
+#~ msgid "<Any Script>"
+#~ msgstr "<poljubna pisana>"
+
+# generic/fontdlgg.cpp:210
+#~ msgid "<Any Swiss>"
+#~ msgstr "<poljubna neserifna>"
+
+# generic/fontdlgg.cpp:211
+#~ msgid "<Any Teletype>"
+#~ msgstr "<poljubna strojna>"
 
 # common/prntbase.cpp:106
 # common/prntbase.cpp:148

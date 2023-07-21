@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -4883,70 +4883,6 @@ msgstr "Не вдалося отримати об'єкт JavaScript"
 msgid "failed to evaluate"
 msgstr "не вдалося обчислити"
 
-msgid "Background colour"
-msgstr "Колір тла"
-
-msgid "Font:"
-msgstr "Шрифт:"
-
-msgid "Size:"
-msgstr "Розмір:"
-
-msgid "The font size in points."
-msgstr "Розмір шрифту у пунктах."
-
-msgid "Style:"
-msgstr "Стиль:"
-
-msgid "Check to make the font bold."
-msgstr "Позначте, щоб зробити шрифт жирним."
-
-msgid "Check to make the font italic."
-msgstr "Позначте, щоб зробити шрифт курсивним."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Підкреслене"
-
-msgid "Check to make the font underlined."
-msgstr "Позначте, щоб зробити шрифт підкресленим."
-
-msgid "Colour:"
-msgstr "Колір:"
-
-msgid "Click to change the font colour."
-msgstr "Клацніть, щоб змінити колір шрифту."
-
-msgid "Shows a preview of the font."
-msgstr "Показує попередній перегляд шрифту."
-
-msgid "Click to cancel changes to the font."
-msgstr "Клацніть, щоб скасувати зміну шрифту."
-
-msgid "Click to confirm changes to the font."
-msgstr "Клацніть, щоб підтвердити зміну шрифту."
-
-msgid "<Any>"
-msgstr "<Будь-який>"
-
-msgid "<Any Roman>"
-msgstr "<Будь-який романський>"
-
-msgid "<Any Decorative>"
-msgstr "<Будь-який декоративний>"
-
-msgid "<Any Modern>"
-msgstr "<Будь-який модерний>"
-
-msgid "<Any Script>"
-msgstr "<Будь-який для індексів>"
-
-msgid "<Any Swiss>"
-msgstr "<Будь-який Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Будь-який машинописний>"
-
 msgid "File type:"
 msgstr "Тип файлів:"
 
@@ -5055,6 +4991,10 @@ msgstr "Стиль"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Вага"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Підкреслене"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6732,6 +6672,66 @@ msgstr "Не вдалося створити %s «%s»."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Не вдалося встановити дані clipboard."
+
+#~ msgid "Background colour"
+#~ msgstr "Колір тла"
+
+#~ msgid "Font:"
+#~ msgstr "Шрифт:"
+
+#~ msgid "Size:"
+#~ msgstr "Розмір:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Розмір шрифту у пунктах."
+
+#~ msgid "Style:"
+#~ msgstr "Стиль:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Позначте, щоб зробити шрифт жирним."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Позначте, щоб зробити шрифт курсивним."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Позначте, щоб зробити шрифт підкресленим."
+
+#~ msgid "Colour:"
+#~ msgstr "Колір:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Клацніть, щоб змінити колір шрифту."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Показує попередній перегляд шрифту."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Клацніть, щоб скасувати зміну шрифту."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Клацніть, щоб підтвердити зміну шрифту."
+
+#~ msgid "<Any>"
+#~ msgstr "<Будь-який>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Будь-який романський>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Будь-який декоративний>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Будь-який модерний>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Будь-який для індексів>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Будь-який Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Будь-який машинописний>"
 
 #~ msgid "Printing "
 #~ msgstr "Друк"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Cătălin Răceanu <cata_sr@yahoo.com>\n"
 "Language-Team: ro.ro\n"
@@ -4887,70 +4887,6 @@ msgstr "Nu se poate obține obiectul JavaScript"
 msgid "failed to evaluate"
 msgstr "a eșuat evaluarea"
 
-msgid "Background colour"
-msgstr "Culoare de fundal"
-
-msgid "Font:"
-msgstr "Font:"
-
-msgid "Size:"
-msgstr "Dimensiune:"
-
-msgid "The font size in points."
-msgstr "Dimensiunea fontului în puncte."
-
-msgid "Style:"
-msgstr "Stil:"
-
-msgid "Check to make the font bold."
-msgstr "Bifează pentru a îngroșa fontul."
-
-msgid "Check to make the font italic."
-msgstr "Bifează pentru a face fontul cursiv."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Subliniat"
-
-msgid "Check to make the font underlined."
-msgstr "Bifează pentru a face fontul subliniat."
-
-msgid "Colour:"
-msgstr "Culoare:"
-
-msgid "Click to change the font colour."
-msgstr "Clic pentru a schimba culoarea fontului."
-
-msgid "Shows a preview of the font."
-msgstr "Afișează o previzualizare a fontului."
-
-msgid "Click to cancel changes to the font."
-msgstr "Clic pentru a anula modificările aduse fontului."
-
-msgid "Click to confirm changes to the font."
-msgstr "Clic pentru a confirma modificările aduse fontului."
-
-msgid "<Any>"
-msgstr "<Oricare>"
-
-msgid "<Any Roman>"
-msgstr "<Oricare Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Oricare Decorativ>"
-
-msgid "<Any Modern>"
-msgstr "<Oricare Modern>"
-
-msgid "<Any Script>"
-msgstr "<Oricare Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Oricare Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Oricare Teletype>"
-
 msgid "File type:"
 msgstr "Tip de fișier:"
 
@@ -5059,6 +4995,10 @@ msgstr "Stil"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Grosime"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Subliniat"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6742,6 +6682,66 @@ msgstr "Crearea %s \"%s\" a eșuat."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "A eșuat setarea datelor în memoria clipboard."
+
+#~ msgid "Background colour"
+#~ msgstr "Culoare de fundal"
+
+#~ msgid "Font:"
+#~ msgstr "Font:"
+
+#~ msgid "Size:"
+#~ msgstr "Dimensiune:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Dimensiunea fontului în puncte."
+
+#~ msgid "Style:"
+#~ msgstr "Stil:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Bifează pentru a îngroșa fontul."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Bifează pentru a face fontul cursiv."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Bifează pentru a face fontul subliniat."
+
+#~ msgid "Colour:"
+#~ msgstr "Culoare:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Clic pentru a schimba culoarea fontului."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Afișează o previzualizare a fontului."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Clic pentru a anula modificările aduse fontului."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Clic pentru a confirma modificările aduse fontului."
+
+#~ msgid "<Any>"
+#~ msgstr "<Oricare>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Oricare Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Oricare Decorativ>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Oricare Modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Oricare Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Oricare Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Oricare Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "Tipărire "

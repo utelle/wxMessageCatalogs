@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -4983,70 +4983,6 @@ msgstr "Não foi possível definir prioridade da thread"
 msgid "failed to evaluate"
 msgstr "Falha ao executar '%s'\n"
 
-msgid "Background colour"
-msgstr "Cor de fundo"
-
-msgid "Font:"
-msgstr "Fonte:"
-
-msgid "Size:"
-msgstr "Tamanho:"
-
-msgid "The font size in points."
-msgstr "O tamanho da fonte em pontos."
-
-msgid "Style:"
-msgstr "Estilo:"
-
-msgid "Check to make the font bold."
-msgstr "Marque para tornar a letra destacada."
-
-msgid "Check to make the font italic."
-msgstr "Marque para tornar a letra itálica."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Sublinhado"
-
-msgid "Check to make the font underlined."
-msgstr "Marque para tornar a letra sublinhada."
-
-msgid "Colour:"
-msgstr "Cor:"
-
-msgid "Click to change the font colour."
-msgstr "Clique para alterar a cor da fonte."
-
-msgid "Shows a preview of the font."
-msgstr "Mostrar uma antevisão da fonte."
-
-msgid "Click to cancel changes to the font."
-msgstr "Clique para cancelar as alterações à fonte."
-
-msgid "Click to confirm changes to the font."
-msgstr "Clique para confirmar alterações a fonte."
-
-msgid "<Any>"
-msgstr "<Qualquer>"
-
-msgid "<Any Roman>"
-msgstr "<Qualquer Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Qualquer Decorative>"
-
-msgid "<Any Modern>"
-msgstr "<Qualquer Modern>"
-
-msgid "<Any Script>"
-msgstr "<Qualquer Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Qualquer Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Qualquer Teletype>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5162,6 +5098,10 @@ msgstr "Estilo"
 #, fuzzy
 msgid "Weight"
 msgstr "&Peso:"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Sublinhado"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6964,6 +6904,66 @@ msgstr "Falhou a extracção de '%s' para '%s'."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Falha ao definir dados da área de transferência."
+
+#~ msgid "Background colour"
+#~ msgstr "Cor de fundo"
+
+#~ msgid "Font:"
+#~ msgstr "Fonte:"
+
+#~ msgid "Size:"
+#~ msgstr "Tamanho:"
+
+#~ msgid "The font size in points."
+#~ msgstr "O tamanho da fonte em pontos."
+
+#~ msgid "Style:"
+#~ msgstr "Estilo:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Marque para tornar a letra destacada."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Marque para tornar a letra itálica."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Marque para tornar a letra sublinhada."
+
+#~ msgid "Colour:"
+#~ msgstr "Cor:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Clique para alterar a cor da fonte."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Mostrar uma antevisão da fonte."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Clique para cancelar as alterações à fonte."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Clique para confirmar alterações a fonte."
+
+#~ msgid "<Any>"
+#~ msgstr "<Qualquer>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Qualquer Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Qualquer Decorative>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Qualquer Modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Qualquer Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Qualquer Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Qualquer Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "A Imprimir ..."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -4874,70 +4874,6 @@ msgstr "Nemoguće preuzeti JavaScript objekat"
 msgid "failed to evaluate"
 msgstr "Neuspešno ocenjivanje"
 
-msgid "Background colour"
-msgstr "Boja pozadine"
-
-msgid "Font:"
-msgstr "Font:"
-
-msgid "Size:"
-msgstr "Veličina:"
-
-msgid "The font size in points."
-msgstr "Veličina fonta u pointima."
-
-msgid "Style:"
-msgstr "Stil:"
-
-msgid "Check to make the font bold."
-msgstr "Označite da biste podebljali font."
-
-msgid "Check to make the font italic."
-msgstr "Označite da bi ste iskosili font."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Podvučeno"
-
-msgid "Check to make the font underlined."
-msgstr "Označite da biste podvukli font."
-
-msgid "Colour:"
-msgstr "Boja:"
-
-msgid "Click to change the font colour."
-msgstr "Kliknite da promenite boju fonta."
-
-msgid "Shows a preview of the font."
-msgstr "Prikazuje pregled fonta."
-
-msgid "Click to cancel changes to the font."
-msgstr "Kliknite da poništite promene fonta."
-
-msgid "Click to confirm changes to the font."
-msgstr "Kliknite da potvrdite promene fonta."
-
-msgid "<Any>"
-msgstr "<bilo koji>"
-
-msgid "<Any Roman>"
-msgstr "<Bilo koji Rimski>"
-
-msgid "<Any Decorative>"
-msgstr "<Bilo koji Dekorativni>"
-
-msgid "<Any Modern>"
-msgstr "<Bilo koji Moderni>"
-
-msgid "<Any Script>"
-msgstr "<Bilo koji pismo>"
-
-msgid "<Any Swiss>"
-msgstr "<Bilo koji Švajcarski>"
-
-msgid "<Any Teletype>"
-msgstr "<Bilo koji pisaća mašina>"
-
 msgid "File type:"
 msgstr "Vrsta datoteke:"
 
@@ -5046,6 +4982,10 @@ msgstr "Stil"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Debljina"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Podvučeno"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6718,6 +6658,66 @@ msgstr "Pravljenje %s \"%s\" nije uspelo."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Postavljanje podataka privremene memorije nije uspelo."
+
+#~ msgid "Background colour"
+#~ msgstr "Boja pozadine"
+
+#~ msgid "Font:"
+#~ msgstr "Font:"
+
+#~ msgid "Size:"
+#~ msgstr "Veličina:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Veličina fonta u pointima."
+
+#~ msgid "Style:"
+#~ msgstr "Stil:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Označite da biste podebljali font."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Označite da bi ste iskosili font."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Označite da biste podvukli font."
+
+#~ msgid "Colour:"
+#~ msgstr "Boja:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Kliknite da promenite boju fonta."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Prikazuje pregled fonta."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Kliknite da poništite promene fonta."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Kliknite da potvrdite promene fonta."
+
+#~ msgid "<Any>"
+#~ msgstr "<bilo koji>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Bilo koji Rimski>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Bilo koji Dekorativni>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Bilo koji Moderni>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Bilo koji pismo>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Bilo koji Švajcarski>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Bilo koji pisaća mašina>"
 
 #~ msgid "Printing "
 #~ msgstr "Štampanje"

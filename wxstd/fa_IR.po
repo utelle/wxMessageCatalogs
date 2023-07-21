@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2020-07-17 12:42+0430\n"
 "Last-Translator: \n"
 "Language-Team: Ali Asadi <ali.asadi@wxwidgets.ir>\n"
@@ -4749,70 +4749,6 @@ msgstr ""
 msgid "failed to evaluate"
 msgstr ""
 
-msgid "Background colour"
-msgstr ""
-
-msgid "Font:"
-msgstr ""
-
-msgid "Size:"
-msgstr ""
-
-msgid "The font size in points."
-msgstr ""
-
-msgid "Style:"
-msgstr ""
-
-msgid "Check to make the font bold."
-msgstr ""
-
-msgid "Check to make the font italic."
-msgstr ""
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr ""
-
-msgid "Check to make the font underlined."
-msgstr ""
-
-msgid "Colour:"
-msgstr ""
-
-msgid "Click to change the font colour."
-msgstr ""
-
-msgid "Shows a preview of the font."
-msgstr ""
-
-msgid "Click to cancel changes to the font."
-msgstr ""
-
-msgid "Click to confirm changes to the font."
-msgstr ""
-
-msgid "<Any>"
-msgstr "<Any>"
-
-msgid "<Any Roman>"
-msgstr "<هر رومان>"
-
-msgid "<Any Decorative>"
-msgstr "<هر تزئینی>"
-
-msgid "<Any Modern>"
-msgstr "<هر مدرن>"
-
-msgid "<Any Script>"
-msgstr "<هر اسکریپتی>"
-
-msgid "<Any Swiss>"
-msgstr "<هر سوئیسی>"
-
-msgid "<Any Teletype>"
-msgstr "<هرگونه Teletype>"
-
 msgid "File type:"
 msgstr ""
 
@@ -4914,6 +4850,10 @@ msgstr ""
 
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
+msgstr ""
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
 msgstr ""
 
 #. TRANSLATORS: Label of font family
@@ -6575,6 +6515,27 @@ msgstr ""
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr ""
+
+#~ msgid "<Any>"
+#~ msgstr "<Any>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<هر رومان>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<هر تزئینی>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<هر مدرن>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<هر اسکریپتی>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<هر سوئیسی>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<هرگونه Teletype>"
 
 #~ msgid " (while overwriting an existing item)"
 #~ msgstr " (درحال رونویسی  یک مورد موجود)"

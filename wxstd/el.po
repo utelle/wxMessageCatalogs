@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -5113,88 +5113,6 @@ msgstr "Δεν είναι δυνατή η θέση προτεραιότητας 
 msgid "failed to evaluate"
 msgstr "Αποτυχία εκτέλεσης του '%s'\n"
 
-msgid "Background colour"
-msgstr ""
-
-#, fuzzy
-msgid "Font:"
-msgstr "Μέγεθος γραμματοσειράς:"
-
-#, fuzzy
-msgid "Size:"
-msgstr "Μέγεθος"
-
-#, fuzzy
-msgid "The font size in points."
-msgstr "Το μέγεθος κουκίδας γραμματοσειράς"
-
-#, fuzzy
-msgid "Style:"
-msgstr "&Στυλ:"
-
-#, fuzzy
-msgid "Check to make the font bold."
-msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
-
-#, fuzzy
-msgid "Check to make the font italic."
-msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
-
-#. TRANSLATORS: Label of underlined font
-#, fuzzy
-msgid "Underlined"
-msgstr "&Υπογράμμιση"
-
-#, fuzzy
-msgid "Check to make the font underlined."
-msgstr "Επιλογή εαν η γραμματοσειρά είναι υπογραμμισμένη ή όχι."
-
-#, fuzzy
-msgid "Colour:"
-msgstr "&Χρώμα:"
-
-#, fuzzy
-msgid "Click to change the font colour."
-msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
-
-msgid "Shows a preview of the font."
-msgstr ""
-
-#, fuzzy
-msgid "Click to cancel changes to the font."
-msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
-
-#, fuzzy
-msgid "Click to confirm changes to the font."
-msgstr "Κάνετε κλικ για να επιβεβαιώσετε την επιλογή γραμματοσειράς."
-
-msgid "<Any>"
-msgstr ""
-
-#, fuzzy
-msgid "<Any Roman>"
-msgstr "Ρωμαϊκό"
-
-#, fuzzy
-msgid "<Any Decorative>"
-msgstr "Διακοσμητικός"
-
-#, fuzzy
-msgid "<Any Modern>"
-msgstr "Μοντέρνο"
-
-#, fuzzy
-msgid "<Any Script>"
-msgstr "Χειρόγραφο(Script)"
-
-#, fuzzy
-msgid "<Any Swiss>"
-msgstr "Ελβετικό(Swiss)"
-
-#, fuzzy
-msgid "<Any Teletype>"
-msgstr "Τηλέτυπο"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Τηλέτυπο"
@@ -5312,6 +5230,11 @@ msgstr "&Στυλ:"
 #, fuzzy
 msgid "Weight"
 msgstr "&Βάρος:"
+
+#. TRANSLATORS: Label of underlined font
+#, fuzzy
+msgid "Underlined"
+msgstr "&Υπογράμμιση"
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -7193,6 +7116,74 @@ msgstr "Η εξαγωγή του '%s' στο '%s' απέτυχε"
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Αποτυχία θέσης δεδομένων προχείρου (clipboard)."
+
+#, fuzzy
+#~ msgid "Font:"
+#~ msgstr "Μέγεθος γραμματοσειράς:"
+
+#, fuzzy
+#~ msgid "Size:"
+#~ msgstr "Μέγεθος"
+
+#, fuzzy
+#~ msgid "The font size in points."
+#~ msgstr "Το μέγεθος κουκίδας γραμματοσειράς"
+
+#, fuzzy
+#~ msgid "Style:"
+#~ msgstr "&Στυλ:"
+
+#, fuzzy
+#~ msgid "Check to make the font bold."
+#~ msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
+
+#, fuzzy
+#~ msgid "Check to make the font italic."
+#~ msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
+
+#, fuzzy
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Επιλογή εαν η γραμματοσειρά είναι υπογραμμισμένη ή όχι."
+
+#, fuzzy
+#~ msgid "Colour:"
+#~ msgstr "&Χρώμα:"
+
+#, fuzzy
+#~ msgid "Click to change the font colour."
+#~ msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
+
+#, fuzzy
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Κάνετε κλικ για να ακυρώσετε την επιλογή γραμματοσειράς."
+
+#, fuzzy
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Κάνετε κλικ για να επιβεβαιώσετε την επιλογή γραμματοσειράς."
+
+#, fuzzy
+#~ msgid "<Any Roman>"
+#~ msgstr "Ρωμαϊκό"
+
+#, fuzzy
+#~ msgid "<Any Decorative>"
+#~ msgstr "Διακοσμητικός"
+
+#, fuzzy
+#~ msgid "<Any Modern>"
+#~ msgstr "Μοντέρνο"
+
+#, fuzzy
+#~ msgid "<Any Script>"
+#~ msgstr "Χειρόγραφο(Script)"
+
+#, fuzzy
+#~ msgid "<Any Swiss>"
+#~ msgstr "Ελβετικό(Swiss)"
+
+#, fuzzy
+#~ msgid "<Any Teletype>"
+#~ msgstr "Τηλέτυπο"
 
 #~ msgid "Printing "
 #~ msgstr "Γίνεται εκτύπωση του "

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2015-05-09 20:03+0545\n"
 "Last-Translator: drishtibachak@gmail.com\n"
 "Language-Team: Him Prasad Gautam <himjee@yahoo.com>\n"
@@ -4841,70 +4841,6 @@ msgstr "thread प्राथमिकता सेट गर्न सकि�
 msgid "failed to evaluate"
 msgstr "'%s' कार्यान्वयन गर्न सकिएन ।\n"
 
-msgid "Background colour"
-msgstr "पृष्ठभूमिको रङ्ग"
-
-msgid "Font:"
-msgstr "वरणाकृति:"
-
-msgid "Size:"
-msgstr "आकार:"
-
-msgid "The font size in points."
-msgstr "वरणाकृतिको आकार (थोप्लोमा).वरणाकृतिको आकार in थोप्लोs"
-
-msgid "Style:"
-msgstr "शैली:"
-
-msgid "Check to make the font bold."
-msgstr "वरणाकृति मोटो बनाउने हो भने टिक लगाउ"
-
-msgid "Check to make the font italic."
-msgstr "वरणाकृति डल्केको बनाउने हो भने टिक लगाउ"
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "अधोरेखाङ्कित"
-
-msgid "Check to make the font underlined."
-msgstr "वरणाकृति अधोरेखाङ्कित बनाउने हो भने टिक लगाउ"
-
-msgid "Colour:"
-msgstr "रङ्ग:"
-
-msgid "Click to change the font colour."
-msgstr "वरणाकृतिको रङ्ग फेर्न किटिक्क पार्नु होस्"
-
-msgid "Shows a preview of the font."
-msgstr "वरणाकृतिको चेहरा देखाउ छ ।"
-
-msgid "Click to cancel changes to the font."
-msgstr "वरणाकृति परिवर्तन रद्द गर्न किटिक्क पार्नु होस्"
-
-msgid "Click to confirm changes to the font."
-msgstr "वरणाकृति परिवर्तन यकिन गर्न किटिक्क पार्नु होस्"
-
-msgid "<Any>"
-msgstr "<कुनै>"
-
-msgid "<Any Roman>"
-msgstr "<कुनै रोमन>"
-
-msgid "<Any Decorative>"
-msgstr "<कुनै सजावट>"
-
-msgid "<Any Modern>"
-msgstr "<कुनै मोडेम >"
-
-msgid "<Any Script>"
-msgstr "<कुनै Script>"
-
-msgid "<Any Swiss>"
-msgstr "<कुनै Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<कुनै Teletype>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5015,6 +4951,10 @@ msgstr "शैली"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "भार"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "अधोरेखाङ्कित"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6723,6 +6663,66 @@ msgstr "'%s' लाई '%s' मा खिच्ने काम असफल भ
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "क्लिप पाटीमा तथ्याङ्क तय गर्न सकिएन ।"
+
+#~ msgid "Background colour"
+#~ msgstr "पृष्ठभूमिको रङ्ग"
+
+#~ msgid "Font:"
+#~ msgstr "वरणाकृति:"
+
+#~ msgid "Size:"
+#~ msgstr "आकार:"
+
+#~ msgid "The font size in points."
+#~ msgstr "वरणाकृतिको आकार (थोप्लोमा).वरणाकृतिको आकार in थोप्लोs"
+
+#~ msgid "Style:"
+#~ msgstr "शैली:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "वरणाकृति मोटो बनाउने हो भने टिक लगाउ"
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "वरणाकृति डल्केको बनाउने हो भने टिक लगाउ"
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "वरणाकृति अधोरेखाङ्कित बनाउने हो भने टिक लगाउ"
+
+#~ msgid "Colour:"
+#~ msgstr "रङ्ग:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "वरणाकृतिको रङ्ग फेर्न किटिक्क पार्नु होस्"
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "वरणाकृतिको चेहरा देखाउ छ ।"
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "वरणाकृति परिवर्तन रद्द गर्न किटिक्क पार्नु होस्"
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "वरणाकृति परिवर्तन यकिन गर्न किटिक्क पार्नु होस्"
+
+#~ msgid "<Any>"
+#~ msgstr "<कुनै>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<कुनै रोमन>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<कुनै सजावट>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<कुनै मोडेम >"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<कुनै Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<कुनै Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<कुनै Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "छाप्ने काम हुँदैछ ।"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2014-06-04 16:19+1200\n"
 "Last-Translator: Mariusz Drozdowski <schemedit@wp.pl>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4958,70 +4958,6 @@ msgstr "Nie można zmienić priorytetu wątku"
 msgid "failed to evaluate"
 msgstr "Nie udało się wykonać '%s'\n"
 
-msgid "Background colour"
-msgstr "Kolor tła"
-
-msgid "Font:"
-msgstr "Czcionka:"
-
-msgid "Size:"
-msgstr "Rozmiar:"
-
-msgid "The font size in points."
-msgstr "Rozmiar czcionki w punktach."
-
-msgid "Style:"
-msgstr "Styl:"
-
-msgid "Check to make the font bold."
-msgstr "Zaznacz aby pogrubić czcionkę."
-
-msgid "Check to make the font italic."
-msgstr "Zaznacz aby uzyskać kursywę czcionki."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Podkreślony"
-
-msgid "Check to make the font underlined."
-msgstr "Zaznacz aby podkreślić czcionkę."
-
-msgid "Colour:"
-msgstr "Kolor:"
-
-msgid "Click to change the font colour."
-msgstr "Kliknij, aby zmienić kolor czcionki."
-
-msgid "Shows a preview of the font."
-msgstr "Pokazuje podgląd czcionki."
-
-msgid "Click to cancel changes to the font."
-msgstr "Kliknij, aby anulować zmiany czcionki."
-
-msgid "Click to confirm changes to the font."
-msgstr "Kliknij, aby potwierdzić zmiany czcionki."
-
-msgid "<Any>"
-msgstr "<dowolny>"
-
-msgid "<Any Roman>"
-msgstr "<dowolny rzymski>"
-
-msgid "<Any Decorative>"
-msgstr "<dowolny ozdobny>"
-
-msgid "<Any Modern>"
-msgstr "<dowolny współczesny>"
-
-msgid "<Any Script>"
-msgstr "<dowolny Skrypt>"
-
-msgid "<Any Swiss>"
-msgstr "<dowolny szwajcarski>"
-
-msgid "<Any Teletype>"
-msgstr "<dowolny Teletype>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5134,6 +5070,10 @@ msgstr "Styl"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Waga"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Podkreślony"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6854,6 +6794,66 @@ msgstr "Pobranie '%s' do '%s' nie powiodło się."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Nie udało się skorzystać ze schowka."
+
+#~ msgid "Background colour"
+#~ msgstr "Kolor tła"
+
+#~ msgid "Font:"
+#~ msgstr "Czcionka:"
+
+#~ msgid "Size:"
+#~ msgstr "Rozmiar:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Rozmiar czcionki w punktach."
+
+#~ msgid "Style:"
+#~ msgstr "Styl:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Zaznacz aby pogrubić czcionkę."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Zaznacz aby uzyskać kursywę czcionki."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Zaznacz aby podkreślić czcionkę."
+
+#~ msgid "Colour:"
+#~ msgstr "Kolor:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Kliknij, aby zmienić kolor czcionki."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Pokazuje podgląd czcionki."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Kliknij, aby anulować zmiany czcionki."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Kliknij, aby potwierdzić zmiany czcionki."
+
+#~ msgid "<Any>"
+#~ msgstr "<dowolny>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<dowolny rzymski>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<dowolny ozdobny>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<dowolny współczesny>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<dowolny Skrypt>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<dowolny szwajcarski>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<dowolny Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "Drukowanie "

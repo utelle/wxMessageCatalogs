@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2014-04-13 17:41+0100\n"
 "Last-Translator: Jorge Pérez Pérez <jorgtum@gmail.com>\n"
 "Language-Team: softaragonés\n"
@@ -4964,70 +4964,6 @@ msgstr "No se puet establir a prioridat d'o filo d'execución"
 msgid "failed to evaluate"
 msgstr "S'ha produciu una error en executar '%s'\n"
 
-msgid "Background colour"
-msgstr "Color de fondo"
-
-msgid "Font:"
-msgstr "Fuent:"
-
-msgid "Size:"
-msgstr "Grandaria:"
-
-msgid "The font size in points."
-msgstr "A grandaria de fuent en puntos."
-
-msgid "Style:"
-msgstr "Estilo:"
-
-msgid "Check to make the font bold."
-msgstr "Marcar ta fer negreta la fuent."
-
-msgid "Check to make the font italic."
-msgstr "Marcar ta fer cursiva la fuent."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Subrayau"
-
-msgid "Check to make the font underlined."
-msgstr "Marcar ta fer subrayada a fuent."
-
-msgid "Colour:"
-msgstr "Color:"
-
-msgid "Click to change the font colour."
-msgstr "Fe clic ta cambiar a color d'a fuent."
-
-msgid "Shows a preview of the font."
-msgstr "Amuestra una anvista previa d'a fuent."
-
-msgid "Click to cancel changes to the font."
-msgstr "Fe clic ta cancelar os cambeos en a fuent."
-
-msgid "Click to confirm changes to the font."
-msgstr "Fe clic ta confirmar os cambeos en a fuent."
-
-msgid "<Any>"
-msgstr "<Cualsiquiera>"
-
-msgid "<Any Roman>"
-msgstr "<Cualsiquier Román>"
-
-msgid "<Any Decorative>"
-msgstr "<Cualsiquier Decorativo>"
-
-msgid "<Any Modern>"
-msgstr "<Cualsiquier Moderno>"
-
-msgid "<Any Script>"
-msgstr "<Cualsiquier Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Cualsiquier Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Cualsiquier Teletipo>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletipo"
@@ -5138,6 +5074,10 @@ msgstr "Estilo"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Peso"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Subrayau"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6854,6 +6794,66 @@ msgstr "Ha fallau a extracción de '%s' en '%s'."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "No s'ha puesto meter datos en o portafuellas."
+
+#~ msgid "Background colour"
+#~ msgstr "Color de fondo"
+
+#~ msgid "Font:"
+#~ msgstr "Fuent:"
+
+#~ msgid "Size:"
+#~ msgstr "Grandaria:"
+
+#~ msgid "The font size in points."
+#~ msgstr "A grandaria de fuent en puntos."
+
+#~ msgid "Style:"
+#~ msgstr "Estilo:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Marcar ta fer negreta la fuent."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Marcar ta fer cursiva la fuent."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Marcar ta fer subrayada a fuent."
+
+#~ msgid "Colour:"
+#~ msgstr "Color:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Fe clic ta cambiar a color d'a fuent."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Amuestra una anvista previa d'a fuent."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Fe clic ta cancelar os cambeos en a fuent."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Fe clic ta confirmar os cambeos en a fuent."
+
+#~ msgid "<Any>"
+#~ msgstr "<Cualsiquiera>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Cualsiquier Román>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Cualsiquier Decorativo>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Cualsiquier Moderno>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Cualsiquier Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Cualsiquier Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Cualsiquier Teletipo>"
 
 #~ msgid "Printing "
 #~ msgstr "Imprentando "

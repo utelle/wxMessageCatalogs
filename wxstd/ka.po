@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -4791,70 +4791,6 @@ msgstr "JavaScript-ის ობიექტის მიღების შე�
 msgid "failed to evaluate"
 msgstr "შეფასების შეცდომა"
 
-msgid "Background colour"
-msgstr "ფონის ფერი"
-
-msgid "Font:"
-msgstr "ფონტი:"
-
-msgid "Size:"
-msgstr "ზომა:"
-
-msgid "The font size in points."
-msgstr "ფონტის ზომი წერტილებში."
-
-msgid "Style:"
-msgstr "სტილი:"
-
-msgid "Check to make the font bold."
-msgstr "ფონტის გასასქელებლად ჩართეთ."
-
-msgid "Check to make the font italic."
-msgstr "ფონტის დასაკურსივებლად ჩართეთ."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "ხაზგასმული"
-
-msgid "Check to make the font underlined."
-msgstr "ფონტის ხაზგასასმელად ჩართეთ."
-
-msgid "Colour:"
-msgstr "ფერი:"
-
-msgid "Click to change the font colour."
-msgstr "წკაპი ფონტის ფერის შესაცვლელად."
-
-msgid "Shows a preview of the font."
-msgstr "ფონტის გადახედვის ჩვენება."
-
-msgid "Click to cancel changes to the font."
-msgstr "წკაპი ფონტის ცვლილებების გაუქმებისთვის."
-
-msgid "Click to confirm changes to the font."
-msgstr "წპაი ფონტის ცვლილებების დასადასატურებლად."
-
-msgid "<Any>"
-msgstr "<ნებისმიერი>"
-
-msgid "<Any Roman>"
-msgstr "<ნებისმიერი რომანული>"
-
-msgid "<Any Decorative>"
-msgstr "<ნებისმიერი დეკორატიული>"
-
-msgid "<Any Modern>"
-msgstr "<ნებისმიერი თანამედროვე>"
-
-msgid "<Any Script>"
-msgstr "<ნებისმიერი სკრიპტი>"
-
-msgid "<Any Swiss>"
-msgstr "<ნებისმიერი შვეიცარიული>"
-
-msgid "<Any Teletype>"
-msgstr "<ნებისმიერი ტელეტაიპი>"
-
 msgid "File type:"
 msgstr "ფაილის ტიპი:"
 
@@ -4961,6 +4897,10 @@ msgstr "სტილი"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "სიმძიმე"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "ხაზგასმული"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6626,6 +6566,66 @@ msgstr "შექმნა %s \"%s\" შეცდომა."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "მიმოცვლის ბაფერის დაყენების შეცდომა."
+
+#~ msgid "Background colour"
+#~ msgstr "ფონის ფერი"
+
+#~ msgid "Font:"
+#~ msgstr "ფონტი:"
+
+#~ msgid "Size:"
+#~ msgstr "ზომა:"
+
+#~ msgid "The font size in points."
+#~ msgstr "ფონტის ზომი წერტილებში."
+
+#~ msgid "Style:"
+#~ msgstr "სტილი:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "ფონტის გასასქელებლად ჩართეთ."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "ფონტის დასაკურსივებლად ჩართეთ."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "ფონტის ხაზგასასმელად ჩართეთ."
+
+#~ msgid "Colour:"
+#~ msgstr "ფერი:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "წკაპი ფონტის ფერის შესაცვლელად."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "ფონტის გადახედვის ჩვენება."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "წკაპი ფონტის ცვლილებების გაუქმებისთვის."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "წპაი ფონტის ცვლილებების დასადასატურებლად."
+
+#~ msgid "<Any>"
+#~ msgstr "<ნებისმიერი>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<ნებისმიერი რომანული>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<ნებისმიერი დეკორატიული>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<ნებისმიერი თანამედროვე>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<ნებისმიერი სკრიპტი>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<ნებისმიერი შვეიცარიული>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<ნებისმიერი ტელეტაიპი>"
 
 #~ msgid "Printing "
 #~ msgstr "დაბეჭდვა "

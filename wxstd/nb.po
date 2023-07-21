@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2015-10-27 22:33+0100\n"
 "Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -5029,84 +5029,6 @@ msgstr "Klarte ikke sette trådprioritet"
 msgid "failed to evaluate"
 msgstr "Klarte ikke utføre «%s»\n"
 
-msgid "Background colour"
-msgstr "Bakgrunnsfarge"
-
-#, fuzzy
-msgid "Font:"
-msgstr "Skriftstørrelse:"
-
-#, fuzzy
-msgid "Size:"
-msgstr "Størrelse"
-
-#, fuzzy
-msgid "The font size in points."
-msgstr "Skriftpunktstørrelse"
-
-#, fuzzy
-msgid "Style:"
-msgstr "&Stil:"
-
-msgid "Check to make the font bold."
-msgstr "Klikk for lage fet skrift."
-
-msgid "Check to make the font italic."
-msgstr "Klikk for å lage kursiv skrift."
-
-#. TRANSLATORS: Label of underlined font
-#, fuzzy
-msgid "Underlined"
-msgstr "&Strek under"
-
-#, fuzzy
-msgid "Check to make the font underlined."
-msgstr "Om skriften er understreket."
-
-#, fuzzy
-msgid "Colour:"
-msgstr "&Farge"
-
-msgid "Click to change the font colour."
-msgstr "Klikk for å endre farge på skrift."
-
-msgid "Shows a preview of the font."
-msgstr "Forhåndsvisning av skrifttypen."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klikk for å avbryte endringer på fonten."
-
-#, fuzzy
-msgid "Click to confirm changes to the font."
-msgstr "Klikk for å bekrefte skriftvalg"
-
-msgid "<Any>"
-msgstr ""
-
-#, fuzzy
-msgid "<Any Roman>"
-msgstr "Roman"
-
-#, fuzzy
-msgid "<Any Decorative>"
-msgstr "Dekorativ"
-
-#, fuzzy
-msgid "<Any Modern>"
-msgstr "Moderne"
-
-#, fuzzy
-msgid "<Any Script>"
-msgstr "Skript"
-
-#, fuzzy
-msgid "<Any Swiss>"
-msgstr "Swiss"
-
-#, fuzzy
-msgid "<Any Teletype>"
-msgstr "Teletype"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5224,6 +5146,11 @@ msgstr "&Stil:"
 #, fuzzy
 msgid "Weight"
 msgstr "&Vekt:"
+
+#. TRANSLATORS: Label of underlined font
+#, fuzzy
+msgid "Underlined"
+msgstr "&Strek under"
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -7020,6 +6947,76 @@ msgstr "Utpakking av «%s» inni «%s» feilet."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Klarte ikke sette utklippstavledata."
+
+#~ msgid "Background colour"
+#~ msgstr "Bakgrunnsfarge"
+
+#, fuzzy
+#~ msgid "Font:"
+#~ msgstr "Skriftstørrelse:"
+
+#, fuzzy
+#~ msgid "Size:"
+#~ msgstr "Størrelse"
+
+#, fuzzy
+#~ msgid "The font size in points."
+#~ msgstr "Skriftpunktstørrelse"
+
+#, fuzzy
+#~ msgid "Style:"
+#~ msgstr "&Stil:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Klikk for lage fet skrift."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Klikk for å lage kursiv skrift."
+
+#, fuzzy
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Om skriften er understreket."
+
+#, fuzzy
+#~ msgid "Colour:"
+#~ msgstr "&Farge"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klikk for å endre farge på skrift."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Forhåndsvisning av skrifttypen."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klikk for å avbryte endringer på fonten."
+
+#, fuzzy
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klikk for å bekrefte skriftvalg"
+
+#, fuzzy
+#~ msgid "<Any Roman>"
+#~ msgstr "Roman"
+
+#, fuzzy
+#~ msgid "<Any Decorative>"
+#~ msgstr "Dekorativ"
+
+#, fuzzy
+#~ msgid "<Any Modern>"
+#~ msgstr "Moderne"
+
+#, fuzzy
+#~ msgid "<Any Script>"
+#~ msgstr "Skript"
+
+#, fuzzy
+#~ msgid "<Any Swiss>"
+#~ msgstr "Swiss"
+
+#, fuzzy
+#~ msgid "<Any Teletype>"
+#~ msgstr "Teletype"
 
 #~ msgid "Printing "
 #~ msgstr "Skriver ut"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2018-09-06 07:55+0500\n"
 "Last-Translator: Alexander Kovalenko <nktch@yandex.ru>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4873,70 +4873,6 @@ msgstr "Невозможно установить приоритет поток�
 msgid "failed to evaluate"
 msgstr "Не удалось выполнить '%s'\n"
 
-msgid "Background colour"
-msgstr "Цвет фона"
-
-msgid "Font:"
-msgstr "Шрифт:"
-
-msgid "Size:"
-msgstr "Размер:"
-
-msgid "The font size in points."
-msgstr "Размер шрифта в точках."
-
-msgid "Style:"
-msgstr "Стиль:"
-
-msgid "Check to make the font bold."
-msgstr "Установите флажок, чтобы сделать шрифт полужирным."
-
-msgid "Check to make the font italic."
-msgstr "Установите флажок, чтобы сделать шрифт курсивом."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Подчёркнутый"
-
-msgid "Check to make the font underlined."
-msgstr "Установите флажок, чтобы сделать шрифт подчёркнутым."
-
-msgid "Colour:"
-msgstr "Цвет:"
-
-msgid "Click to change the font colour."
-msgstr "Щёлкните, чтобы изменить цвет шрифта."
-
-msgid "Shows a preview of the font."
-msgstr "Показывает как выглядит шрифт."
-
-msgid "Click to cancel changes to the font."
-msgstr "Щёлкните, чтобы отменить изменения шрифта."
-
-msgid "Click to confirm changes to the font."
-msgstr "Щёлкните, чтобы подтвердить изменения в шрифте."
-
-msgid "<Any>"
-msgstr "<Всем>"
-
-msgid "<Any Roman>"
-msgstr "<Любой Римский>"
-
-msgid "<Any Decorative>"
-msgstr "<Любой декоративный>"
-
-msgid "<Any Modern>"
-msgstr "<Любой современный>"
-
-msgid "<Any Script>"
-msgstr "<Любой скрипт>"
-
-msgid "<Any Swiss>"
-msgstr "<Любой Швейцарский>"
-
-msgid "<Any Teletype>"
-msgstr "<Любой телетайп>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Телетайп"
@@ -5046,6 +4982,10 @@ msgstr "Стиль"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Вес"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Подчёркнутый"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6746,6 +6686,66 @@ msgstr "Не удалось создать '%s' в '%s'."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Не удалось установить данные буфера обмена."
+
+#~ msgid "Background colour"
+#~ msgstr "Цвет фона"
+
+#~ msgid "Font:"
+#~ msgstr "Шрифт:"
+
+#~ msgid "Size:"
+#~ msgstr "Размер:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Размер шрифта в точках."
+
+#~ msgid "Style:"
+#~ msgstr "Стиль:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Установите флажок, чтобы сделать шрифт полужирным."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Установите флажок, чтобы сделать шрифт курсивом."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Установите флажок, чтобы сделать шрифт подчёркнутым."
+
+#~ msgid "Colour:"
+#~ msgstr "Цвет:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Щёлкните, чтобы изменить цвет шрифта."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Показывает как выглядит шрифт."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Щёлкните, чтобы отменить изменения шрифта."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Щёлкните, чтобы подтвердить изменения в шрифте."
+
+#~ msgid "<Any>"
+#~ msgstr "<Всем>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Любой Римский>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Любой декоративный>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Любой современный>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Любой скрипт>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Любой Швейцарский>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Любой телетайп>"
 
 #~ msgid "Printing "
 #~ msgstr "Печать "

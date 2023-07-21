@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2020-10-19 12:24+0200\n"
 "Last-Translator: Jozef Matta <jozef.m923@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -4866,70 +4866,6 @@ msgstr "Nemožno nastaviť prioritu vlákna"
 msgid "failed to evaluate"
 msgstr "Zlyhalo vykonanie '%s'\n"
 
-msgid "Background colour"
-msgstr "Farba pozadia"
-
-msgid "Font:"
-msgstr "Písmo:"
-
-msgid "Size:"
-msgstr "Veľkosť:"
-
-msgid "The font size in points."
-msgstr "Veľkosť písma v bodoch."
-
-msgid "Style:"
-msgstr "Štýl:"
-
-msgid "Check to make the font bold."
-msgstr "Zaškrtnite pre tučné písmo."
-
-msgid "Check to make the font italic."
-msgstr "Zaškrtnite pre kurzívu."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Podčiarknuté"
-
-msgid "Check to make the font underlined."
-msgstr "Zaškrtnite pre podčiarknuté písmo."
-
-msgid "Colour:"
-msgstr "Farba:"
-
-msgid "Click to change the font colour."
-msgstr "Kliknite pre zmenu farby písma."
-
-msgid "Shows a preview of the font."
-msgstr "Zobrazí náhľad písma."
-
-msgid "Click to cancel changes to the font."
-msgstr "Kliknite pre zrušenie zmien v písme."
-
-msgid "Click to confirm changes to the font."
-msgstr "Kliknite pre potvrdenie zmien písma."
-
-msgid "<Any>"
-msgstr "<ľubovoľné>"
-
-msgid "<Any Roman>"
-msgstr "<ľubovoľné rímske>"
-
-msgid "<Any Decorative>"
-msgstr "<ľubovoľné okrasné>"
-
-msgid "<Any Modern>"
-msgstr "<ľubovoľné moderné>"
-
-msgid "<Any Script>"
-msgstr "<ľubovoľné písané>"
-
-msgid "<Any Swiss>"
-msgstr "<ľubovoľné švajčiarske>"
-
-msgid "<Any Teletype>"
-msgstr "<ľubovoľné terminálové>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Ďalekopis"
@@ -5040,6 +4976,10 @@ msgstr "Štýl"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Hrúbka"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Podčiarknuté"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6740,6 +6680,66 @@ msgstr "Vytváranie %s '%s' zlyhalo."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Zlyhalo nastavenie údajov do schránky."
+
+#~ msgid "Background colour"
+#~ msgstr "Farba pozadia"
+
+#~ msgid "Font:"
+#~ msgstr "Písmo:"
+
+#~ msgid "Size:"
+#~ msgstr "Veľkosť:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Veľkosť písma v bodoch."
+
+#~ msgid "Style:"
+#~ msgstr "Štýl:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Zaškrtnite pre tučné písmo."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Zaškrtnite pre kurzívu."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Zaškrtnite pre podčiarknuté písmo."
+
+#~ msgid "Colour:"
+#~ msgstr "Farba:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Kliknite pre zmenu farby písma."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Zobrazí náhľad písma."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Kliknite pre zrušenie zmien v písme."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Kliknite pre potvrdenie zmien písma."
+
+#~ msgid "<Any>"
+#~ msgstr "<ľubovoľné>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<ľubovoľné rímske>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<ľubovoľné okrasné>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<ľubovoľné moderné>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<ľubovoľné písané>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<ľubovoľné švajčiarske>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<ľubovoľné terminálové>"
 
 #~ msgid "Printing "
 #~ msgstr "Tlačí sa "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4741,70 +4741,6 @@ msgstr ""
 msgid "failed to evaluate"
 msgstr ""
 
-msgid "Background colour"
-msgstr ""
-
-msgid "Font:"
-msgstr ""
-
-msgid "Size:"
-msgstr ""
-
-msgid "The font size in points."
-msgstr ""
-
-msgid "Style:"
-msgstr ""
-
-msgid "Check to make the font bold."
-msgstr ""
-
-msgid "Check to make the font italic."
-msgstr ""
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr ""
-
-msgid "Check to make the font underlined."
-msgstr ""
-
-msgid "Colour:"
-msgstr ""
-
-msgid "Click to change the font colour."
-msgstr ""
-
-msgid "Shows a preview of the font."
-msgstr ""
-
-msgid "Click to cancel changes to the font."
-msgstr ""
-
-msgid "Click to confirm changes to the font."
-msgstr ""
-
-msgid "<Any>"
-msgstr ""
-
-msgid "<Any Roman>"
-msgstr ""
-
-msgid "<Any Decorative>"
-msgstr ""
-
-msgid "<Any Modern>"
-msgstr ""
-
-msgid "<Any Script>"
-msgstr ""
-
-msgid "<Any Swiss>"
-msgstr ""
-
-msgid "<Any Teletype>"
-msgstr ""
-
 msgid "File type:"
 msgstr ""
 
@@ -4905,6 +4841,10 @@ msgstr ""
 
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
+msgstr ""
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
 msgstr ""
 
 #. TRANSLATORS: Label of font family

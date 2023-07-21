@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
-"PO-Revision-Date: 2022-06-28 03:37+0300\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
 "language/tr_TR/)\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 msgid "All files (*.*)|*.*"
 msgstr "Tüm dosyalar (*.*)|*.*"
@@ -800,7 +800,7 @@ msgstr "\"%s\" hata ayıklama rapor dosyası silinemedi"
 
 #, c-format
 msgid "Failed to clean up debug report directory \"%s\""
-msgstr "\"%s\" hata ayıklama rapor klasörü temizlenemedi"
+msgstr "\"%s\" hata ayıklama raporu klasörü temizlenemedi"
 
 msgid "process context description"
 msgstr "işlem bağlamı tanımı"
@@ -854,29 +854,28 @@ msgid "&Save"
 msgstr "Kay&det"
 
 msgid "&Discard changes"
-msgstr ""
+msgstr "&Değişiklikleri yok say"
 
-#, fuzzy
 msgid "Do&n't close"
-msgstr "Kaydedilmesin"
+msgstr "&Kapatılmasın"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Do you want to save changes to %s before closing it?"
-msgstr "%s üzerinde yapılan değişiklikleri kaydetmek istiyor musunuz?"
+msgstr ""
+"Kapatmadan önce %s üzerinde yapılan değişiklikleri kaydetmek istiyor musunuz?"
 
-#, fuzzy
 msgid "The document must be closed."
-msgstr "Metin kaydedilemedi."
+msgstr "Belge kapatılmalıdır."
 
 #, c-format
 msgid "Saving %s failed, would you like to retry?"
-msgstr ""
+msgstr "%s kaydedilemedi. Yeniden denemek ister misiniz?"
 
 msgid "Retry"
-msgstr ""
+msgstr "Yeniden dene"
 
 msgid "Discard changes"
-msgstr ""
+msgstr "Değişiklikleri yok say"
 
 #, c-format
 msgid "File \"%s\" could not be opened for writing."
@@ -3313,7 +3312,7 @@ msgid "A debug report has been generated in the directory\n"
 msgstr "Klasörde bir hata ayıklama raporu oluşturuldu\n"
 
 msgid "The following debug report will be generated\n"
-msgstr "Şu hata ayıklama raporu üretilecek\n"
+msgstr "Şu hata ayıklama raporu oluşturulacak\n"
 
 msgid ""
 "The report contains the files listed below. If any of these files contain "
@@ -3330,8 +3329,8 @@ msgid ""
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
 msgstr ""
-"Bu hata raporunu göndermek istemiyorsanız, \"İptal\" düğmesine tıklayın,\n"
-"ancak bu rapor, yazılımın geliştirilmesine yardımcı olabilir, \n"
+"Bu hata raporunu göndermek istemiyorsanız, \"İptal\" düğmesine tıklayın.\n"
+"Ancak bu rapor, yazılımın geliştirilmesine yardımcı olabilir, \n"
 "bu nedenle olanağınız varsa raporu gönderin.\n"
 
 msgid "              Thank you and we're sorry for the inconvenience!\n"
@@ -3893,7 +3892,8 @@ msgid ""
 "work around this by setting environment variable GDK_BACKEND=x11 before\n"
 "starting your program."
 msgstr ""
-"wxGLCanvas şu anda yalnız Wayland ve X11 üzerinde destekleniyor. Uygulamayı\n"
+"wxGLCanvas şu anda yalnızca Wayland ve X11 üzerinde destekleniyor. "
+"Uygulamayı\n"
 "başlatmadan önce GDK_BACKEND=x11 ortam değişkenini ayarlayıp, uygulamayı \n"
 "X11 arka yüzü üzerinde çalıştırarak bu sorunu çözebilirsiniz."
 
@@ -3987,7 +3987,7 @@ msgid "Extraction of '%s' into '%s' failed."
 msgstr "'%s'', '%s' içine açılamadı."
 
 msgid "CHM handler currently supports only local files!"
-msgstr "CHM işleyici şimdilik yalnız yerel dosyaları destekliyor!"
+msgstr "CHM işleyici şimdilik yalnızca yerel dosyaları destekliyor!"
 
 msgid "Link contained '//', converted to absolute link."
 msgstr "Bağlantı '//' içeriyor, mutlak bağlantıya dönüştürüldü."
@@ -4050,7 +4050,7 @@ msgid "Case sensitive"
 msgstr "Büyük küçük harfe duyarlı"
 
 msgid "Whole words only"
-msgstr "Yalnız tam sözcükler"
+msgstr "Yalnızca tam sözcükler"
 
 msgid ""
 "Search contents of help book(s) for all occurrences of the text you typed "
@@ -4333,7 +4333,7 @@ msgid "a request for a synchronous poke transaction has timed out."
 msgstr "eşzamanlı itme hareketi isteği zaman aşımına uğradı."
 
 msgid "an internal call to the PostMessage function has failed. "
-msgstr "PostMessage işlevine içsel çağrı yapılamadı. "
+msgstr "PostMessage işlevine iç çağrı yapılamadı. "
 
 msgid "reentrancy problem."
 msgstr "yeniden giriş sorunu."
@@ -4822,13 +4822,13 @@ msgid "Cannot load icon from '%s'."
 msgstr "'%s' içinden simge yüklenemedi."
 
 msgid "Failed to find web view emulation level in the registry"
-msgstr "Kayıt defterinde web görünümü benzetimi düzeyi bulunamadı"
+msgstr "Kayıt defterinde internet görünümü benzetimi düzeyi bulunamadı"
 
 msgid "Failed to set web view to modern emulation level"
-msgstr "Web görünümü modern benzetim düzeyine ayarlanamadı"
+msgstr "İnternet görünümü modern benzetim düzeyine ayarlanamadı"
 
 msgid "Failed to reset web view to standard emulation level"
-msgstr "Web görünümü standart benzetim düzeyine sıfırlanamadı"
+msgstr "İnternet görünümü standart benzetim düzeyine sıfırlanamadı"
 
 msgid "Can't run JavaScript script without a valid HTML document"
 msgstr "Geçerli bir HTML belgesi olmadan JavaScript betiği çalıştırılamaz"
@@ -4839,94 +4839,25 @@ msgstr "JavaScript nesnesi alınamadı"
 msgid "failed to evaluate"
 msgstr "değerlendirilemedi"
 
-msgid "Background colour"
-msgstr "Arka plan rengi"
-
-msgid "Font:"
-msgstr "Yazı türü:"
-
-msgid "Size:"
-msgstr "Boyut:"
-
-msgid "The font size in points."
-msgstr "Punto olarak yazı türü boyutu."
-
-msgid "Style:"
-msgstr "Biçem:"
-
-msgid "Check to make the font bold."
-msgstr "Koyu yazı türü için işaretleyin."
-
-msgid "Check to make the font italic."
-msgstr "Yatık yazı türü için işaretleyin."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Altı çizili"
-
-msgid "Check to make the font underlined."
-msgstr "Altı çizili yazı türü için işaretleyin."
-
-msgid "Colour:"
-msgstr "Renk:"
-
-msgid "Click to change the font colour."
-msgstr "Metin rengini değiştirmek için tıklayın."
-
-msgid "Shows a preview of the font."
-msgstr "Yazı türünün ön izlemesini görüntüler."
-
-msgid "Click to cancel changes to the font."
-msgstr "Yazı türü değişikliklerinden vazgeçmek için tıklayın."
-
-msgid "Click to confirm changes to the font."
-msgstr "Yazı türündeki değişiklikleri onaylamak için tıklayın."
-
-msgid "<Any>"
-msgstr "<Any>"
-
-msgid "<Any Roman>"
-msgstr "<Any Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Any Decorative>"
-
-msgid "<Any Modern>"
-msgstr "<Any Modern>"
-
-msgid "<Any Script>"
-msgstr "<Any Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Any Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Any Teletype>"
-
 msgid "File type:"
 msgstr "Dosya türü:"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Window"
 msgstr "Pencere"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Help"
 msgstr "Yardım"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Minimize"
 msgstr "Küçült"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Zoom"
 msgstr "Yakınlaştır"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Bring All to Front"
 msgstr "Tümünü öne getir"
@@ -5011,6 +4942,10 @@ msgstr "Biçem"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Yoğunluk"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Altı çizili"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6430,7 +6365,7 @@ msgid "Failed to create epoll descriptor"
 msgstr "epoll tanımlayıcısı oluşturulamadı"
 
 msgid "Error closing epoll descriptor"
-msgstr "epoll tanımlayıcı kapatma hatası"
+msgstr "epoll tanımlayıcı kapatılırken sorun çıktı"
 
 #, c-format
 msgid "Failed to add descriptor %d to epoll descriptor %d"
@@ -6682,6 +6617,66 @@ msgstr "%s \"%s\" oluşturulamadı."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Pano verisi ayarlanamadı."
+
+#~ msgid "Background colour"
+#~ msgstr "Arka plan rengi"
+
+#~ msgid "Font:"
+#~ msgstr "Yazı türü:"
+
+#~ msgid "Size:"
+#~ msgstr "Boyut:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Punto olarak yazı türü boyutu."
+
+#~ msgid "Style:"
+#~ msgstr "Biçem:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Koyu yazı türü için işaretleyin."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Yatık yazı türü için işaretleyin."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Altı çizili yazı türü için işaretleyin."
+
+#~ msgid "Colour:"
+#~ msgstr "Renk:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Metin rengini değiştirmek için tıklayın."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Yazı türünün ön izlemesini görüntüler."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Yazı türü değişikliklerinden vazgeçmek için tıklayın."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Yazı türündeki değişiklikleri onaylamak için tıklayın."
+
+#~ msgid "<Any>"
+#~ msgstr "<Any>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Any Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Any Decorative>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Any Modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Any Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Any Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Any Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "Yazdırılıyor "

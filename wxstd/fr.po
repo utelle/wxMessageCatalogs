@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2022-04-10 12:52+0200\n"
 "Last-Translator: Gérard DURAND <gerard-florence.durand@orange.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -4902,70 +4902,6 @@ msgstr "Ne peut pas accéder à l'objet JavaScript"
 msgid "failed to evaluate"
 msgstr "échec de l'évaluation"
 
-msgid "Background colour"
-msgstr "Couleur d'arrière plan"
-
-msgid "Font:"
-msgstr "Police de caractères :"
-
-msgid "Size:"
-msgstr "Taille :"
-
-msgid "The font size in points."
-msgstr "Taille de la police en points."
-
-msgid "Style:"
-msgstr "Style :"
-
-msgid "Check to make the font bold."
-msgstr "Cocher pour mettre la police en gras."
-
-msgid "Check to make the font italic."
-msgstr "Cocher pour mettre la police en italique."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Souligné"
-
-msgid "Check to make the font underlined."
-msgstr "Cocher pour mettre la police en souligné."
-
-msgid "Colour:"
-msgstr "Couleur :"
-
-msgid "Click to change the font colour."
-msgstr "Cliquez pour changer la couleur de la police."
-
-msgid "Shows a preview of the font."
-msgstr "Montre un aperçu de la liste."
-
-msgid "Click to cancel changes to the font."
-msgstr "Cliquer pour annuler les modifications sur la police."
-
-msgid "Click to confirm changes to the font."
-msgstr "Cliquer pour confirmer les modifications de la police."
-
-msgid "<Any>"
-msgstr "<Quelconque>"
-
-msgid "<Any Roman>"
-msgstr "<N'importe quel Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<N'importe quelle Décoration>"
-
-msgid "<Any Modern>"
-msgstr "<N'importe quel Moderne>"
-
-msgid "<Any Script>"
-msgstr "<N'importe quel Script>"
-
-msgid "<Any Swiss>"
-msgstr "<N'importe quel Suisse>"
-
-msgid "<Any Teletype>"
-msgstr "<N'importe quel Télétype>"
-
 msgid "File type:"
 msgstr "Type de fichier :"
 
@@ -5076,6 +5012,10 @@ msgstr "Style"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Poids"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Souligné"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6792,6 +6732,66 @@ msgstr "Échec de la création de %s « %s »."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Échec de la configuration des données du presse-papiers."
+
+#~ msgid "Background colour"
+#~ msgstr "Couleur d'arrière plan"
+
+#~ msgid "Font:"
+#~ msgstr "Police de caractères :"
+
+#~ msgid "Size:"
+#~ msgstr "Taille :"
+
+#~ msgid "The font size in points."
+#~ msgstr "Taille de la police en points."
+
+#~ msgid "Style:"
+#~ msgstr "Style :"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Cocher pour mettre la police en gras."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Cocher pour mettre la police en italique."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Cocher pour mettre la police en souligné."
+
+#~ msgid "Colour:"
+#~ msgstr "Couleur :"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Cliquez pour changer la couleur de la police."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Montre un aperçu de la liste."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Cliquer pour annuler les modifications sur la police."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Cliquer pour confirmer les modifications de la police."
+
+#~ msgid "<Any>"
+#~ msgstr "<Quelconque>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<N'importe quel Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<N'importe quelle Décoration>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<N'importe quel Moderne>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<N'importe quel Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<N'importe quel Suisse>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<N'importe quel Télétype>"
 
 #~ msgid "Printing "
 #~ msgstr "Impression en cours "

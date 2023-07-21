@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2012-03-22 18:41+0200\n"
 "Last-Translator: Fatma Mehanna <fatma.mehanna@gmail.com>\n"
 "Language-Team: arabictranslationteam@googlegroups.com\n"
@@ -4884,70 +4884,6 @@ msgstr "تعذر تحديد أولوية الموضوع"
 msgid "failed to evaluate"
 msgstr ""
 
-msgid "Background colour"
-msgstr "لون الخلفية"
-
-msgid "Font:"
-msgstr "خط:"
-
-msgid "Size:"
-msgstr "حجم:"
-
-msgid "The font size in points."
-msgstr ""
-
-msgid "Style:"
-msgstr ""
-
-msgid "Check to make the font bold."
-msgstr "حدد كي تجعل الخط عريض"
-
-msgid "Check to make the font italic."
-msgstr "حدد كي تجعل الخط مائلا"
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr ""
-
-msgid "Check to make the font underlined."
-msgstr "حدد كي تجضع تحته خط"
-
-msgid "Colour:"
-msgstr "لون:"
-
-msgid "Click to change the font colour."
-msgstr "انقر لتغيير لون الخط"
-
-msgid "Shows a preview of the font."
-msgstr ""
-
-msgid "Click to cancel changes to the font."
-msgstr "انقر لإلغاء تغييرات الخط"
-
-msgid "Click to confirm changes to the font."
-msgstr "انقر لتأكيد تغييرات الخط"
-
-msgid "<Any>"
-msgstr "<Any>"
-
-msgid "<Any Roman>"
-msgstr "<Any Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Any Decorative>"
-
-msgid "<Any Modern>"
-msgstr "<Any Modern>"
-
-msgid "<Any Script>"
-msgstr "<Any Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Any Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Any Teletype>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "خطأ بالملف"
@@ -5061,6 +4997,10 @@ msgstr "نمط"
 #, fuzzy
 msgid "Weight"
 msgstr "يمين"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr ""
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -6816,6 +6756,57 @@ msgstr "تعذر تحميل المصادر من '%s'."
 #, fuzzy, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "فشل فك '%s' ب '%s'."
+
+#~ msgid "Background colour"
+#~ msgstr "لون الخلفية"
+
+#~ msgid "Font:"
+#~ msgstr "خط:"
+
+#~ msgid "Size:"
+#~ msgstr "حجم:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "حدد كي تجعل الخط عريض"
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "حدد كي تجعل الخط مائلا"
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "حدد كي تجضع تحته خط"
+
+#~ msgid "Colour:"
+#~ msgstr "لون:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "انقر لتغيير لون الخط"
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "انقر لإلغاء تغييرات الخط"
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "انقر لتأكيد تغييرات الخط"
+
+#~ msgid "<Any>"
+#~ msgstr "<Any>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Any Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Any Decorative>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Any Modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Any Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Any Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Any Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "طبع"

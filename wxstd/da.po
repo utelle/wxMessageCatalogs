@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2017-07-26 00:00+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish\n"
@@ -4862,70 +4862,6 @@ msgstr "Kan ikke sætte trådprioritet"
 msgid "failed to evaluate"
 msgstr "Kunne ikke eksekvere \"%s\"\n"
 
-msgid "Background colour"
-msgstr "Baggrundsfarve"
-
-msgid "Font:"
-msgstr "Skrifttype:"
-
-msgid "Size:"
-msgstr "Størrelse:"
-
-msgid "The font size in points."
-msgstr "Skriftstørrelsen i punkt."
-
-msgid "Style:"
-msgstr "Typografi:"
-
-msgid "Check to make the font bold."
-msgstr "Slå til for at gøre teksten fed."
-
-msgid "Check to make the font italic."
-msgstr "Slå til for at gøre teksten kursiv."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Understreget"
-
-msgid "Check to make the font underlined."
-msgstr "Slå til for at gøre teksten understreget."
-
-msgid "Colour:"
-msgstr "Farve:"
-
-msgid "Click to change the font colour."
-msgstr "Klik for at ændre skriftfarven."
-
-msgid "Shows a preview of the font."
-msgstr "Viser en prøve på skrifttypen."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klik for at annullere ændringer af skrifttypen."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klik for at bekræfte ændringer af skrifttypen."
-
-msgid "<Any>"
-msgstr "<Hvilken som helst>"
-
-msgid "<Any Roman>"
-msgstr "<Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Dekorativ>"
-
-msgid "<Any Modern>"
-msgstr "<Moderne>"
-
-msgid "<Any Script>"
-msgstr "<Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Teletype>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5035,6 +4971,10 @@ msgstr "Typografi"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Vægt"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Understreget"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6735,6 +6675,66 @@ msgstr "Oprettelse af %s \"%s\" fejlede."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Kunne ikke sende data til udklipsholder."
+
+#~ msgid "Background colour"
+#~ msgstr "Baggrundsfarve"
+
+#~ msgid "Font:"
+#~ msgstr "Skrifttype:"
+
+#~ msgid "Size:"
+#~ msgstr "Størrelse:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Skriftstørrelsen i punkt."
+
+#~ msgid "Style:"
+#~ msgstr "Typografi:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Slå til for at gøre teksten fed."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Slå til for at gøre teksten kursiv."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Slå til for at gøre teksten understreget."
+
+#~ msgid "Colour:"
+#~ msgstr "Farve:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klik for at ændre skriftfarven."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Viser en prøve på skrifttypen."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klik for at annullere ændringer af skrifttypen."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klik for at bekræfte ændringer af skrifttypen."
+
+#~ msgid "<Any>"
+#~ msgstr "<Hvilken som helst>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Dekorativ>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Moderne>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "Udskriver "

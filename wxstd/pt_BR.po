@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2023-03-27 12:18-0300\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Felipe <felipefplzx@gmail.com>\n"
@@ -4872,70 +4872,6 @@ msgstr "Não pôde obter o objeto do JavaScript"
 msgid "failed to evaluate"
 msgstr "falhou em avaliar"
 
-msgid "Background colour"
-msgstr "Côr do 2º plano"
-
-msgid "Font:"
-msgstr "Fonte:"
-
-msgid "Size:"
-msgstr "Tamanho:"
-
-msgid "The font size in points."
-msgstr "O tamanho da fonte em pontos."
-
-msgid "Style:"
-msgstr "Estilo:"
-
-msgid "Check to make the font bold."
-msgstr "Marque pra fazer a fonte ficar em negrito."
-
-msgid "Check to make the font italic."
-msgstr "Marque pra fazer a fonte ficar em itálico."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "&Sublinhado"
-
-msgid "Check to make the font underlined."
-msgstr "Marque pra fazer a fonte ficar sublinhada."
-
-msgid "Colour:"
-msgstr "Côr:"
-
-msgid "Click to change the font colour."
-msgstr "Clique pra mudar a côr da fonte."
-
-msgid "Shows a preview of the font."
-msgstr "Mostra uma pré-visualização da fonte."
-
-msgid "Click to cancel changes to the font."
-msgstr "Clique pra cancelar as mudanças na fonte."
-
-msgid "Click to confirm changes to the font."
-msgstr "Clique pra confirmar as mudanças na fonte."
-
-msgid "<Any>"
-msgstr "<Qualquer>"
-
-msgid "<Any Roman>"
-msgstr "<Qualquer Romano>"
-
-msgid "<Any Decorative>"
-msgstr "<Qualquer Decorativo>"
-
-msgid "<Any Modern>"
-msgstr "<Qualquer Moderno>"
-
-msgid "<Any Script>"
-msgstr "<Qualquer Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Qualquer Suíço>"
-
-msgid "<Any Teletype>"
-msgstr "<Qualquer Teletipo>"
-
 msgid "File type:"
 msgstr "Tipo de Arquivo:"
 
@@ -5039,6 +4975,10 @@ msgstr "Estilo"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Peso"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "&Sublinhado"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6713,6 +6653,66 @@ msgstr "Falhou em criar %s \"%s\"."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Falhou em definir os dados da área de transferência."
+
+#~ msgid "Background colour"
+#~ msgstr "Côr do 2º plano"
+
+#~ msgid "Font:"
+#~ msgstr "Fonte:"
+
+#~ msgid "Size:"
+#~ msgstr "Tamanho:"
+
+#~ msgid "The font size in points."
+#~ msgstr "O tamanho da fonte em pontos."
+
+#~ msgid "Style:"
+#~ msgstr "Estilo:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Marque pra fazer a fonte ficar em negrito."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Marque pra fazer a fonte ficar em itálico."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Marque pra fazer a fonte ficar sublinhada."
+
+#~ msgid "Colour:"
+#~ msgstr "Côr:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Clique pra mudar a côr da fonte."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Mostra uma pré-visualização da fonte."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Clique pra cancelar as mudanças na fonte."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Clique pra confirmar as mudanças na fonte."
+
+#~ msgid "<Any>"
+#~ msgstr "<Qualquer>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Qualquer Romano>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Qualquer Decorativo>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Qualquer Moderno>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Qualquer Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Qualquer Suíço>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Qualquer Teletipo>"
 
 #~ msgid "Printing "
 #~ msgstr "Imprimindo "

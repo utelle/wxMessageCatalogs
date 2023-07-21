@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -4987,70 +4987,6 @@ msgstr "Säikeen prioriteetin asetus epäonnistui"
 msgid "failed to evaluate"
 msgstr "Ei voitu ajaa kohdetta ”%s”\n"
 
-msgid "Background colour"
-msgstr "Taustaväri"
-
-msgid "Font:"
-msgstr "Kirjasin:"
-
-msgid "Size:"
-msgstr "Koko:"
-
-msgid "The font size in points."
-msgstr "Kirjasinkoko pisteinä."
-
-msgid "Style:"
-msgstr "Tyyli:"
-
-msgid "Check to make the font bold."
-msgstr "Valitse tehdäksesi kirjasimesta lihavoidun."
-
-msgid "Check to make the font italic."
-msgstr "Valitse tehdäksesi kirjasimesta kursivoidun."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Alleviivattu"
-
-msgid "Check to make the font underlined."
-msgstr "Valitse alleviivataksesi kirjasimen."
-
-msgid "Colour:"
-msgstr "Väri:"
-
-msgid "Click to change the font colour."
-msgstr "Napsauta muuttaaksesi kirjasimen värin."
-
-msgid "Shows a preview of the font."
-msgstr "Näyttää kirjasimen esikatselun."
-
-msgid "Click to cancel changes to the font."
-msgstr "Napsauta peruuttaaksesi muutokset kirjasimeen."
-
-msgid "Click to confirm changes to the font."
-msgstr "Napsauta varmistaaksesi muutokset kirjasimeen."
-
-msgid "<Any>"
-msgstr "<Mikä tahansa>"
-
-msgid "<Any Roman>"
-msgstr "<Roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Koristeellinen>"
-
-msgid "<Any Modern>"
-msgstr "<Moderni>"
-
-msgid "<Any Script>"
-msgstr "<Script>"
-
-msgid "<Any Swiss>"
-msgstr "<Swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Teletype>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
@@ -5157,6 +5093,10 @@ msgstr "Tyyli"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Paino"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Alleviivattu"
 
 #. TRANSLATORS: Label of font family
 #, fuzzy
@@ -6960,6 +6900,66 @@ msgstr "Ei voitu purkaa ”%s”:aa kohteeseen ”%s”."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Leikepöydän datan asetus epäonnistui."
+
+#~ msgid "Background colour"
+#~ msgstr "Taustaväri"
+
+#~ msgid "Font:"
+#~ msgstr "Kirjasin:"
+
+#~ msgid "Size:"
+#~ msgstr "Koko:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Kirjasinkoko pisteinä."
+
+#~ msgid "Style:"
+#~ msgstr "Tyyli:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Valitse tehdäksesi kirjasimesta lihavoidun."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Valitse tehdäksesi kirjasimesta kursivoidun."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Valitse alleviivataksesi kirjasimen."
+
+#~ msgid "Colour:"
+#~ msgstr "Väri:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Napsauta muuttaaksesi kirjasimen värin."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Näyttää kirjasimen esikatselun."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Napsauta peruuttaaksesi muutokset kirjasimeen."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Napsauta varmistaaksesi muutokset kirjasimeen."
+
+#~ msgid "<Any>"
+#~ msgstr "<Mikä tahansa>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Koristeellinen>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Moderni>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Script>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Teletype>"
 
 #~ msgid "Printing "
 #~ msgstr "Tulostetaan "

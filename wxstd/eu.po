@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2015-07-18 21:39+0200\n"
 "Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
 "Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
@@ -4871,70 +4871,6 @@ msgstr "Ezin da hari lehentasuna ezarri"
 msgid "failed to evaluate"
 msgstr "Hutsegitea '%s' exekutatzerakoan\n"
 
-msgid "Background colour"
-msgstr "Barren margoa"
-
-msgid "Font:"
-msgstr "Hizkia:"
-
-msgid "Size:"
-msgstr "Neurria:"
-
-msgid "The font size in points."
-msgstr "Hizki neurria puntutan."
-
-msgid "Style:"
-msgstr "Estiloa:"
-
-msgid "Check to make the font bold."
-msgstr "Hautatu hizkia lodi egiteko."
-
-msgid "Check to make the font italic."
-msgstr "Hautatu hizkia etzana egiteko."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Azpimarratuta"
-
-msgid "Check to make the font underlined."
-msgstr "Hautatu hizkia azpimarratua egiteko."
-
-msgid "Colour:"
-msgstr "Margoa:"
-
-msgid "Click to change the font colour."
-msgstr "Klikatu hizki margoa aldatzeko."
-
-msgid "Shows a preview of the font."
-msgstr "Hizkiaren aurreikuspen bat erakusten du."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klikatu hizkian aldaketak ezeztatzeko."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klikatu hizkian aldaketak baieztatzeko."
-
-msgid "<Any>"
-msgstr "<Edozein>"
-
-msgid "<Any Roman>"
-msgstr "<Edozein Erromatar>"
-
-msgid "<Any Decorative>"
-msgstr "<Edozein Apaingarria>"
-
-msgid "<Any Modern>"
-msgstr "<Edozein Modernoa>"
-
-msgid "<Any Script>"
-msgstr "<Eskripten bat>"
-
-msgid "<Any Swiss>"
-msgstr "<Edozein Suitzar>"
-
-msgid "<Any Teletype>"
-msgstr "<Teletiporen bat>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletipoa"
@@ -5045,6 +4981,10 @@ msgstr "Estiloa"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Pisua"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Azpimarratuta"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6746,6 +6686,66 @@ msgstr "Hutsegitea %s \"%s\" sortzerakoan."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Hutsegitea gako datua ezartzerakoan."
+
+#~ msgid "Background colour"
+#~ msgstr "Barren margoa"
+
+#~ msgid "Font:"
+#~ msgstr "Hizkia:"
+
+#~ msgid "Size:"
+#~ msgstr "Neurria:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Hizki neurria puntutan."
+
+#~ msgid "Style:"
+#~ msgstr "Estiloa:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Hautatu hizkia lodi egiteko."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Hautatu hizkia etzana egiteko."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Hautatu hizkia azpimarratua egiteko."
+
+#~ msgid "Colour:"
+#~ msgstr "Margoa:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klikatu hizki margoa aldatzeko."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Hizkiaren aurreikuspen bat erakusten du."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klikatu hizkian aldaketak ezeztatzeko."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klikatu hizkian aldaketak baieztatzeko."
+
+#~ msgid "<Any>"
+#~ msgstr "<Edozein>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Edozein Erromatar>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Edozein Apaingarria>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Edozein Modernoa>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Eskripten bat>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Edozein Suitzar>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Teletiporen bat>"
 
 #~ msgid "Printing "
 #~ msgstr "Irarkitzen"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-30 03:37+0000\n"
+"POT-Creation-Date: 2023-07-21 03:35+0000\n"
 "PO-Revision-Date: 2014-02-23 11:45+0100\n"
 "Last-Translator: Jonas Rydberg <jonas@drevo.se>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -4891,70 +4891,6 @@ msgstr "Kan inte sätta trådprioritet"
 msgid "failed to evaluate"
 msgstr "Kunde inte utföra \"%s\"\n"
 
-msgid "Background colour"
-msgstr "Bakgrundsfärg"
-
-msgid "Font:"
-msgstr "Typsnitt:"
-
-msgid "Size:"
-msgstr "Storlek:"
-
-msgid "The font size in points."
-msgstr "Typsnittsstorlek i punkter"
-
-msgid "Style:"
-msgstr "Stil:"
-
-msgid "Check to make the font bold."
-msgstr "Kryssa i för att göra typsnittet fet."
-
-msgid "Check to make the font italic."
-msgstr "Kryssa i för att göra typsnittet kursiv."
-
-#. TRANSLATORS: Label of underlined font
-msgid "Underlined"
-msgstr "Understruken"
-
-msgid "Check to make the font underlined."
-msgstr "Kryssa i för att göra typsnittet understruket."
-
-msgid "Colour:"
-msgstr "Färg:"
-
-msgid "Click to change the font colour."
-msgstr "Klicka för att ändra typsnittsfärgen."
-
-msgid "Shows a preview of the font."
-msgstr "Visar förhandsgranskning av typsnittet."
-
-msgid "Click to cancel changes to the font."
-msgstr "Klicka för att avbryta ändringarna i typsnittet."
-
-msgid "Click to confirm changes to the font."
-msgstr "Klicka för att bekräfta ändringar i typsnittet."
-
-msgid "<Any>"
-msgstr "<Någon>"
-
-msgid "<Any Roman>"
-msgstr "<Någon roman>"
-
-msgid "<Any Decorative>"
-msgstr "<Någon dekorativ>"
-
-msgid "<Any Modern>"
-msgstr "<Någon modern>"
-
-msgid "<Any Script>"
-msgstr "<Någon skrivstil>"
-
-msgid "<Any Swiss>"
-msgstr "<Någon swiss>"
-
-msgid "<Any Teletype>"
-msgstr "<Någon teletyp>"
-
 #, fuzzy
 msgid "File type:"
 msgstr "Teletyp"
@@ -5065,6 +5001,10 @@ msgstr "Stil"
 #. TRANSLATORS: Label of font weight
 msgid "Weight"
 msgstr "Vikt"
+
+#. TRANSLATORS: Label of underlined font
+msgid "Underlined"
+msgstr "Understruken"
 
 #. TRANSLATORS: Label of font family
 msgid "Family"
@@ -6769,6 +6709,66 @@ msgstr "Uppackning av \"%s\" till \"%s\" misslyckades."
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "Kunde inte sätta urklippsdata."
+
+#~ msgid "Background colour"
+#~ msgstr "Bakgrundsfärg"
+
+#~ msgid "Font:"
+#~ msgstr "Typsnitt:"
+
+#~ msgid "Size:"
+#~ msgstr "Storlek:"
+
+#~ msgid "The font size in points."
+#~ msgstr "Typsnittsstorlek i punkter"
+
+#~ msgid "Style:"
+#~ msgstr "Stil:"
+
+#~ msgid "Check to make the font bold."
+#~ msgstr "Kryssa i för att göra typsnittet fet."
+
+#~ msgid "Check to make the font italic."
+#~ msgstr "Kryssa i för att göra typsnittet kursiv."
+
+#~ msgid "Check to make the font underlined."
+#~ msgstr "Kryssa i för att göra typsnittet understruket."
+
+#~ msgid "Colour:"
+#~ msgstr "Färg:"
+
+#~ msgid "Click to change the font colour."
+#~ msgstr "Klicka för att ändra typsnittsfärgen."
+
+#~ msgid "Shows a preview of the font."
+#~ msgstr "Visar förhandsgranskning av typsnittet."
+
+#~ msgid "Click to cancel changes to the font."
+#~ msgstr "Klicka för att avbryta ändringarna i typsnittet."
+
+#~ msgid "Click to confirm changes to the font."
+#~ msgstr "Klicka för att bekräfta ändringar i typsnittet."
+
+#~ msgid "<Any>"
+#~ msgstr "<Någon>"
+
+#~ msgid "<Any Roman>"
+#~ msgstr "<Någon roman>"
+
+#~ msgid "<Any Decorative>"
+#~ msgstr "<Någon dekorativ>"
+
+#~ msgid "<Any Modern>"
+#~ msgstr "<Någon modern>"
+
+#~ msgid "<Any Script>"
+#~ msgstr "<Någon skrivstil>"
+
+#~ msgid "<Any Swiss>"
+#~ msgstr "<Någon swiss>"
+
+#~ msgid "<Any Teletype>"
+#~ msgstr "<Någon teletyp>"
 
 #~ msgid "Printing "
 #~ msgstr "Skriver ut "
