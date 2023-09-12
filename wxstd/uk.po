@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"POT-Creation-Date: 2023-09-12 03:36+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -3935,6 +3935,13 @@ msgstr ""
 "скриптом JavaScript даних"
 
 msgid ""
+"Setting proxy is not supported by WebKit, at least version 2.16 is required."
+msgstr ""
+
+msgid "This program was compiled without support for setting WebKit proxy."
+msgstr ""
+
+msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
 msgstr ""
@@ -4859,6 +4866,9 @@ msgstr "Не вдалося прочитати назву типу з «%s»!"
 #, c-format
 msgid "Cannot load icon from '%s'."
 msgstr "Не вдалося завантажити піктограму з «%s»."
+
+msgid "This program was compiled without support for setting Edge proxy."
+msgstr ""
 
 msgid "Failed to find web view emulation level in the registry"
 msgstr ""

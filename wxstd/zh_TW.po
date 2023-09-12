@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"POT-Creation-Date: 2023-09-12 03:36+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -3897,6 +3897,13 @@ msgid "Retrieving JavaScript script output is not supported with WebKit v1"
 msgstr "WebKit v1 不支援擷取 JavaScript 程序檔輸出"
 
 msgid ""
+"Setting proxy is not supported by WebKit, at least version 2.16 is required."
+msgstr ""
+
+msgid "This program was compiled without support for setting WebKit proxy."
+msgstr ""
+
+msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
 msgstr ""
@@ -4791,6 +4798,9 @@ msgstr "無法從 ”%s” 讀取類型名稱！"
 #, c-format
 msgid "Cannot load icon from '%s'."
 msgstr "無法從 '%s' 載入圖示。"
+
+msgid "This program was compiled without support for setting Edge proxy."
+msgstr ""
 
 msgid "Failed to find web view emulation level in the registry"
 msgstr "無法在登錄檔尋找網頁檢視模擬等級"

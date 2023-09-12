@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"POT-Creation-Date: 2023-09-12 03:36+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -3932,6 +3932,13 @@ msgstr ""
 "Het ophalen van JavaScript scriptuitvoer wordt niet ondersteund met WebKit v1"
 
 msgid ""
+"Setting proxy is not supported by WebKit, at least version 2.16 is required."
+msgstr ""
+
+msgid "This program was compiled without support for setting WebKit proxy."
+msgstr ""
+
+msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
 msgstr ""
@@ -4863,6 +4870,9 @@ msgstr "Kan typenaam van '%s' niet lezen!"
 #, c-format
 msgid "Cannot load icon from '%s'."
 msgstr "Kan pictogram niet laden van '%s'."
+
+msgid "This program was compiled without support for setting Edge proxy."
+msgstr ""
 
 msgid "Failed to find web view emulation level in the registry"
 msgstr "Kan emulatieniveau voor webweergave niet vinden in het register"

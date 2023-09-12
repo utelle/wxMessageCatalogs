@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"POT-Creation-Date: 2023-09-12 03:36+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -3931,6 +3931,13 @@ msgid "Retrieving JavaScript script output is not supported with WebKit v1"
 msgstr "Preuzimanje JavaScript izlaza skripte nije podržano uz WebKit v1"
 
 msgid ""
+"Setting proxy is not supported by WebKit, at least version 2.16 is required."
+msgstr ""
+
+msgid "This program was compiled without support for setting WebKit proxy."
+msgstr ""
+
+msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
 msgstr ""
@@ -4855,6 +4862,9 @@ msgstr "Nemoguće učitati ime vrste iz '%s'!"
 #, c-format
 msgid "Cannot load icon from '%s'."
 msgstr "Nemoguće učitati ikonicu iz '%s'."
+
+msgid "This program was compiled without support for setting Edge proxy."
+msgstr ""
 
 msgid "Failed to find web view emulation level in the registry"
 msgstr "Neuspešno pronalaženje nivoa emulacije web prikaza u registru"

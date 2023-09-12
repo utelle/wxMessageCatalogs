@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"POT-Creation-Date: 2023-09-12 03:36+0000\n"
 "PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -3913,6 +3913,13 @@ msgid "Retrieving JavaScript script output is not supported with WebKit v1"
 msgstr "WebKit v1 üzerinde JavaScript çıktısının alınması desteklenmiyor"
 
 msgid ""
+"Setting proxy is not supported by WebKit, at least version 2.16 is required."
+msgstr ""
+
+msgid "This program was compiled without support for setting WebKit proxy."
+msgstr ""
+
+msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
 msgstr ""
@@ -4820,6 +4827,9 @@ msgstr "'%s' içinden tür adı okunamadı!"
 #, c-format
 msgid "Cannot load icon from '%s'."
 msgstr "'%s' içinden simge yüklenemedi."
+
+msgid "This program was compiled without support for setting Edge proxy."
+msgstr ""
 
 msgid "Failed to find web view emulation level in the registry"
 msgstr "Kayıt defterinde internet görünümü benzetimi düzeyi bulunamadı"

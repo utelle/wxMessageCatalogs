@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 03:35+0000\n"
+"POT-Creation-Date: 2023-09-12 03:36+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -3909,6 +3909,13 @@ msgid "Retrieving JavaScript script output is not supported with WebKit v1"
 msgstr "JavaScript குறுநிரல் வெளியீட்டின் மீட்டமைவை WebKit v1 ஆதரிப்பதில்லை"
 
 msgid ""
+"Setting proxy is not supported by WebKit, at least version 2.16 is required."
+msgstr ""
+
+msgid "This program was compiled without support for setting WebKit proxy."
+msgstr ""
+
+msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
 msgstr ""
@@ -4821,6 +4828,9 @@ msgstr "'%s'-இருந்து வகைப் பெயரை படிக�
 #, c-format
 msgid "Cannot load icon from '%s'."
 msgstr "'%s'-இருந்து படவுருக்களை ஏற்ற இயலவில்லை."
+
+msgid "This program was compiled without support for setting Edge proxy."
+msgstr ""
 
 msgid "Failed to find web view emulation level in the registry"
 msgstr "வலையத் தோற்றத்தின் நிகர்நிலை மட்டத்தை பதிவகத்தில் காண இயலவில்லை"
