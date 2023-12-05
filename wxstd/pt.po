@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -1953,6 +1953,10 @@ msgstr "TIFF: Erro ao gravar imagem."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Erro ao escrever imagem."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Erro ao gravar imagem."
 
 #, c-format
 msgid ""

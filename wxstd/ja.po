@@ -3,10 +3,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
-"PO-Revision-Date: 2011-03-02 18:30+0900\n"
-"Last-Translator: Suzumizaki-Kimitaka(鈴見咲君高) <suzumizaki@free."
-"japandesign.ne.jp>\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"PO-Revision-Date: 2023-10-03 22:56+0900\n"
+"Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <wx-translators@wxwidgets.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -76,13 +75,11 @@ msgstr "I/O完了ポートを作成できません"
 msgid "Printout"
 msgstr "印刷出力"
 
-#, fuzzy
 msgid "&See details"
-msgstr "詳細 (&D)"
+msgstr "詳細を表示 (&S)"
 
-#, fuzzy
 msgid "&Hide details"
-msgstr "詳細 (&D)"
+msgstr "詳細を非表示 (&H)"
 
 #, fuzzy
 msgid "&Box"
@@ -99,9 +96,8 @@ msgstr "キャンセル (&C)"
 msgid "&Table"
 msgstr "タブ"
 
-#, fuzzy
 msgid "Object Properties"
-msgstr "プロパティー (&P)"
+msgstr "オブジェクトのプロパティー"
 
 msgid "Printing"
 msgstr "印刷"
@@ -113,10 +109,10 @@ msgid "Pipe creation failed"
 msgstr "パイプを作成できませんでした"
 
 msgid "Failed to enumerate video modes"
-msgstr "画面モードを列挙できませんでした。"
+msgstr "画面モードを列挙できませんでした"
 
 msgid "Failed to change video mode"
-msgstr "画面モード変更に失敗しました。"
+msgstr "画面モード変更に失敗しました"
 
 #, c-format
 msgid "Unable to open path '%s'"
@@ -130,20 +126,20 @@ msgid "SetProperty called w/o valid setter"
 msgstr "SetProperty が適切なsetterなしで呼び出されました"
 
 msgid "GetProperty called w/o valid getter"
-msgstr "適切な getter なしに GetPropertyが呼び出されました。"
+msgstr "適切な getter なしに GetPropertyが呼び出されました"
 
 msgid "AddToPropertyCollection called w/o valid adder"
 msgstr "不適切な adder から AddToPropertyCollection が呼び出されました"
 
 msgid "GetPropertyCollection called w/o valid collection getter"
 msgstr ""
-"適切なコレクション getter なしに GetPropertyCollection が呼び出されました。"
+"適切なコレクション getter なしに GetPropertyCollection が呼び出されました"
 
 msgid "AddToPropertyCollection called on a generic accessor"
 msgstr "非特殊化アクセサーの AddToPropertyCollection が呼び出されました"
 
 msgid "GetPropertyCollection called on a generic accessor"
-msgstr "汎用アクセサーに対して GetPropertyCollection が呼び出されました。"
+msgstr "汎用アクセサーに対して GetPropertyCollection が呼び出されました"
 
 msgid "Cl&ose"
 msgstr "閉じる(&O)"
@@ -622,7 +618,7 @@ msgid "show this help message"
 msgstr "このヘルプメッセージを表示します"
 
 msgid "generate verbose log messages"
-msgstr "冗長なログメッセージを生成します。"
+msgstr "冗長なログメッセージを生成します"
 
 msgid "specify the theme to use"
 msgstr "使用するテーマを指定ください"
@@ -920,7 +916,7 @@ msgstr ""
 
 #, c-format
 msgid "File \"%s\" could not be opened for writing."
-msgstr "ファイル '%s' に書き込もうとしましたが開くことができません"
+msgstr "ファイル '%s' を書き込み用に開けませんでした。"
 
 #, c-format
 msgid "Failed to save document to the file \"%s\"."
@@ -928,7 +924,7 @@ msgstr "文書をファイル \"%s\" に保存できませんでした。"
 
 #, c-format
 msgid "File \"%s\" could not be opened for reading."
-msgstr "ファイル '%s' を読み取ろうとしましたが開くことができません"
+msgstr "ファイル '%s' を読み取り用に開けませんでした。"
 
 #, c-format
 msgid "Failed to read document from the file \"%s\"."
@@ -1022,7 +1018,7 @@ msgid "Can't find current position in file '%s'"
 msgstr "ファイル '%s' の現在位置を見つけられません"
 
 msgid "Failed to set temporary file permissions"
-msgstr "一時ファイルのパーミッションを設定できませんでした。"
+msgstr "一時ファイルのパーミッションを設定できませんでした"
 
 #, c-format
 msgid "can't remove file '%s'"
@@ -1050,7 +1046,7 @@ msgstr "記述子 %d のファイルから読み取ることができません"
 
 #, c-format
 msgid "can't write to file descriptor %d"
-msgstr "記述子 %d のファイルへ書き出すことができません。"
+msgstr "記述子 %d のファイルへ書き出すことができません"
 
 #, c-format
 msgid "can't flush file descriptor %d"
@@ -1085,7 +1081,7 @@ msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
 msgstr "ファイル \"%s\" への上書きが拒否されたため変更内容は保存されていません"
 
 msgid "Error reading config options."
-msgstr "設定オプションの読み取りエラー"
+msgstr "設定オプションの読み取りエラー。"
 
 msgid "Failed to read config options."
 msgstr "設定オプションを読み取ることができませんでした。"
@@ -1195,7 +1191,7 @@ msgid "Cannot enumerate files '%s'"
 msgstr "ファイルを列挙できません '%s'"
 
 msgid "Failed to get the working directory"
-msgstr "作業ディレクトリーを取得できませんでした。"
+msgstr "作業ディレクトリーを取得できませんでした"
 
 #, fuzzy
 msgid "Could not set current working directory"
@@ -1214,10 +1210,10 @@ msgid "Failed to open '%s' for writing"
 msgstr "ファイル '%s' を書き込み用に開くことができません"
 
 msgid "Failed to close file handle"
-msgstr "ファイルハンドルを閉じることができませんでした。"
+msgstr "ファイルハンドルを閉じることができませんでした"
 
 msgid "Failed to create a temporary file name"
-msgstr "一時ファイルの名前を作成できませんでした。"
+msgstr "一時ファイルの名前を作成できませんでした"
 
 msgid "Failed to open temporary file."
 msgstr "一時ファイルを開くことができませんでした。"
@@ -1689,7 +1685,7 @@ msgid "Incorrect GIF frame size (%u, %d) for the frame #%u"
 msgstr "GIF フレームの大きさ (%u, %d) が不適切です (フレーム #%u)"
 
 msgid "Failed to allocate colour for OpenGL"
-msgstr "OpenGL に色を割り当てることができませんでした。"
+msgstr "OpenGL に色を割り当てることができませんでした"
 
 msgid "Please select the columns to show and define their order:"
 msgstr "表示する列とその順番を選んでください:"
@@ -1887,7 +1883,7 @@ msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
 msgstr "PNG画像を読み出せませんでした。ファイルが壊れているかメモリ不足です。"
 
 msgid "Couldn't save PNG image."
-msgstr "PNG画像を保存できませんでした"
+msgstr "PNG画像を保存できませんでした。"
 
 msgid "PNM: File format is not recognized."
 msgstr "PNM: ファイル形式を解析できません。"
@@ -1900,7 +1896,7 @@ msgstr "PNM: ファイルが欠けているようです。"
 
 #, c-format
 msgid " (in module \"%s\")"
-msgstr "(モジュール \"%s\")"
+msgstr " (モジュール \"%s\")"
 
 msgid "TIFF: Error loading image."
 msgstr "TIFF: 画像の読み取りエラーを検出しました。"
@@ -1927,6 +1923,10 @@ msgstr "TIFF: 画像の書き出しエラーを検出しました。"
 msgid "TIFF: Error writing image."
 msgstr "TIFF: 画像の書き出しエラーを検出しました。"
 
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: 画像の書き出しエラーを検出しました。"
+
 #, c-format
 msgid ""
 "Command line argument %d couldn't be converted to Unicode and will be "
@@ -1941,10 +1941,10 @@ msgid "Cannot set locale to language \"%s\"."
 msgstr "ロケールを言語 \"%s\" に設定できません。"
 
 msgid "Error: "
-msgstr "エラー:"
+msgstr "エラー: "
 
 msgid "Warning: "
-msgstr "警告:"
+msgstr "警告: "
 
 #, fuzzy
 msgid "The previous message repeated once."
@@ -2508,7 +2508,7 @@ msgid "Deleting password for \"%s\" failed: %s."
 msgstr "'%s' を '%s' に展開できませんでした。"
 
 msgid "Failed to monitor I/O channels"
-msgstr "I/O チャンネルの監視に失敗しました。"
+msgstr "I/O チャンネルの監視に失敗しました"
 
 msgid "Save"
 msgstr "保存"
@@ -2517,7 +2517,7 @@ msgid "Don't Save"
 msgstr "保存しない"
 
 msgid "Cannot initialize sockets"
-msgstr "socket を初期化できません"
+msgstr "ソケットを初期化できません"
 
 #, fuzzy
 msgctxt "standard Windows menu"
@@ -2933,7 +2933,7 @@ msgid "Zoom &Out"
 msgstr "縮小(&O)"
 
 msgid "Show about dialog"
-msgstr "詳細ダイアログを表示します。"
+msgstr "情報ダイアログを表示します"
 
 msgid "Copy selection"
 msgstr "選択範囲をコピーします"
@@ -3025,7 +3025,7 @@ msgid "can't write buffer '%s' to disk."
 msgstr "バッファー '%s' をディスクに書き出すことができません。"
 
 msgid "Failed to get the local system time"
-msgstr "ローカルのシステム時刻を取得できませんでした。"
+msgstr "ローカルのシステム時刻を取得できませんでした"
 
 msgid "wxGetTimeOfDay failed."
 msgstr "wxGetTimeOfDay が失敗しました。"
@@ -3101,7 +3101,7 @@ msgid "This platform does not support background transparency."
 msgstr ""
 
 msgid "Could not transfer data to window"
-msgstr "ウィンドウへデータを転送できませんでした。"
+msgstr "ウィンドウへデータを転送できませんでした"
 
 msgid "Out of window IDs.  Recommend shutting down application."
 msgstr ""
@@ -3143,11 +3143,11 @@ msgid "Illegal Object Class (Non-wxEvtHandler) as Event Source"
 msgstr "wxEvtHandler ではないオブジェクトクラスがイベントソースになっています"
 
 msgid "Type must have enum - long conversion"
-msgstr "型は列挙からlongへの変換が可能でなくてはなりません。"
+msgstr "型は列挙からlongへの変換が可能でなくてはなりません"
 
 msgid "Invalid or Null Object ID passed to GetObjectClassInfo"
 msgstr ""
-"Null または不正なオブジェクト識別子が GetObjectClassInfo に渡されました。"
+"Null または不正なオブジェクト識別子が GetObjectClassInfo に渡されました"
 
 msgid "Unknown Object passed to GetObjectClassInfo"
 msgstr "未知のオブジェクトが GetObjectClassInfo に渡されました"
@@ -3157,7 +3157,7 @@ msgstr "登録済みのオブジェクトが SetObjectClassInfo に渡されま�
 
 msgid "Invalid or Null Object ID passed to HasObjectClassInfo"
 msgstr ""
-"Null または不正なオブジェクト識別子が HasObjectClassInfo に渡されました。"
+"Null または不正なオブジェクト識別子が HasObjectClassInfo に渡されました"
 
 msgid "Passing a already registered object to SetObject"
 msgstr "SetObject に登録済みのオブジェクトが渡されました"
@@ -3176,7 +3176,7 @@ msgid "objects cannot have XML Text Nodes"
 msgstr "オブジェクトは XML テキストノードを持つことができません"
 
 msgid "Objects must have an id attribute"
-msgstr "オブジェクトには id 属性が必須です。"
+msgstr "オブジェクトには id 属性が必須です"
 
 #, c-format
 msgid "Doubly used id : %d"
@@ -3208,13 +3208,13 @@ msgid "invalid zip file"
 msgstr "不完全なzipファイルです"
 
 msgid "can't find central directory in zip"
-msgstr "zip内にセントラルディレクトリー部が見つかりません。"
+msgstr "zip内にセントラルディレクトリー部が見つかりません"
 
 msgid "error reading zip central directory"
 msgstr "zipのセントラルディレクトリーを読み取り中にエラーを検出しました"
 
 msgid "error reading zip local header"
-msgstr "zipのローカルヘッダーを読み取り中にエラーを検出しました。"
+msgstr "zipのローカルヘッダーを読み取り中にエラーを検出しました"
 
 msgid "bad zipfile offset to entry"
 msgstr "項目へのzipfileオフセットが不適当です"
@@ -3272,7 +3272,7 @@ msgid "No bitmap handler for type %d defined."
 msgstr "'%d' 型のイメージハンドラは定義されていません。"
 
 msgid "Failed to read event from DirectFB pipe"
-msgstr "DirectFB パイプからのイベント読み取りに失敗しました。"
+msgstr "DirectFB パイプからのイベント読み取りに失敗しました"
 
 msgid "Failed to switch DirectFB pipe to non-blocking mode"
 msgstr ""
@@ -3294,16 +3294,16 @@ msgid "DirectFB error %d occurred."
 msgstr "DirectFB エラー %d が発生しました。"
 
 msgid "Developed by "
-msgstr "開発 : "
+msgstr "開発担当 "
 
 msgid "Documentation by "
-msgstr "説明書 : "
+msgstr "ドキュメント担当 "
 
 msgid "Graphics art by "
-msgstr "デザイナー"
+msgstr "デザイン担当 "
 
 msgid "Translations by "
-msgstr "翻訳 : "
+msgstr "翻訳担当 "
 
 msgid "Version "
 msgstr "バージョン "
@@ -3313,16 +3313,16 @@ msgid "About %s"
 msgstr "%s について"
 
 msgid "License"
-msgstr "許諾"
+msgstr "ライセンス"
 
 msgid "Developers"
 msgstr "開発者"
 
 msgid "Documentation writers"
-msgstr "説明書の著者"
+msgstr "ドキュメントの著者"
 
 msgid "Artists"
-msgstr "デザイン"
+msgstr "デザイナー"
 
 msgid "Translators"
 msgstr "翻訳者"
@@ -3342,17 +3342,16 @@ msgid "Choose colour"
 msgstr "色を選んでください"
 
 msgid "Red:"
-msgstr ""
+msgstr "赤:"
 
-#, fuzzy
 msgid "Green:"
-msgstr "MacGreek"
+msgstr "緑:"
 
 msgid "Blue:"
-msgstr ""
+msgstr "青:"
 
 msgid "Opacity:"
-msgstr ""
+msgstr "不透明度:"
 
 msgid "Add to custom colours"
 msgstr "カスタムカラーへ追加します"
@@ -3807,17 +3806,17 @@ msgstr ""
 "す。"
 
 msgid "Question"
-msgstr "お尋ねします"
+msgstr "確認"
 
 msgid "invalid message box return value"
-msgstr "メッセージボックスの戻り値は不正なものになります。"
+msgstr "メッセージボックスの戻り値が不正です"
 
 msgid "Notice"
 msgstr "お知らせ"
 
-#, fuzzy, c-format
+#, c-format
 msgid "%s Preferences"
-msgstr "設定 (&P)"
+msgstr "%s の設定"
 
 msgid "Printing..."
 msgstr "印刷中 ..."
@@ -3929,22 +3928,22 @@ msgid "Search"
 msgstr "検索"
 
 msgid "Could not find tab for id"
-msgstr "識別子に対応したタブが見つかりませんでした。"
+msgstr "識別子に対応したタブが見つかりませんでした"
 
 msgid "Tips not available, sorry!"
-msgstr "チップが使えません、ごめんね!"
+msgstr "ヒントは利用できません、申し訳ありません。"
 
 msgid "Tip of the Day"
-msgstr "今日のチップ"
+msgstr "今日のヒント"
 
 msgid "Did you know..."
 msgstr "ご存じですか?"
 
 msgid "&Show tips at startup"
-msgstr "チップを起動時に表示 (&S)"
+msgstr "ヒントを起動時に表示 (&S)"
 
 msgid "&Next Tip"
-msgstr "次のチップ (&N)"
+msgstr "次のヒント (&N)"
 
 msgid "&Next >"
 msgstr "次へ (&N) >"
@@ -3956,7 +3955,14 @@ msgid "< &Back"
 msgstr "< 戻る (&B)"
 
 msgid "translator-credits"
-msgstr "翻訳者-謝辞"
+msgstr ""
+"James Bishop\n"
+"Hiroshi Saito\n"
+"Taishin Kin\n"
+"かばだんなさん\n"
+"kaba\n"
+"Suzumizaki-Kimitaka(鈴見咲君高)\n"
+"Ryo Nakano"
 
 msgid ""
 "WARNING: using XIM input method is unsupported and may result in problems "
@@ -4197,7 +4203,7 @@ msgid "Searching..."
 msgstr "検索中..."
 
 msgid "No matching page found yet"
-msgstr "一致するページがまだありません。"
+msgstr "一致するページがまだありません"
 
 #, c-format
 msgid "Found %i matches"
@@ -4347,13 +4353,13 @@ msgid "Failed to empty the clipboard."
 msgstr "クリップボードを空にできませんでした。"
 
 msgid "Failed to put data on the clipboard"
-msgstr "データをクリップボードに置けませんでした。"
+msgstr "データをクリップボードに置けませんでした"
 
 msgid "Failed to get data from the clipboard"
-msgstr "クリップボードからデータを取得できませんでした。"
+msgstr "クリップボードからデータを取得できませんでした"
 
 msgid "Failed to retrieve the supported clipboard formats"
-msgstr "対応しているクリップボードの様式を取得できませんでした。"
+msgstr "対応しているクリップボードの様式を取得できませんでした"
 
 #, c-format
 msgid "Colour selection dialog failed with error %0lx."
@@ -4378,16 +4384,16 @@ msgid "DDE poke request failed"
 msgstr "DDE の poke 要求が失敗しました"
 
 msgid "Failed to establish an advise loop with DDE server"
-msgstr "DDE サーバーとのアドバイスループを確立できませんでした。"
+msgstr "DDE サーバーとのアドバイスループを確立できませんでした"
 
 msgid "Failed to terminate the advise loop with DDE server"
-msgstr "DDE サーバ他とのアドバイスループを終了できませんでした。"
+msgstr "DDE サーバーとのアドバイスループを終了できませんでした"
 
 msgid "Failed to send DDE advise notification"
-msgstr "DDE アドバイス通知を送信できませんでした。"
+msgstr "DDE アドバイス通知を送信できませんでした"
 
 msgid "Failed to create DDE string"
-msgstr "DDE文字列を作成できませんでした。"
+msgstr "DDE文字列を作成できませんでした"
 
 msgid "no DDE error."
 msgstr "DDE エラーはありませんでした。"
@@ -4493,7 +4499,7 @@ msgstr ""
 "ぎるようです。新しいものを用意してください(機能 %s が必要です)。"
 
 msgid "Failed to retrieve text of RAS error message"
-msgstr "RAS エラーメッセージのテキストを取得できませんでした。"
+msgstr "RAS エラーメッセージのテキストを取得できませんでした"
 
 #, c-format
 msgid "unknown error (error code %08x)."
@@ -4531,7 +4537,7 @@ msgstr "住所録の位置を特定できません"
 
 #, c-format
 msgid "Failed to initiate dialup connection: %s"
-msgstr "ダイヤルアップ接続の初期化に失敗しました: %s "
+msgstr "ダイヤルアップ接続の初期化に失敗しました: %s"
 
 msgid "Cannot hang up - no active dialup connection."
 msgstr "接続を切るよう指示されましたが、有効なダイヤルアップ接続がありません。"
@@ -4611,7 +4617,7 @@ msgid "Couldn't create OpenGL context"
 msgstr "タイマーを作成できませんでした"
 
 msgid "Failed to initialize OpenGL"
-msgstr "OpenGLを初期化できませんでした。"
+msgstr "OpenGLを初期化できませんでした"
 
 msgid "Could not register custom DirectWrite font loader."
 msgstr ""
@@ -4759,7 +4765,7 @@ msgstr "レジストリーの値を '%s' から '%s' に改名できませんで
 
 #, c-format
 msgid "Can't copy values of unsupported type %d."
-msgstr "未対応型 %d の値はコピーできません"
+msgstr "未対応型 %d の値はコピーできません。"
 
 #, c-format
 msgid "Registry key '%s' does not exist, cannot rename it."
@@ -4881,7 +4887,7 @@ msgid "Cannot resume thread %lx"
 msgstr "スレッド %x のリジュームができません"
 
 msgid "Couldn't get the current thread pointer"
-msgstr "現在のスレッドを示すポインタを取得できませんでした。"
+msgstr "現在のスレッドを示すポインタを取得できませんでした"
 
 msgid ""
 "Thread module initialization failed: impossible to allocate index in thread "
@@ -4923,14 +4929,14 @@ msgid ", 64-bit edition"
 msgstr ", 64ビットエディション"
 
 msgid "Failed to create an anonymous pipe"
-msgstr "匿名パイプを作成できませんでした。"
+msgstr "匿名パイプを作成できませんでした"
 
 msgid "Failed to redirect the child process IO"
-msgstr "子プロセスの入出力をリダイレクトできませんでした。"
+msgstr "子プロセスの入出力をリダイレクトできませんでした"
 
 #, c-format
 msgid "Execution of command '%s' failed"
-msgstr "コマンド '%s' を実行できませんでした。"
+msgstr "コマンド '%s' を実行できませんでした"
 
 msgid "Failed to load mpr.dll."
 msgstr "mpr.dll を読み取れませんでした。"
@@ -5066,7 +5072,7 @@ msgstr "列の記述を初期化できませんでした。"
 
 #. TRANSLATORS: Label of font point size
 msgid "Point Size"
-msgstr "大きさ(ポイント):"
+msgstr "大きさ(ポイント)"
 
 #. TRANSLATORS: Label of font face name
 msgid "Face Name"
@@ -5902,7 +5908,7 @@ msgid "&Underlining:"
 msgstr "下線 (&U):"
 
 msgid "Select underlining or no underlining."
-msgstr "下線を付けるか付けないかを選んでください"
+msgstr "下線を付けるか付けないかを選んでください。"
 
 msgid "&Colour:"
 msgstr "色 (&C):"
@@ -6460,7 +6466,7 @@ msgid "Check to restart numbering."
 msgstr "連番の初期化を指示する場合にチェックしてください。"
 
 msgid "Enter a character style name"
-msgstr "文字スタイル名を入力してください。"
+msgstr "文字スタイル名を入力してください"
 
 msgid "New Style"
 msgstr "新規スタイル"
@@ -6469,7 +6475,7 @@ msgid "Sorry, that name is taken. Please choose another."
 msgstr "その名前はすでに使われています。他の名前を選んでください。"
 
 msgid "Enter a paragraph style name"
-msgstr "段落スタイル名を指定してください。"
+msgstr "段落スタイル名を指定してください"
 
 #, c-format
 msgid "Delete style %s?"
@@ -6479,10 +6485,10 @@ msgid "Delete Style"
 msgstr "スタイルの削除"
 
 msgid "Enter a list style name"
-msgstr "リストスタイル名を入力してください。"
+msgstr "リストスタイル名を入力してください"
 
 msgid "Enter a new style name"
-msgstr "新しいスタイル名を入力してください。"
+msgstr "新しいスタイル名を入力してください"
 
 #, fuzzy
 msgid "Enter a box style name"
@@ -6607,7 +6613,7 @@ msgid "Alt+"
 msgstr "Alt+"
 
 msgid "Failed to install signal handler"
-msgstr "シグナルハンドラーのインストールに失敗しました。"
+msgstr "シグナルハンドラーのインストールに失敗しました"
 
 msgid "Already dialling ISP."
 msgstr "すでに ISP にダイヤル中です。"
@@ -6635,7 +6641,7 @@ msgstr "記述子 %d の変更が epoll 記述子 %d 内でできませんでし
 
 #, c-format
 msgid "Failed to unregister descriptor %d from epoll descriptor %d"
-msgstr "記述子 %d を epoll記述子 %d から削除できませんでした。"
+msgstr "記述子 %d を epoll記述子 %d から削除できませんでした"
 
 #, c-format
 msgid "Waiting for IO on epoll descriptor %d failed"
@@ -6645,7 +6651,7 @@ msgid "Unable to create inotify instance"
 msgstr "inotify 実体を作成できません"
 
 msgid "Unable to close inotify instance"
-msgstr "inotify 実体を閉じることができませんでした。"
+msgstr "inotify 実体を閉じることができませんでした"
 
 msgid "Unable to add inotify watch"
 msgstr "inotify 監視を追加できませんでした"
@@ -6731,7 +6737,7 @@ msgstr "無効なロックファイル '%s' を削除しました。"
 
 #, c-format
 msgid "Invalid lock file '%s'."
-msgstr "不正なロックファイルです: '%s'"
+msgstr "不正なロックファイル'%s'です。"
 
 #, c-format
 msgid "Failed to remove lock file '%s'"
@@ -6798,7 +6804,7 @@ msgid "Thread module initialization failed: failed to create thread key"
 msgstr "スレッドモジュールの初期化に失敗: スレッドキーを作成できませんでした"
 
 msgid "Impossible to get child process input"
-msgstr "子プロセスの入力は取得不可能です。"
+msgstr "子プロセスの入力は取得不可能です"
 
 #, fuzzy
 msgid "Can't write to child process's stdin"
@@ -6816,7 +6822,7 @@ msgid "Failed to set process priority"
 msgstr "スレッド優先度を %d に設定できませんでした。"
 
 msgid "Failed to redirect child process input/output"
-msgstr "子プロセスの入出力をリダイレクトできませんでした。"
+msgstr "子プロセスの入出力をリダイレクトできませんでした"
 
 msgid "Failed to set up non-blocking pipe, the program might hang."
 msgstr ""
@@ -6834,7 +6840,7 @@ msgid "Failed to switch wake up pipe to non-blocking mode"
 msgstr "起動パイプをnon-blockingモードに切り替えることができませんでした"
 
 msgid "Failed to read from wake-up pipe"
-msgstr "起動パイプからの読み取りに失敗しました。"
+msgstr "起動パイプからの読み取りに失敗しました"
 
 #, c-format
 msgid "Invalid geometry specification '%s'"

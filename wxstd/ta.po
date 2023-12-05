@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -1872,6 +1872,10 @@ msgstr "TIF: படிமத்தை சேமிப்பதில் பி�
 
 msgid "TIFF: Error writing image."
 msgstr "TIF: படிமத்தை எழுதுவதில் பிழை."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIF: படிமத்தை சேமிப்பதில் பிழை."
 
 #, c-format
 msgid ""

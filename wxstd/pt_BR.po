@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2023-03-27 12:18-0300\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Felipe <felipefplzx@gmail.com>\n"
@@ -1880,6 +1880,10 @@ msgstr "TIFF: Erro ao salvar a imagem."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Erro ao gravar a imagem."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Erro ao salvar a imagem."
 
 #, c-format
 msgid ""

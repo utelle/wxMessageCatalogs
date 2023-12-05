@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2022-07-03 20:43+0200\n"
 "Last-Translator: Andriy Byelikov\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -1887,6 +1887,10 @@ msgstr "TIFF: S'ha produït un error en desar la imatge."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: S'ha produït un error en escriure la imatge."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: S'ha produït un error en desar la imatge."
 
 #, c-format
 msgid ""

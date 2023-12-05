@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -1913,6 +1913,10 @@ msgid "TIFF: Error saving image."
 msgstr "TIFF: Gặp lỗi khi ghi tập tin ảnh."
 
 msgid "TIFF: Error writing image."
+msgstr "TIFF: Gặp lỗi khi ghi tập tin ảnh."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
 msgstr "TIFF: Gặp lỗi khi ghi tập tin ảnh."
 
 #, c-format

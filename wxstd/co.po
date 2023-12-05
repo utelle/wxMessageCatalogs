@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets in Corsican\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2023-07-07 01:15+0200\n"
 "Last-Translator: Patriccollu di Santa Maria è Sichè <https://github.com/"
 "Patriccollu/Lingua_Corsa-Infurmatica/#readme>\n"
@@ -1907,6 +1907,10 @@ msgstr "TIFF : Sbagliu à l’arregistramentu di a fiura."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF : Sbagliu à a scrittura di a fiura."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF : Sbagliu à l’arregistramentu di a fiura."
 
 #, c-format
 msgid ""

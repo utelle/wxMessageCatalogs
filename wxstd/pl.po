@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2014-06-04 16:19+1200\n"
 "Last-Translator: Mariusz Drozdowski <schemedit@wp.pl>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -1934,6 +1934,10 @@ msgstr "TIFF: Wystąpił błąd przy zapisie."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Błąd zapisu."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Wystąpił błąd przy zapisie."
 
 #, c-format
 msgid ""

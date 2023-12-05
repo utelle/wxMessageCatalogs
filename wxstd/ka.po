@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -1881,6 +1881,10 @@ msgstr "TIFF: გამოსახულების შენახვის �
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: გამოსახულების ჩასწერის შეცდომა."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: გამოსახულების შენახვის შეცდომა."
 
 #, c-format
 msgid ""

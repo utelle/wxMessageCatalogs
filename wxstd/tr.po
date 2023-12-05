@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -1878,6 +1878,10 @@ msgstr "TIFF: Görsel kaydedilirken sorun çıktı."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Görsel yazılırken sorun çıktı."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Görsel kaydedilirken sorun çıktı."
 
 #, c-format
 msgid ""

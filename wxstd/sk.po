@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2020-10-19 12:24+0200\n"
 "Last-Translator: Jozef Matta <jozef.m923@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -1879,6 +1879,10 @@ msgstr "TIFF: Chyba pri ukladaní obrázka."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Chyba pri zápise obrázka."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Chyba pri ukladaní obrázka."
 
 #, c-format
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2014-02-23 11:45+0100\n"
 "Last-Translator: Jonas Rydberg <jonas@drevo.se>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -1905,6 +1905,10 @@ msgstr "TIFF: Fel vid sparande av bild."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Fel vid skrivande till bild."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Fel vid sparande av bild."
 
 #, c-format
 msgid ""

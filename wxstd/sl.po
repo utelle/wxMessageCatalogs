@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
-"PO-Revision-Date: 2022-06-19 13:07+0200\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"PO-Revision-Date: 2023-09-14 22:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language: sl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || "
 "n%100==4 ? 3 : 0);\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 2.2.1\n"
 
 # generic/filedlgg.cpp:825
 msgid "All files (*.*)|*.*"
@@ -1041,31 +1041,29 @@ msgid "&Save"
 msgstr "&Shrani"
 
 msgid "&Discard changes"
-msgstr ""
+msgstr "&Zavrzi spremembe"
 
-#, fuzzy
 msgid "Do&n't close"
-msgstr "Ne shrani"
+msgstr "&Ne zapri"
 
 # common/docview.cpp:440
-#, fuzzy, c-format
+#, c-format
 msgid "Do you want to save changes to %s before closing it?"
-msgstr "Ali želite shraniti spremembe dokumenta %s?"
+msgstr "Ali želite shraniti spremembe v %s, preden ga zaprete?"
 
 # common/textcmn.cpp:121
-#, fuzzy
 msgid "The document must be closed."
-msgstr "Besedila ni mogoče shraniti."
+msgstr "Dokument mora biti zaprt."
 
 #, c-format
 msgid "Saving %s failed, would you like to retry?"
-msgstr ""
+msgstr "Shranjevanje %s je spodletelo, ali želite poskusiti znova?"
 
 msgid "Retry"
-msgstr ""
+msgstr "Poskusi znova"
 
 msgid "Discard changes"
-msgstr ""
+msgstr "Zavrzi spremembe"
 
 # generic/dirdlgg.cpp:550
 #, c-format
@@ -2276,6 +2274,11 @@ msgstr "TIFF: napaka pri shranjevanju slike."
 # common/imagtiff.cpp:338
 msgid "TIFF: Error writing image."
 msgstr "TIFF: napaka pri zapisovanju slike."
+
+# common/imagtiff.cpp:291
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: napaka pri shranjevanju slike."
 
 #, c-format
 msgid ""
@@ -5951,7 +5954,6 @@ msgstr "Vrsta datoteke:"
 # msw/mdi.cpp:1287
 # msw/mdi.cpp:1294
 # msw/window.cpp:2286
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Window"
 msgstr "Okno"
@@ -5960,22 +5962,18 @@ msgstr "Okno"
 # generic/proplist.cpp:528
 # html/helpfrm.cpp:208
 # msw/mdi.cpp:1283
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Help"
 msgstr "Pomoč"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Minimize"
 msgstr "Pomanjšaj"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Zoom"
 msgstr "Povečaj"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Bring All to Front"
 msgstr "Pomakni vse v ospredje"
@@ -7985,42 +7983,3 @@ msgstr "Ustvarjanje %s »%s« ni uspelo."
 # generic/fontdlgg.cpp:211
 #~ msgid "<Any Teletype>"
 #~ msgstr "<poljubna strojna>"
-
-# common/prntbase.cpp:106
-# common/prntbase.cpp:148
-#~ msgid "Printing "
-#~ msgstr "Tiskanje poteka"
-
-# generic/dirdlgg.cpp:550
-#~ msgid "Failed to insert text in the control."
-#~ msgstr "V kontrolnik ni bilo mogoče vstaviti besedila."
-
-# generic/filedlgg.cpp:1092
-#~ msgid "Please choose a valid font."
-#~ msgstr "Prosimo, izberite veljavno pisavo."
-
-# html/winpars.cpp:364
-#, c-format
-#~ msgid "Failed to display HTML document in %s encoding"
-#~ msgstr "Dokumenta HTML, kodiranega v %s, ni mogoče prikazati."
-
-# common/docview.cpp:306
-#, c-format
-#~ msgid "wxWidgets could not open display for '%s': exiting."
-#~ msgstr "wxWidgets ne more odpreti zaslona za '%s': izhod iz programa."
-
-# generic/filedlgg.cpp:534
-#~ msgid "Filter"
-#~ msgstr "Končnica"
-
-# generic/fontdlgg.cpp:207
-#~ msgid "Directories"
-#~ msgstr "Mape"
-
-# generic/filedlgg.cpp:534
-#~ msgid "Files"
-#~ msgstr "Datoteke"
-
-# generic/dirdlgg.cpp:191
-#~ msgid "Selection"
-#~ msgstr "Izbira"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -1885,6 +1885,10 @@ msgstr "TIFF: greška pri čuvanju slike."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: greška pri pisanju slike."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: greška pri čuvanju slike."
 
 #, c-format
 msgid ""

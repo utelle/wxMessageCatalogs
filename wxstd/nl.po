@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -1886,6 +1886,10 @@ msgstr "TIFF: fout bij opslaan van afbeelding."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: fout bij schrijven van afbeelding."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: fout bij opslaan van afbeelding."
 
 #, c-format
 msgid ""

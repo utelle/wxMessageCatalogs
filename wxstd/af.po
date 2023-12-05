@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2013-11-04 10:21+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -1919,6 +1919,10 @@ msgstr "TIFF: fout by stoor van beeld."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: fout by skryf van beeld."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: fout by stoor van beeld."
 
 #, c-format
 msgid ""

@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -1954,6 +1954,10 @@ msgstr "TIFF: Virhe kuvan tallennuksesa."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Virhe kuvan kirjoituksessa."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Virhe kuvan tallennuksesa."
 
 #, c-format
 msgid ""

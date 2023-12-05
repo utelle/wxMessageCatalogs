@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -1875,6 +1875,10 @@ msgid "TIFF: Error saving image."
 msgstr "TIFF: Помилка запису зображення."
 
 msgid "TIFF: Error writing image."
+msgstr "TIFF: Помилка запису зображення."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
 msgstr "TIFF: Помилка запису зображення."
 
 #, c-format

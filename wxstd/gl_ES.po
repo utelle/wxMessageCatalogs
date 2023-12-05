@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2013-11-01 21:34+0100\n"
 "Last-Translator: Nuria Andión <nandiez@gmail.com>\n"
 "Language-Team: Proxecto Trasno <proxecto@trasno.net>\n"
@@ -1924,6 +1924,10 @@ msgstr "TIFF: Erro ao gardar a imaxe."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Erro ao escribir na imaxe."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Erro ao gardar a imaxe."
 
 #, c-format
 msgid ""

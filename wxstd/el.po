@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -1971,6 +1971,10 @@ msgstr "TIFF: Λάθος κατά την αποθήκευση εικόνας."
 
 msgid "TIFF: Error writing image."
 msgstr "TIFF: Λάθος κατα την εγγραφή εικόνας."
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "TIFF: Λάθος κατά την αποθήκευση εικόνας."
 
 #, c-format
 msgid ""

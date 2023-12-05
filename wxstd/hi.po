@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-12 03:36+0000\n"
+"POT-Creation-Date: 2023-12-05 03:37+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -1953,6 +1953,10 @@ msgstr "टीआईएफ़एफ़: आकॄति को सुरक्षि�
 
 msgid "TIFF: Error writing image."
 msgstr "टीआईएफ़एफ़: आकॄति को लिखने में त्रुटि।"
+
+#, fuzzy
+msgid "TIFF: Error flushing data."
+msgstr "टीआईएफ़एफ़: आकॄति को सुरक्षित करने में त्रुटि।"
 
 #, c-format
 msgid ""
