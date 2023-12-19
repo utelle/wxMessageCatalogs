@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2023-03-27 12:18-0300\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Felipe <felipefplzx@gmail.com>\n"
@@ -3616,9 +3616,10 @@ msgstr "Clique pra confirmar a seleção da fonte."
 msgid "Choose font"
 msgstr "Escolha uma fonte"
 
-msgid "Copying more than one selected block to clipboard is not supported."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
 msgstr ""
-"Não é suportado copiar mais do que um bloco selecionado pra área de trabalho."
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6661,6 +6662,11 @@ msgstr "Não consegue carregar os recursos do arquivo '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Falhou em criar %s \"%s\"."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr ""
+#~ "Não é suportado copiar mais do que um bloco selecionado pra área de "
+#~ "trabalho."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "Formato da área de transferência não suportado."

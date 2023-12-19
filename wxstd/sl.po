@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2023-09-14 22:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -4315,8 +4315,10 @@ msgstr "Kliknite za potrditev izbire pisave."
 msgid "Choose font"
 msgstr "Izberite pisavo"
 
-msgid "Copying more than one selected block to clipboard is not supported."
-msgstr "Kopiranje več kot enega izbranega bloka na odložišče ni podprto."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
+msgstr ""
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -7905,6 +7907,9 @@ msgstr "Ni mogoče naložiti virov iz datoteke »%s«."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Ustvarjanje %s »%s« ni uspelo."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr "Kopiranje več kot enega izbranega bloka na odložišče ni podprto."
 
 # msw/clipbrd.cpp:268
 # msw/clipbrd.cpp:369

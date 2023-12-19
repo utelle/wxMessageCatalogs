@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2015-05-09 20:03+0545\n"
 "Last-Translator: drishtibachak@gmail.com\n"
 "Language-Team: Him Prasad Gautam <himjee@yahoo.com>\n"
@@ -3615,7 +3615,9 @@ msgstr "वरणाकृतिको चयन यकिन गर्न क�
 msgid "Choose font"
 msgstr "वरणाकृति छान्नु होस्"
 
-msgid "Copying more than one selected block to clipboard is not supported."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
 msgstr ""
 
 #, c-format

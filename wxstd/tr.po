@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -3605,8 +3605,10 @@ msgstr "Yazı türü seçimini onaylamak için tıklayın."
 msgid "Choose font"
 msgstr "Yazı türü seçin"
 
-msgid "Copying more than one selected block to clipboard is not supported."
-msgstr "Seçilmiş bir bloktan fazlasının panoya kopyalanması desteklenmiyor."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
+msgstr ""
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6625,6 +6627,9 @@ msgstr "Kaynaklar '%s' dosyasından yüklenemedi."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "%s \"%s\" oluşturulamadı."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr "Seçilmiş bir bloktan fazlasının panoya kopyalanması desteklenmiyor."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "Pano biçimi desteklenmiyor."

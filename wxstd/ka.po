@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -3607,8 +3607,10 @@ msgstr "წკაპი ფონტის არჩევანის დას
 msgid "Choose font"
 msgstr "აირჩიეთ ფონტი"
 
-msgid "Copying more than one selected block to clipboard is not supported."
-msgstr "მიმოცვლის ბაფერში ერთზე მეტი ბლოკის დამატება მხარდაუჭერელია."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
+msgstr ""
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6574,6 +6576,9 @@ msgstr "'%s'-დან რესურსების ჩატვირთვ�
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "შექმნა %s \"%s\" შეცდომა."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr "მიმოცვლის ბაფერში ერთზე მეტი ბლოკის დამატება მხარდაუჭერელია."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "მიმოცვლის ბაფერის არასწორი ფორმატი."

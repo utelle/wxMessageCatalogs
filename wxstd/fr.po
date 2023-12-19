@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2022-04-10 12:52+0200\n"
 "Last-Translator: Gérard DURAND <gerard-florence.durand@orange.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -3633,9 +3633,10 @@ msgstr "Cliquer pour confirmer la sélection de la police."
 msgid "Choose font"
 msgstr "Choisir la police"
 
-msgid "Copying more than one selected block to clipboard is not supported."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
 msgstr ""
-"Copier plus d'un bloc sélectionné dans le bloc-note n'est pas supporté."
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6740,6 +6741,10 @@ msgstr "Impossible de charger les ressources du fichier « %s »."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Échec de la création de %s « %s »."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr ""
+#~ "Copier plus d'un bloc sélectionné dans le bloc-note n'est pas supporté."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "Format de presse-papiers non reconnu."

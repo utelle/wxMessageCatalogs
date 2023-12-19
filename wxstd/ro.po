@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Cătălin Răceanu <cata_sr@yahoo.com>\n"
 "Language-Team: ro.ro\n"
@@ -3627,9 +3627,10 @@ msgstr "Clic pentru a confirma selectarea fontului."
 msgid "Choose font"
 msgstr "Alege font"
 
-msgid "Copying more than one selected block to clipboard is not supported."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
 msgstr ""
-"Copierea în clipboard a mai multor blocuri selectate nu este suportată."
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6690,6 +6691,10 @@ msgstr "Nu se pot încărca resursele din fișierul '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Crearea %s \"%s\" a eșuat."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr ""
+#~ "Copierea în clipboard a mai multor blocuri selectate nu este suportată."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "Format de clipboard nesuportat."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2023-02-08 12:20+0100\n"
 "Last-Translator: Miguel Giménez <tecnico@solener.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -3622,8 +3622,10 @@ msgstr "Pulse para confirmar la selección del tipo de letra."
 msgid "Choose font"
 msgstr "Elija un tipo de letra"
 
-msgid "Copying more than one selected block to clipboard is not supported."
-msgstr "No se puede copiar más de un bloque seleccionado al portapapeles."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
+msgstr ""
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6673,6 +6675,9 @@ msgstr "No se pueden cargar los recursos a partir del archivo «%s»."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Falló la creación de %s «%s»."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr "No se puede copiar más de un bloque seleccionado al portapapeles."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "Formato de portapapeles no admitido."

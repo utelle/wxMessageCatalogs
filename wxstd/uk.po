@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -3620,10 +3620,10 @@ msgstr "Клацніть, щоб підтвердити вибір шрифту.
 msgid "Choose font"
 msgstr "Виберіть шрифт"
 
-msgid "Copying more than one selected block to clipboard is not supported."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
 msgstr ""
-"Підтримки копіювання декількох позначених блоків до буфера обміну даними не "
-"передбачено."
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6680,6 +6680,11 @@ msgstr "Не вдалося завантажити ресурси з файла 
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Не вдалося створити %s «%s»."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr ""
+#~ "Підтримки копіювання декількох позначених блоків до буфера обміну даними "
+#~ "не передбачено."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "Непідтримуваний формат clipboard."

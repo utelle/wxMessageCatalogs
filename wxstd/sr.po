@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -3622,9 +3622,10 @@ msgstr "Kliknite da potvrdite izbor fonta."
 msgid "Choose font"
 msgstr "Izaberite font"
 
-msgid "Copying more than one selected block to clipboard is not supported."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
 msgstr ""
-"Kopiranje više od jednog izabranog bloka u privremenu memoriju nije podržano."
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6666,6 +6667,11 @@ msgstr "Nemoguće učitati resurse iz datoteke '%s'."
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Pravljenje %s \"%s\" nije uspelo."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr ""
+#~ "Kopiranje više od jednog izabranog bloka u privremenu memoriju nije "
+#~ "podržano."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "Format privremene memorije nije podržan."

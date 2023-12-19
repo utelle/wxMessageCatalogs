@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -3604,8 +3604,10 @@ msgstr "எழுத்துரு தெரிவினை உறுதி ச
 msgid "Choose font"
 msgstr "எழுத்துருவைத் தேர்ந்தெடுத்திடுக"
 
-msgid "Copying more than one selected block to clipboard is not supported."
-msgstr "ஒன்றுக்கும் மேற்பட்ட தெரிவான தொகுதியை பிடிப்புப்பலகைக்கு படியெடுக்க ஆதரவில்லை."
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
+msgstr ""
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6662,6 +6664,10 @@ msgstr "'%s' கோப்பிலிருந்து வளங்களை �
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "%s உருவாக்கப்படுகிறது. \"%s\" தோல்வியடைந்தது."
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr ""
+#~ "ஒன்றுக்கும் மேற்பட்ட தெரிவான தொகுதியை பிடிப்புப்பலகைக்கு படியெடுக்க ஆதரவில்லை."
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "ஆதரவளிக்கப்படாத பிடிப்புப் பலகை வடிவூட்டம்."

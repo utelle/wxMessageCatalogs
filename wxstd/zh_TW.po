@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-05 03:37+0000\n"
+"POT-Creation-Date: 2023-12-19 03:37+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -3590,8 +3590,10 @@ msgstr "點擊確認字型選擇。"
 msgid "Choose font"
 msgstr "選擇字型"
 
-msgid "Copying more than one selected block to clipboard is not supported."
-msgstr "不支援將多個選定區塊複製至剪貼簿。"
+msgid ""
+"Error copying grid to the clipboard. Either selected cells were not "
+"contiguous or no cell was selected."
+msgstr ""
 
 #, c-format
 msgid "Help directory \"%s\" not found."
@@ -6593,6 +6595,9 @@ msgstr "無法從 '%s' 檔案載入資源。"
 #, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "無法創建 %s “%s”。"
+
+#~ msgid "Copying more than one selected block to clipboard is not supported."
+#~ msgstr "不支援將多個選定區塊複製至剪貼簿。"
 
 #~ msgid "Unsupported clipboard format."
 #~ msgstr "不支援的剪貼簿格式。"
