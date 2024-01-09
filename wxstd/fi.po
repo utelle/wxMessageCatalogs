@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -1086,6 +1086,28 @@ msgstr "tiedoston koko ei löydy tiedoston kuvauksesta %d"
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "ei voida päätellä tuliko kuvaajan %d loppu vastaan"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "Ja sisällytä seuraavat tiedostot:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Työhakemistoa ei saatu"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Puhelinyhteyden ”%s” keskeytys ei onnistunut."
 
 #, c-format
 msgid "can't open global configuration file '%s'."

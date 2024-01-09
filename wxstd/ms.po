@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2006-11-06 10:48+0800\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: ms_MY <ms@li.org>\n"
@@ -1088,6 +1088,28 @@ msgstr "gagal menemui panjang fail pada penghurai fail %d"
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "Gagal ditentukan jika EOF dicapai pada penghurai %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "*** Dan termasuk fail berikut:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Gagal memuat metafail dari fail \"%s\"."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Gagal mendapatkan direktori kerja"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Gagal menamatkan sambungan mendial: %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

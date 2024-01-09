@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -1038,6 +1038,28 @@ msgstr "kan bestandslengte niet vinden bij bestandsbeschrijving %d"
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr ""
 "kan niet bepalen of bestandseinde is bereikt bij bestandsbeschrijving %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "En omvat de volgende bestanden:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Lezen van tekstbestand \"%s\" mislukt."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Verkrijgen van de werk map mislukt"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Kan webweergave niet instellen op modern emulatieniveau"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

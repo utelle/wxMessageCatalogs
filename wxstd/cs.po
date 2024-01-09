@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2023-02-07 21:59+0100\n"
 "Last-Translator: PB <pbfordev@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -1025,6 +1025,28 @@ msgstr "nelze zjistit délku souboru pro popisovač souboru %d"
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "nelze zjistit, jestli byl dosažen konec souboru pro popisovač %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "A zahrnuje následující soubory:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Nelze načíst textový soubor \"%s\"."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Nelze zjistit aktuální pracovní adresář"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Nelze nastavit komponentu web view na moderní úroveň emulace"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

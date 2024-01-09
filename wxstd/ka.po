@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -1034,6 +1034,28 @@ msgstr "ფაილის დესკრიპტორზე ფაილი�
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr ""
 "ფაილის დესკრიპტორზე (%d)  გარკვევა, მიღწეულია თუ არა ფაილის ბოლო, შეუძლებელია"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "და შეიცავს შემდეგ ფაილებს:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "ტექსტური ფაილის კითხვის შეცდომა: %s."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "სამუშაო საქაღალდის მიღების შეცდომა"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "სატელეფონო კავშირის გაუქმების შეცდომა: %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2003-07-22 11:31+0100\n"
 "Last-Translator: Robert Millan <rmh@aybabtu.com>\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -1082,6 +1082,27 @@ msgstr ""
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr ""
 "no es pot determinar si s'ha arribat al final del fitxer amb el descriptor %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+msgid " due to the following error:\n"
+msgstr ""
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "No s'ha pogut carregar la imatge %d des del fitxer '%s'."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "No s'ha pogut obtenir el directori en funcionament"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "No s'ha pogut acabar la connexió de marcatge directe: %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

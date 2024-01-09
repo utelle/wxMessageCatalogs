@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -1033,6 +1033,30 @@ msgstr "Не вдалося встановити довжину файла з д
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "Не вдалося встановити досягнення кінця файла з дескриптором %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "Та містить такі файли:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Не вдалося прочитати текстовий файл «%s»."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Не вдалося отримати робочий каталог"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr ""
+"Не вдалося встановити для перегляду сторінок інтернету сучасний рівень "
+"емуляції"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

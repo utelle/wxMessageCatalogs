@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2014-06-04 16:19+1200\n"
 "Last-Translator: Mariusz Drozdowski <schemedit@wp.pl>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -1077,6 +1077,28 @@ msgstr "nie można znaleźć rozmiaru pliku w deskryptorze pliku %d"
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "nie można określić czy osiągnięto koniec pliku w deskryptorze %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "I zawiera następujące pliki:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Nie udało się wczytanie dokumentu z pliku \"%s\"."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Nie udało się uzyskać katalogu roboczego"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Nie udało się zakończyć połączenia dialup: %s"
 
 # globalnej?
 #, c-format

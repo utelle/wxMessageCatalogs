@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2023-09-14 22:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -1289,6 +1289,30 @@ msgstr "ni mogoče najti dolžine datoteke na datotečnem deskriptorju %d"
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr ""
 "ni mogoče ugotoviti, ali je bil konec datoteke na deskriptorju %d dosežen"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "in vsebuje naslednje datoteke:\n"
+
+# common/ffile.cpp:182
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Branje besedilne datoteke »%s« ni uspelo."
+
+# generic/dirdlgg.cpp:550
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Delovne mape ni mogoče pridobiti."
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Nastavitev spletnega pogleda na sodobno raven emulacije ni uspela"
 
 # common/fileconf.cpp:319
 #, c-format

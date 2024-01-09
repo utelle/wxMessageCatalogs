@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -1088,6 +1088,28 @@ msgstr "%d फ़ाइल विवरणकर्ता पर फ़ाइल क�
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "निश्चय नहीं किया जा सकता है कि %d विवरणकर्ता पर फ़ाइल की समाप्ति पहुँच गयी है"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "और नीचे दी गयी फ़ाइलें सम्मिलित हें:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "%d आकॄति को '%s' फ़ाइल से लोड करने में असफ़ल।"
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "कार्यशील निर्देशिका को प्राप्त करने में असफ़ल"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "डायल-अप कनेक्शन को समाप्त करने में असफ़ल: %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

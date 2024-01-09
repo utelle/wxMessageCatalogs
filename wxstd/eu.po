@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2015-07-18 21:39+0200\n"
 "Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
 "Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
@@ -1031,6 +1031,28 @@ msgstr "ezin da aurkitu agiri luzera %d agiri azaltzailean"
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "ezin da zehaztu agiriaren amaiera lortu den %d azaltzailean"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "Eta hurrengo agiriak ditu:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Hutsegitea \"%s\" agiritik agiria irakurtzerakoan."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Hutsegitea lan zuzenbidea lortzerakoan"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Hutsegitea urrutizkin elkarketa amaitzerakoan: %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

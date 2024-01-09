@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -1067,6 +1067,28 @@ msgstr "không thể tìm thấy độ dài của tập tin trên phần mô t�
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "không thể kết thúc nếu kết thúc tập tin nằm trên phần mô tả %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "Và bao gồm các tập tin sau đây:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Lỗi đọc từ tập tin \"%s\" gặp lỗi."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Lấy thư mục đang làm việc gặp lỗi"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Chấm dứt kết nối quay số gặp lỗi: %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

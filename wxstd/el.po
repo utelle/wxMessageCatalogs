@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -1086,6 +1086,27 @@ msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr ""
 "αδύνατο να καθοριστεί εαν το τέλος αρχείου του έχει φτάσει στο περιγραφέα "
 "(descriptor) %d"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+msgid " due to the following error:\n"
+msgstr ""
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Αποτυχία φόρτωσης της μετα-εικόνας από το αρχείο '%s'."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Αποτυχία λήψης καταλόγου εργασίας (working directory)"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Αποτυχία τερματισμού της σύνδεσης μέσω τηλεφώνου : %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

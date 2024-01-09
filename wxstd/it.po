@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets revised 09.02.2023 by bovirus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2023-02-09 19:31+0100\n"
 "Last-Translator: bovirus <bovirus@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -1035,6 +1035,29 @@ msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr ""
 "impossibile determinare se il descrittore di file %d ha raggiunto la fine "
 "del file"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "E includi i seguenti file:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Impossibile leggere il file di testo \"%s\"."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Impossibile determinare la cartella di lavoro"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr ""
+"Impossibile impostare la visualizzazione web al livello di emulazione moderno"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

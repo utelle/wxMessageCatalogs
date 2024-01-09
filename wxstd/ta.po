@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -1028,6 +1028,28 @@ msgstr "%d கோப்பு விளக்கியில் கோப்ப�
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "%d விளக்கியில் கோப்பின் இறுதியை அடைந்துவிட்டதா என்று தீர்மானிக்க இயலாது"
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "பின்வரும் கோப்புகளும் சேர்க்கப்பட்டுள்ளன: \n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "\"%s\" உரைக் கோப்பினைப் படிப்பதில் தோல்வி."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "செயலிலிருக்கும் அடைவினைப் பெறுவதில் தோல்வி"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "வலைத் தோற்றத்தை நவீன நிகர்நிலை மட்டத்திற்கு அமைக்க இயலவில்லை"
 
 #, c-format
 msgid "can't open global configuration file '%s'."

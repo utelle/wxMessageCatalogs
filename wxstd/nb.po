@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-19 03:37+0000\n"
+"POT-Creation-Date: 2024-01-09 03:36+0000\n"
 "PO-Revision-Date: 2015-10-27 22:33+0100\n"
 "Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1073,6 +1073,28 @@ msgstr "klarte ikke finne lengde av filen med deskriptor %d"
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
 msgstr "klarte ikke avgjøre om slutten på filen er nådd for deskriptor %d "
+
+#, c-format
+msgid ""
+" and additionally, the existing configuration file was renamed to \"%s\" and "
+"couldn't be renamed back, please rename it to its original path \"%s\""
+msgstr ""
+
+#, fuzzy
+msgid " due to the following error:\n"
+msgstr "*** Og den inkluderer følgende filer:\n"
+
+#, fuzzy
+msgid "failed to rename the existing file"
+msgstr "Klarte ikke laste metafil fra filen «%s»."
+
+#, fuzzy
+msgid "failed to create the new file directory"
+msgstr "Klarte ikke finne gjeldende mappe"
+
+#, fuzzy
+msgid "failed to move the file to the new location"
+msgstr "Klarte ikke avslutte oppringingskoblingen: %s"
 
 #, c-format
 msgid "can't open global configuration file '%s'."
