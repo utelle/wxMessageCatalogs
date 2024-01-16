@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-09-14 22:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -1366,6 +1366,11 @@ msgstr "datoteka »%s«, vrstica %zu: ključ »%s« je bil že najden v vrstici 
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Vstopno konfiguracijsko ime se ne more začeti s »%c«."
+
+# common/fileconf.cpp:800
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Predmeta prilagoditve pisave ni mogoče ustvariti."
 
 # common/fileconf.cpp:800
 msgid "can't open user configuration file."

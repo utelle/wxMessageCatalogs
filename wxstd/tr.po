@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -1102,6 +1102,10 @@ msgstr "dosya '%s', satır %zu: anahtar '%s' ilk olarak %d satırında bulundu."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Ayar kaydının adı '%c' ile başlayamaz."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Yazı türü yapılandırma nesnesi eklenemedi."
 
 msgid "can't open user configuration file."
 msgstr "kullanıcı ayar dosyası açılamadı."

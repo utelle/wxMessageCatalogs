@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2003-07-22 11:31+0100\n"
 "Last-Translator: Robert Millan <rmh@aybabtu.com>\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -1149,6 +1149,10 @@ msgstr ""
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "No es pot iniciar un nom d'entrada de configuració per '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "no es pot obrir el fitxer de configuració de l'usuari."
 
 msgid "can't open user configuration file."
 msgstr "no es pot obrir el fitxer de configuració de l'usuari."

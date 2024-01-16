@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -1106,6 +1106,10 @@ msgstr ""
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Naam van configuratie-ingang kan niet beginnen met '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Kan lettertype configuratieobject niet maken."
 
 msgid "can't open user configuration file."
 msgstr "kan gebruikers-configuratiebestand niet openen."

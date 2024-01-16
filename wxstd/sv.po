@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2014-02-23 11:45+0100\n"
 "Last-Translator: Jonas Rydberg <jonas@drevo.se>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -1125,6 +1125,10 @@ msgstr "fil \"%s\", rad %d: Nyckel \"%s\" hittades först på rad %d."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Konfigurationspost kan inte starta med \"%c\"."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Kunde inte uppdatera användarkonfigurationsfil."
 
 msgid "can't open user configuration file."
 msgstr "kan inte öppna användarkonfigurationsfil."

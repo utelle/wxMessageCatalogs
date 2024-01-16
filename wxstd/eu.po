@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2015-07-18 21:39+0200\n"
 "Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
 "Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
@@ -1096,6 +1096,10 @@ msgstr "'%s' agiria, %d lerroa: '%s' tekla  lehenik aurkitu da %d lerroan."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Itxurap sarrera izean ezin da '%c'-rekin hasi."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Hutsegitea erabiltzaile itxurapen agiria eguneratzerakoan."
 
 msgid "can't open user configuration file."
 msgstr "ezin da ireki erabiltzailearen itxurapen agiria."

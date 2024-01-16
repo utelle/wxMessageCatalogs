@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -1101,6 +1101,10 @@ msgstr "ფაილი '%s', ხაზი %zu: გასაღები '%s ' �
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "კონფიგურაციის ჩანაწერის სახელი '%c'-ით ვერ დაიწყება."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "ფონტის კონფიგურაციის ობიექტის შექმნის შეცდომა."
 
 msgid "can't open user configuration file."
 msgstr "მომხმარებლის კონფიგურაციის ფაილის გახსნს შეცდომა."

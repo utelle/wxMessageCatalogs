@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2022-07-11 10:47+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: wxWidgets tranlators <wx-translators@wxwidgets.org>\n"
@@ -1094,6 +1094,10 @@ msgstr "文件 '%s'，行 %zu：键 '%s' 第一次出现在 %d 行。"
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "配置条目名不能以 '%c' 开头。"
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "未能创建字体配置对象。"
 
 msgid "can't open user configuration file."
 msgstr "无法打开用户配置文件。"

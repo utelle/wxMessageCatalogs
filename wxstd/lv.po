@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2013-01-23 13:14+0300\n"
 "Last-Translator: Jānis Eisaks <jancs@dv.lv>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -1131,6 +1131,10 @@ msgstr "fails '%s', rinda %d: atslēga '%s' pirmo reizi atrasta rindā %d."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Konfigurācijas ieraksta nosaukums nevar sākties ar  '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Neizdevās atsvaidzināt lietotāja konfigurācijas failu."
 
 msgid "can't open user configuration file."
 msgstr "nevar atvērt lietotāja konfigurācijas failu."

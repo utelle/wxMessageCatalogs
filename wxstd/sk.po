@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2020-10-19 12:24+0200\n"
 "Last-Translator: Jozef Matta <jozef.m923@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -1096,6 +1096,10 @@ msgstr "súbor '%s', riadok %zu: kľúč '%s' bol prvýkrát nájdený na riadku
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Záznam konfigurácie nemôže začínať '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Zlyhala aktualizácia používateľského konfiguračného súboru."
 
 msgid "can't open user configuration file."
 msgstr "nemožno otvoriť konfiguračný súbor používateľa."

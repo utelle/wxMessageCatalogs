@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -1132,6 +1132,10 @@ msgstr "tập tin '%s', dòng %d: khóa '%s' được tìm thấy đầu tiên t
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Tên mục tin cấu hình không thể bắt đầu bằng '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Cập nhật tập tin cấu hình gặp lỗi."
 
 msgid "can't open user configuration file."
 msgstr "không thể mở tập tin cấu hình của người dùng."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2018-09-06 07:55+0500\n"
 "Last-Translator: Alexander Kovalenko <nktch@yandex.ru>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -1101,6 +1101,10 @@ msgstr "файл '%s', строка %zu: ключ '%s' был впервые н�
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Имя поля в файле конфигурации не может начинаться с '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Не удалось обновить пользовательский файл конфигурации."
 
 msgid "can't open user configuration file."
 msgstr "невозможно открыть файл конфигурации пользователя."

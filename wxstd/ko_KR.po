@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2009-04-23 18:29+0900\n"
 "Last-Translator: 정성기 <dragoneyes.org@gmail.com>\n"
 "Language-Team: Korean <Korean>\n"
@@ -1134,6 +1134,10 @@ msgstr "파일[%s], 행[%d], 키['%s'] : %d 행에서 처음으로 발견됨 "
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "설정파일에 문자열은 '%c' 로 시작할 수 없습니다."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "사용자 설정 파일을 갱신하는데 실패했습니다."
 
 msgid "can't open user configuration file."
 msgstr "사용자 설정파일을 열수 없습니다."

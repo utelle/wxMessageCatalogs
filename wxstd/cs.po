@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-02-07 21:59+0100\n"
 "Last-Translator: PB <pbfordev@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -1089,6 +1089,10 @@ msgstr "soubor '%s', řádka %zu: klíč '%s' byl poprvé nalezen na řádce %d.
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Položka konfigurace nesmí začínat na '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Nelze vytvořit objekt pro konfiguraci fontů."
 
 msgid "can't open user configuration file."
 msgstr "nelze otevřít uživatelský konfigurační soubor."

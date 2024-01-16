@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets in Corsican\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-07-07 01:15+0200\n"
 "Last-Translator: Patriccollu di Santa Maria è Sichè <https://github.com/"
 "Patriccollu/Lingua_Corsa-Infurmatica/#readme>\n"
@@ -1118,6 +1118,10 @@ msgstr ""
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "U nome d’elementu di cunfigurazione ùn pò micca principià cù « %c »."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Ùn si pò micca creà l’oggettu di cunfigurazione di grafia."
 
 msgid "can't open user configuration file."
 msgstr "ùn si pò apre u schedariu di cunfigurazione di l’utilizatore."

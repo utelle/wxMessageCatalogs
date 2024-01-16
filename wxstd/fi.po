@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -1152,6 +1152,10 @@ msgstr "tiedosto ”%s”, rivi %d: avain ”%s” löytyi ensiksi riviltä %d."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Asetuskohdan nimi ei voi alkaa merkillä ”%c”."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Käyttäjän asetustiedoston päivitys ei onnistu."
 
 msgid "can't open user configuration file."
 msgstr "käyttäjän asetustiedoston avaus ei onnistu."

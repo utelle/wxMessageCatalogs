@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2006-11-06 10:48+0800\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: ms_MY <ms@li.org>\n"
@@ -1153,6 +1153,10 @@ msgstr "fail '%s', baris %d: kunci '%s' pertama kali sitemui pada baris %d."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Nama masukan konfig tidak boleh dimulakan dengan '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Gagal naiktaraf fail konfigurasi pengguna."
 
 msgid "can't open user configuration file."
 msgstr "gagal membuka fail konfigurasi pengguna."

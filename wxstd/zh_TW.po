@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -1097,6 +1097,10 @@ msgstr "檔案 '%s', 第 %zu 列：機碼 '%s' 第一次出現在第 %d 列。"
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "組態項目名稱不能以 '%c' 開頭。"
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "無法創建字型組態物件。"
 
 msgid "can't open user configuration file."
 msgstr "無法開啟使用者組態檔案。"

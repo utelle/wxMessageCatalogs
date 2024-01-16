@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -1093,6 +1093,10 @@ msgstr "கோப்பு '%s', வரி %zu: '%s' விசை, %d வரி�
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "அமைவடிவ உள்ளிடின் பெயர் '%c' என்று துவங்க இயலாது."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "எழுத்துரு அமைவடிவப் பொருளை உருவாக்குவதில் தோல்வி."
 
 msgid "can't open user configuration file."
 msgstr "பயனர் அமைவடிவக் கோப்பினை திறக்க இயலாது"

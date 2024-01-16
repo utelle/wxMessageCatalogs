@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2015-05-09 20:03+0545\n"
 "Last-Translator: drishtibachak@gmail.com\n"
 "Language-Team: Him Prasad Gautam <himjee@yahoo.com>\n"
@@ -1092,6 +1092,10 @@ msgstr "फाइल '%s', लाइन %d: कुञ्जी '%s' पहिल
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Config प्रविष्टि नाम '%c' सित सुरु हुँदैन"
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "उपभोक्ता अभियोजन फाइल अद्यावधि करण गर्न सकिएन ।"
 
 msgid "can't open user configuration file."
 msgstr "उपभोक्ताको अभियोजन फाइललाई खोल्न सकिएन ।"

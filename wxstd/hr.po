@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-05-14 14:24+0200\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: \n"
@@ -1100,6 +1100,10 @@ msgstr "datoteka „%s”, redak %zu: ključ „%s” je najprije nađen u %d. r
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Konfiguracijsko ulazno ime ne može početi s „%c”."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Neuspjela izrada objekta konfiguracije fontova."
 
 msgid "can't open user configuration file."
 msgstr "nije moguće otvoriti datoteku korisničke konfiguracije."

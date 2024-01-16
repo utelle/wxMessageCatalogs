@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2014-06-04 16:19+1200\n"
 "Last-Translator: Mariusz Drozdowski <schemedit@wp.pl>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -1144,6 +1144,10 @@ msgstr "plik '%s', linia %d: klucz '%s' wystąpił po raz pierwszy w lini %d."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "Nazwa pozycji konfiguracji nie może zaczynać się od '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Nie udała się aktualizacja pliku konfiguracyjnego użytkownika."
 
 msgid "can't open user configuration file."
 msgstr "nie można otworzyć pliku konfiguracyjnego użytkownika."

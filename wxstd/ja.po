@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-10-03 22:56+0900\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <wx-translators@wxwidgets.org>\n"
@@ -1131,6 +1131,10 @@ msgstr "ファイル '%s' %d行目: キー '%s' はすでに %d行目に出て�
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "設定項目名は '%c' で始めることができません。"
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "ユーザー設定ファイルを更新できませんでした。"
 
 msgid "can't open user configuration file."
 msgstr "ユーザー設定ファイルを開くことができません。"

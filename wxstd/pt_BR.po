@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-03-27 12:18-0300\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Felipe <felipefplzx@gmail.com>\n"
@@ -1098,6 +1098,10 @@ msgstr "arquivo '%s', linha %zu: chave '%s' foi achada primeiro na linha %d."
 #, c-format
 msgid "Config entry name cannot start with '%c'."
 msgstr "O nome da entrada da config não pode iniciar com '%c'."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Falhou em criar o objeto da configuração da fonte."
 
 msgid "can't open user configuration file."
 msgstr "não pode abrir o arquivo de configuração do usuário."

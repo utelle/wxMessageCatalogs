@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.3.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-09 03:36+0000\n"
+"POT-Creation-Date: 2024-01-16 03:36+0000\n"
 "PO-Revision-Date: 2023-02-06 17:46+0100\n"
 "Last-Translator: Ulrich Telle <ulrich@telle-online.eu>\n"
 "Language-Team: wxWidgets Team <wx-dev@wxwidgets.org>\n"
@@ -1110,6 +1110,10 @@ msgstr "Datei „%s“, Zeile %zu: Eintrag „%s“ taucht erstmals in Zeile %d 
 msgid "Config entry name cannot start with '%c'."
 msgstr ""
 "Die Bezeichnung des Konfigurations-Eintrags kann nicht mit „%c“ beginnen."
+
+#, fuzzy
+msgid "Failed to create configuration file directory."
+msgstr "Erzeugung des Schriftart-Konfigurationsobjektes fehlgeschlagen."
 
 msgid "can't open user configuration file."
 msgstr "Kann Benutzer-Konfigurationsdatei nicht öffnen."
