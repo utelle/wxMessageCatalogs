@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2014-06-04 16:19+1200\n"
 "Last-Translator: Mariusz Drozdowski <schemedit@wp.pl>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -3097,6 +3097,19 @@ msgstr "Konwersja tekstu nie jest wspierana"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Nie udało się utworzenie katalogu \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Nie można ustawić wyrównania."
 
 msgid "This platform does not support background transparency."
 msgstr "Ta platforma nie obsługuje przezroczystości tła."
@@ -6957,10 +6970,6 @@ msgstr "Pobranie '%s' do '%s' nie powiodło się."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Nie można utworzyć okna klasy '%s'"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Nie można ustawić wyrównania."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Nie można utworzyć okna nakładki"

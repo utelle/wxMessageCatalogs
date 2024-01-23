@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2003-07-22 11:31+0100\n"
 "Last-Translator: Robert Millan <rmh@aybabtu.com>\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -3247,6 +3247,19 @@ msgstr ""
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "No s'ha pogut crear un directori %s/.gnome."
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "No s'ha pogut iniciar la impressió"
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -7206,10 +7219,6 @@ msgstr "L'execució de l'orde '%s' ha fallit."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "No es pot crear una finestra de la classe '%s'"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "No s'ha pogut iniciar la impressió"
 
 #, fuzzy
 #~ msgid "Couldn't create the overlay window"

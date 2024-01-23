@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -3011,6 +3011,19 @@ msgstr ""
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "ஜாவா குறுநிரலை இயக்குவதில் பிழை: %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "\"%s\" அடைவினை உருவாக்குவதில் தோல்வி."
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "ஒழுங்கமைக்க இயலவில்லை."
 
 msgid "This platform does not support background transparency."
 msgstr "இத்தளம் பின்புலத் தெளிவினை ஆதரிப்பதில்லை."
@@ -6819,10 +6832,6 @@ msgstr "%s உருவாக்கப்படுகிறது. \"%s\" தோ
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "%s பிரிவினைக் கொண்ட சாளரத்தை உருவாக்க இயலவில்லை"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "ஒழுங்கமைக்க இயலவில்லை."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "மேலமைவுச் சாளரத்தை உருவாக்க இயலவில்லை."

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.3.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2023-02-06 17:46+0100\n"
 "Last-Translator: Ulrich Telle <ulrich@telle-online.eu>\n"
 "Language-Team: wxWidgets Team <wx-dev@wxwidgets.org>\n"
@@ -3048,6 +3048,19 @@ msgstr "RunScriptAsync wird nicht unterstützt"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "Fehler beim Ausführen von JavaScript: %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Konnte das Verzeichnis „%s“ nicht erstellen."
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Konnte libnotify nicht initialisieren."
 
 msgid "This platform does not support background transparency."
 msgstr "Diese Plattform unterstützt keine Hintergrundtransparenz."
@@ -6913,9 +6926,6 @@ msgstr "Erstellung von %s „%s“ fehlgeschlagen."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Kann kein Fenster der Klasse „%s“ anlegen"
-
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Konnte libnotify nicht initialisieren."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Konnte das überlagerte Fenster nicht erzeugen"

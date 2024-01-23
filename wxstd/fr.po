@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2022-04-10 12:52+0200\n"
 "Last-Translator: Gérard DURAND <gerard-florence.durand@orange.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -3040,6 +3040,19 @@ msgstr "RunScriptAsync non supporté"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "Erreur à l'exécution du JavaScript : %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Échec de la création du répertoire « %s »"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "N'a pas pu initialiser libnotify."
 
 msgid "This platform does not support background transparency."
 msgstr "Cette plateforme ne supporte pas la transparence d'arrière plan."
@@ -6899,9 +6912,6 @@ msgstr "Échec de la création de %s « %s »."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Impossible de créer la fenêtre de classe %s"
-
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "N'a pas pu initialiser libnotify."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Impossible de créer une fenêtre de recouvrement"

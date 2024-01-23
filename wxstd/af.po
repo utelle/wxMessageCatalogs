@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2013-11-04 10:21+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -3109,6 +3109,19 @@ msgstr "String-omskakelings word nie ondersteun nie"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Gids \"%s\" kon nie geskep word nie"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Kon nie begin met drukwerk nie."
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -6979,10 +6992,6 @@ msgstr "Uitpak van '%s' binne-in '%s' het misluk."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Kan venster van klas '%s' nie skep nie"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Kon nie begin met drukwerk nie."
 
 #, fuzzy
 #~ msgid "Couldn't create the overlay window"

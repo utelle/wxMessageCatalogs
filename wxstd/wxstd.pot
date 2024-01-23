@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2980,6 +2980,18 @@ msgstr ""
 
 #, c-format
 msgid "Error running JavaScript: %s"
+msgstr ""
+
+#, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr ""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+msgid "Could not initialize Chromium"
 msgstr ""
 
 msgid "This platform does not support background transparency."

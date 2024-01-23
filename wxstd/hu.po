@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2009-07-26 20:12+0100\n"
 "Last-Translator: Oaron <oaron1@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -3172,6 +3172,19 @@ msgstr "Szöveg átalakítást nem támogatok"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Nem sikerült létrehozni a(z) \"%s\" könyvtárat"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Nem tudom elindítani a nyomtatást."
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -7176,10 +7189,6 @@ msgstr "Nem sikerült kifejteni  '%s'-t '%s'-be"
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Nem tudom létrehozni a(z) %s osztályhoz tartozó fájlt"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Nem tudom elindítani a nyomtatást."
 
 #, fuzzy
 #~ msgid "Couldn't create the overlay window"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -3135,6 +3135,19 @@ msgstr "Não são suportadas conversões de cadeias de caracteres"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Falha de criação de directório \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Não foi possível inicia a impressão."
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -7068,10 +7081,6 @@ msgstr "Falhou a extracção de '%s' para '%s'."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Não é possível criar janela da classe %s"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Não foi possível inicia a impressão."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Não foi possível criar a janela de sobreposição"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2015-07-18 21:39+0200\n"
 "Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
 "Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
@@ -3039,6 +3039,19 @@ msgstr ""
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Hutsegitea \"%s\" zuzenbidea sortzerakoan"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Ezin da lerrokapena ezarri."
 
 msgid "This platform does not support background transparency."
 msgstr "Plataforma honek ez dut barren gardentasuna sostengatzen."
@@ -6848,10 +6861,6 @@ msgstr "Hutsegitea %s \"%s\" sortzerakoan."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Ezin da %s klasearen leihoa sortu"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Ezin da lerrokapena ezarri."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Ezinezkoa leiho gainjarria sortzea"

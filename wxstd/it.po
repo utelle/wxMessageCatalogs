@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets revised 09.02.2023 by bovirus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2023-02-09 19:31+0100\n"
 "Last-Translator: bovirus <bovirus@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -3034,6 +3034,19 @@ msgstr "RunScriptAsync non supportata"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "Errore durante l'esecuzione del file JavaScript: %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Impossibile creare la cartella \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Impossibile inizializzare OLE"
 
 msgid "This platform does not support background transparency."
 msgstr "La piattaforma non supporta la trasparenza sfondo."

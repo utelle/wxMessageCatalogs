@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2006-11-06 10:48+0800\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: ms_MY <ms@li.org>\n"
@@ -3163,6 +3163,19 @@ msgstr "Penukaran rentetan tidak disokong"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Gagal mencipta direktori \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Gagal mulakan mencetak."
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -7113,10 +7126,6 @@ msgstr "Pengekstrakan '%s' kepada '%s' gagal."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Gagal mencipta tetingkap kelas %s"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Gagal mulakan mencetak."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Gagal mencipta tetingkap lapisan"

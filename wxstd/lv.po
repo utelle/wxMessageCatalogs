@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2013-01-23 13:14+0300\n"
 "Last-Translator: Jānis Eisaks <jancs@dv.lv>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -3075,6 +3075,19 @@ msgstr "Virkņu pārvēršana nav atbalstīta"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Neizdevās izveidot mapi \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Neizdevās iestatīt izlīdiznājumu."
 
 msgid "This platform does not support background transparency."
 msgstr "Šī platforma neuztur fona caurspīdīgumu."
@@ -6891,10 +6904,6 @@ msgstr "Neizdevās izveidot hronometru"
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Nav iespējams izveidot %s klases logu"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Neizdevās iestatīt izlīdiznājumu."
 
 #~ msgid "Failed to convert file \"%s\" to Unicode."
 #~ msgstr "Neizdevās pārvērst failu \"%s\"  uz Unikodu."

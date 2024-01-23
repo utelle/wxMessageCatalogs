@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2009-04-23 18:29+0900\n"
 "Last-Translator: 정성기 <dragoneyes.org@gmail.com>\n"
 "Language-Team: Korean <Korean>\n"
@@ -3132,6 +3132,19 @@ msgstr ""
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "디렉토리 \"%s\" 생성을 실패했습니다."
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "정렬 방식을 지정할 수 없습니다."
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -7024,10 +7037,6 @@ msgstr "'%s' 의 추출('%s' 에서) 실패 했습니다."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "클래스 %s 에서 윈도우생성 할 수 없습니다"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "정렬 방식을 지정할 수 없습니다."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "오버레이 창을 생성할 수 없습니다."

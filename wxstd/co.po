@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets in Corsican\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2023-07-07 01:15+0200\n"
 "Last-Translator: Patriccollu di Santa Maria è Sichè <https://github.com/"
 "Patriccollu/Lingua_Corsa-Infurmatica/#readme>\n"
@@ -3056,6 +3056,19 @@ msgstr "RunScriptAsync ùn hè micca accettatu"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "Sbagliu à l'esecuzione di JavaScript : %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Fiascu per creà u cartulare « %s »"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Ùn si pò inizià OLE"
 
 msgid "This platform does not support background transparency."
 msgstr "Sta piattaforma ùn accetta micca a trasparenza di sfondulu."

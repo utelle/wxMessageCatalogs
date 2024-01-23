@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -3189,6 +3189,19 @@ msgstr "श्रेणीयों का रूपांतरण समर्
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "\"%s\" निर्देशिका का निर्माण करने में असफ़ल।"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "मुद्रण को आरम्भ नहीं किया जा सका।"
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -7086,10 +7099,6 @@ msgstr "'%s' का निष्कर्षण '%s' में असफ़ल र�
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "%s वर्ग की खिड़की का निर्माण नहीं किया जा सकता है"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "मुद्रण को आरम्भ नहीं किया जा सका।"
 
 #, fuzzy
 #~ msgid "Couldn't create the overlay window"

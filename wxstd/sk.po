@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2020-10-19 12:24+0200\n"
 "Last-Translator: Jozef Matta <jozef.m923@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -3040,6 +3040,19 @@ msgstr "Konverzie reťazcov nie sú podporované"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Zlyhalo vytvorenie priečinku '%s'"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Zlyhala inicializácia libnotify."
 
 msgid "This platform does not support background transparency."
 msgstr "Táto platforma nepodporuje priehľadnosť pozadia."
@@ -6845,9 +6858,6 @@ msgstr "Vytváranie %s '%s' zlyhalo."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Nemožno vytvoriť okno triedy %s"
-
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Zlyhala inicializácia libnotify."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Nemožno vytvoriť preložené okno"

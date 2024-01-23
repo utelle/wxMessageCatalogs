@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2012-03-22 18:41+0200\n"
 "Last-Translator: Fatma Mehanna <fatma.mehanna@gmail.com>\n"
 "Language-Team: arabictranslationteam@googlegroups.com\n"
@@ -3107,6 +3107,19 @@ msgstr ""
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "فشل عند إغلاق الحافظة"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "تعذر بدأ الطباعة."
 
 msgid "This platform does not support background transparency."
 msgstr ""
@@ -6893,10 +6906,6 @@ msgstr "فشل فك '%s' ب '%s'."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "لا يمكن إنشاء نافذة من تصنيف %s"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "تعذر بدأ الطباعة."
 
 #~ msgid "Replace selection"
 #~ msgstr "استبدال التحديد"

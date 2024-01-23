@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -3030,6 +3030,19 @@ msgstr "RunScriptAsync nije podržan"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "Greška pri pokretanju JavaScript-a: %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Neuspešno pravljenje direktorijuma \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Nemoguće inicijalizovati OLE"
 
 msgid "This platform does not support background transparency."
 msgstr "Ova platforma ne podržava neprovidnu pozadinu."

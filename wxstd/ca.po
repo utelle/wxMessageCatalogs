@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2022-07-03 20:43+0200\n"
 "Last-Translator: Andriy Byelikov\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -3031,6 +3031,19 @@ msgstr "RunScriptAsync no suportat"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "Error executant JavaScript: %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "No s'ha pogut crear el directori \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "No s'ha pogut inicialitzar libnotify."
 
 msgid "This platform does not support background transparency."
 msgstr "Aquesta plataforma no suporta la transparència al fons."
@@ -6868,9 +6881,6 @@ msgstr "No s'ha pogut crear %s \"%s\"."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "No es pot crear una finestra de la classe '%s'"
-
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "No s'ha pogut inicialitzar libnotify."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "No s'ha pogut crear la finestra de superposició"

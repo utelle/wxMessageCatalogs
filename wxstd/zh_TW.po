@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -3006,6 +3006,19 @@ msgstr "RunScriptAsync 仍未支援"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "執行 JavaScript 時發生錯誤：%s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "無法創建目錄 \"%s”"
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "無法初始化 libnotify。"
 
 msgid "This platform does not support background transparency."
 msgstr "這個平臺不支援透明背景。"
@@ -6778,9 +6791,6 @@ msgstr "無法創建 %s “%s”。"
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "無法建立類別 '%s' 的視窗"
-
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "無法初始化 libnotify。"
 
 #~ msgid "Failed to convert file \"%s\" to Unicode."
 #~ msgstr "無法轉換「%s」檔案為 Unicode"

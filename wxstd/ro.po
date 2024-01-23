@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Cătălin Răceanu <cata_sr@yahoo.com>\n"
 "Language-Team: ro.ro\n"
@@ -3031,6 +3031,19 @@ msgstr "RunScriptAsync nu este suportat"
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr "Eroare la rularea JavaScript: %s"
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "A eșuat crearea directorului \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Nu a putut fi setată alinierea."
 
 msgid "This platform does not support background transparency."
 msgstr "Această platformă nu suportă transparență pentru fundal."
@@ -6846,10 +6859,6 @@ msgstr "Crearea %s \"%s\" a eșuat."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Nu se poate crea fereastra de clasa %s"
-
-#, fuzzy
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Nu a putut fi setată alinierea."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Nu a putut fi creată fereastra de acoperire (overlay)"

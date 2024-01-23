@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 03:36+0000\n"
+"POT-Creation-Date: 2024-01-23 03:37+0000\n"
 "PO-Revision-Date: 2017-07-26 00:00+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish\n"
@@ -3041,6 +3041,19 @@ msgstr ""
 #, c-format
 msgid "Error running JavaScript: %s"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to set proxy \"%s\": %s"
+msgstr "Kunne ikke oprette mappen \"%s\""
+
+msgid ""
+"Chromium can't be used because libcef.so was't loaded early enough; please "
+"relink the application or use LD_PRELOAD to load it earlier."
+msgstr ""
+
+#, fuzzy
+msgid "Could not initialize Chromium"
+msgstr "Kunne ikke initialisere libnotify."
 
 msgid "This platform does not support background transparency."
 msgstr "Denne platform understøtter ikke gennemsigtig baggrund."
@@ -6840,9 +6853,6 @@ msgstr "Oprettelse af %s \"%s\" fejlede."
 
 #~ msgid "Can't create window of class %s"
 #~ msgstr "Kan ikke oprette vindue af klassen %s"
-
-#~ msgid "Could not initalize libnotify."
-#~ msgstr "Kunne ikke initialisere libnotify."
 
 #~ msgid "Couldn't create the overlay window"
 #~ msgstr "Kunne ikke oprette overlay-vinduet"
