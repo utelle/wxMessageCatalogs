@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2006-11-06 10:48+0800\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: ms_MY <ms@li.org>\n"
@@ -4986,6 +4986,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Gagal cipta pemasa"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Gagal mendapatkan masa fail untuk '%s'"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "Gagal mencari RUMAH pengguna, gunakan direktori semasa."

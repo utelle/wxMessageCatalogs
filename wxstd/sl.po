@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-09-14 22:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -5920,6 +5920,11 @@ msgstr ""
 # msw/timer.cpp:96
 msgid "Couldn't create a timer"
 msgstr "Časovnika ni mogoče ustvariti"
+
+# generic/dirdlgg.cpp:550
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Neuspešno pridobivanje datotečnih časov za '%s'"
 
 # msw/utils.cpp:376
 msgid "can't find user's HOME, using current directory."

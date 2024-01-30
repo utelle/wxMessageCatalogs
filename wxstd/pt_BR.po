@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-03-27 12:18-0300\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Felipe <felipefplzx@gmail.com>\n"
@@ -4861,6 +4861,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Não pôde criar um cronômetro"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Falhou em recuperar as horas do arquivo para '%s'"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "não pôde achar o HOME do usuário, usando o diretório atual."

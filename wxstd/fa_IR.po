@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2020-07-17 12:42+0430\n"
 "Last-Translator: \n"
 "Language-Team: Ali Asadi <ali.asadi@wxwidgets.ir>\n"
@@ -4731,6 +4731,10 @@ msgid ""
 msgstr ""
 
 msgid "Couldn't create a timer"
+msgstr ""
+
+#, c-format
+msgid "Failed to retrieve user information: %s"
 msgstr ""
 
 msgid "can't find user's HOME, using current directory."

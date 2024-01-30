@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -4800,6 +4800,10 @@ msgstr "執行緒模組初始化失敗：無法將值儲存到執行緒內部儲
 
 msgid "Couldn't create a timer"
 msgstr "無法創建計時器"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "無法擷取 '%s' 檔案的各項時間"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "找不到使用者主目錄，使用目前目錄。"

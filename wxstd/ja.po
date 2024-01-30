@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-10-03 22:56+0900\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <wx-translators@wxwidgets.org>\n"
@@ -4946,6 +4946,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "タイマーを作成できませんでした"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "'%s' のファイル時刻を取得できませんでした。"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "ユーザーのHOMEが見つかりません。カレントディレクトリーを使用します。"

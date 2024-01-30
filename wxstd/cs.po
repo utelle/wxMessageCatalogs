@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-02-07 21:59+0100\n"
 "Last-Translator: PB <pbfordev@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -4822,6 +4822,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Nelze vytvořit časovač"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Nelze zjistit hodnoty časů souboru '%s'"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "nelze najít uživatelův domovský adresář, použit aktuální adresář."

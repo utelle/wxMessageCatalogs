@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -4829,6 +4829,10 @@ msgstr "İş parçacığı modülü başlatılamadı: Yerel depoya değer koyula
 
 msgid "Couldn't create a timer"
 msgstr "Bir zamanlayıcı oluşturulamadı"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "'%s' için dosya zamanları alınamadı"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "kullanıcının klasörü bulunamadığından geçerli klasör kullanılamadı."

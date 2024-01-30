@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -4780,6 +4780,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "ტაიმერის შექმნის შეცდომა"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "ფაილის დროების მიღების შეცდომა %s-სთვის"
 
 msgid "can't find user's HOME, using current directory."
 msgstr ""

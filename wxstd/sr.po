@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -4861,6 +4861,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Nemoguće napraviti tajmer"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Preuzimanje vremena za datoteku '%s' nije uspelo"
 
 msgid "can't find user's HOME, using current directory."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2009-04-23 18:29+0900\n"
 "Last-Translator: 정성기 <dragoneyes.org@gmail.com>\n"
 "Language-Team: Korean <Korean>\n"
@@ -4938,6 +4938,10 @@ msgstr "쓰레드 모듈 초기화 실패:TLS 초기화 실패 "
 
 msgid "Couldn't create a timer"
 msgstr "타이머를 생성할 수 없습니다."
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "'%s' 번 파일검색 실패 "
 
 msgid "can't find user's HOME, using current directory."
 msgstr "홈 디렉토리를 찾을수 없어 현재 디렉토리를 사용합니다."

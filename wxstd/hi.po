@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -5001,6 +5001,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "एक समय-सचेतक का निर्माण नहीं किया जा सका"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "'%s' के लिए फ़ाइल टाइम्स को पुनःप्राप्त करने में असफ़ल"
 
 msgid "can't find user's HOME, using current directory."
 msgstr ""

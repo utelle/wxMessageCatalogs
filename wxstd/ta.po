@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -4830,6 +4830,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "நேரங்காட்டியை உருவாக்க இயலவில்லை."
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "'%s'-ற்கான கோப்பு டைம்ஸை மீட்டெடுப்பதில் தோல்வி"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "பயனரின் முகப்பைக் கண்டுபிடிக்க இயலாது, தற்போதைய அடைவு பயன்படுத்தப்படுகிறது."

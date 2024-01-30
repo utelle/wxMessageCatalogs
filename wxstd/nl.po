@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -4870,6 +4870,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Kon geen timer creëren"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Verkrijgen van bestandstijden voor '%s' mislukt"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "kan gebruikers startlocatie niet vinden, gebruik huidige map."

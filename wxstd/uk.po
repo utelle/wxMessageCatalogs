@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -4867,6 +4867,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Не вдалося створити таймер"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Не вдалося отримати часи файла для «%s»"
 
 msgid "can't find user's HOME, using current directory."
 msgstr ""

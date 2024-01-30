@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -4975,6 +4975,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Ajastimen luonti epäonnistui"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Tiedoston ”%s” aikoja ei voida hakea"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "käyttäjän kotihakemistoa ei löydy, käytetään nykyistä hakemistoa."

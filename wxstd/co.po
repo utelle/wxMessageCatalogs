@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets in Corsican\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-07-07 01:15+0200\n"
 "Last-Translator: Patriccollu di Santa Maria è Sichè <https://github.com/"
 "Patriccollu/Lingua_Corsa-Infurmatica/#readme>\n"
@@ -4932,6 +4932,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Ùn si pò micca creà una minuteria"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Fiascu per ricuperà a data o l’ora per « %s »"
 
 msgid "can't find user's HOME, using current directory."
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2015-05-09 20:03+0545\n"
 "Last-Translator: drishtibachak@gmail.com\n"
 "Language-Team: Him Prasad Gautam <himjee@yahoo.com>\n"
@@ -4829,6 +4829,10 @@ msgstr "Thread module सुरु हुन सकेन: स्थानीय
 
 msgid "Couldn't create a timer"
 msgstr "टाइम र सिर्जना गर्न सकिएन"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "फाइल '%s' को समय लिन सकिएन ।"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "चालू घर्राको प्रयोग गरेर उपभोक्ताको गृह फेला पार्न सकिँदैन ।"

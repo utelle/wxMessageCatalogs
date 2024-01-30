@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2013-11-04 10:21+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -4930,6 +4930,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Kon nie 'n tydhouer skep nie"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Verkryging van lêertye vir '%s' het misluk"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "kan gebruiker se tuisgids nie vind nie, gebruik dus huidige gids."

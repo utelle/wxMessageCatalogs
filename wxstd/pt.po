@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -4969,6 +4969,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Não foi possível criar um temporizador"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Falha ao obter tempos do ficheiro para '%s'"
 
 msgid "can't find user's HOME, using current directory."
 msgstr ""

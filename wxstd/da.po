@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2017-07-26 00:00+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish\n"
@@ -4850,6 +4850,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Kunne ikke oprette en timer"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Kunne ikke hente filtider for \"%s\""
 
 msgid "can't find user's HOME, using current directory."
 msgstr "kan ikke finde brugerens hjemmemappe, bruger aktuelle mappe."

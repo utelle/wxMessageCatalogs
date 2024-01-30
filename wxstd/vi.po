@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -4894,6 +4894,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Không tạo được một timer"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Khôi phục thời gian tập tin cho '%s' gặp lỗi"
 
 msgid "can't find user's HOME, using current directory."
 msgstr ""

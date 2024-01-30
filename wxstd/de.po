@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.3.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-23 03:37+0000\n"
+"POT-Creation-Date: 2024-01-30 03:38+0000\n"
 "PO-Revision-Date: 2023-02-06 17:46+0100\n"
 "Last-Translator: Ulrich Telle <ulrich@telle-online.eu>\n"
 "Language-Team: wxWidgets Team <wx-dev@wxwidgets.org>\n"
@@ -4919,6 +4919,10 @@ msgstr ""
 
 msgid "Couldn't create a timer"
 msgstr "Kann keinen Timer erzeugen"
+
+#, fuzzy, c-format
+msgid "Failed to retrieve user information: %s"
+msgstr "Konnte Zugriffszeit von Datei „%s“ nicht ermitteln"
 
 msgid "can't find user's HOME, using current directory."
 msgstr "Kann Benutzerverzeichnis nicht finden, verwende aktuelles Verzeichnis."
