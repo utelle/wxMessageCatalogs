@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2015-07-18 21:39+0200\n"
 "Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
 "Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
@@ -6723,6 +6723,10 @@ msgstr "Hutsegitea \"%s\" erakustea irekitzerakoan."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML azterketa akatsa : '%s' %d lerroan"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "%d orrialde"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

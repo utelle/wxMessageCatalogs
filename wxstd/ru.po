@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2018-09-06 07:55+0500\n"
 "Last-Translator: Alexander Kovalenko <nktch@yandex.ru>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -6723,6 +6723,10 @@ msgstr "Не удалось открыть дисплей \"%s\"."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "Ошибка разбора XML: '%s' в строке %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Страница %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -6770,6 +6770,10 @@ msgstr "Mở bộ hiển thị \"%s\" gặp lỗi."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "Gặp lỗi khi phân tách XML: '%s' trên dòng %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Trang %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

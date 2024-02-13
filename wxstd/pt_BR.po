@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2023-03-27 12:18-0300\n"
 "Last-Translator: Felipe <felipefplzx@gmail.com>\n"
 "Language-Team: Felipe <felipefplzx@gmail.com>\n"
@@ -6689,6 +6689,10 @@ msgstr "Falhou em abrir a exibição \"%s\"."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "Erro de análise do XML: '%s' na linha %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Página %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

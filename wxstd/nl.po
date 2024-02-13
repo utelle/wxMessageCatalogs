@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2022-02-28 20:39+0100\n"
 "Last-Translator: gvmelle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/projects/p/"
@@ -6732,6 +6732,10 @@ msgstr "Openen van display \"%s\" mislukt."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML ontleed fout: '%s' in lijn %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Pagina %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

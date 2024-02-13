@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -6941,6 +6941,10 @@ msgstr "Falha na abertura do ecrã \"%s\"."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML erro de verificação gramatical: '%s' na linha %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Página %d"
 
 #, fuzzy, c-format
 msgid "Cannot load resources from '%s'."

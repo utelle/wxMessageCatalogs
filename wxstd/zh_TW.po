@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -6622,6 +6622,10 @@ msgstr "無法開啟顯示 “%s”。"
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML 解析錯誤： '%s' 在第 %d 列"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "第 %d 頁"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

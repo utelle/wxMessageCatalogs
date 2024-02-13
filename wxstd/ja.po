@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2023-10-03 22:56+0900\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <wx-translators@wxwidgets.org>\n"
@@ -6905,6 +6905,10 @@ msgstr "ディスプレイ \"%s\" を開くことができませんでした。"
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML 解析エラー: '%s' (%d行目)"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "%dページ"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

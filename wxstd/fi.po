@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -6937,6 +6937,10 @@ msgstr "Näyttöä ”%s” ei voitu avata."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML-jäsennysvirhe: ”%s” rivillä %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Sivu %d"
 
 #, fuzzy, c-format
 msgid "Cannot load resources from '%s'."

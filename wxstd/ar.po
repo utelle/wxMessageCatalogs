@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2012-03-22 18:41+0200\n"
 "Last-Translator: Fatma Mehanna <fatma.mehanna@gmail.com>\n"
 "Language-Team: arabictranslationteam@googlegroups.com\n"
@@ -6797,6 +6797,10 @@ msgstr ""
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "إعدادات الصفحة"
 
 #, fuzzy, c-format
 msgid "Cannot load resources from '%s'."

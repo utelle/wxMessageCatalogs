@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2022-06-23 21:03+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -6709,6 +6709,10 @@ msgstr "Не вдалося відкрити дисплей «%s»."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "Помилка розбору XML: «%s» у рядку %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Сторінка %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

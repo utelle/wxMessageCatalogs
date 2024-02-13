@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2015-10-27 22:33+0100\n"
 "Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -6984,6 +6984,10 @@ msgstr "Klarte ikke åpne «%s» for «%s»"
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML tolkefeil: «%s» på linje %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Side %d"
 
 #, fuzzy, c-format
 msgid "Cannot load resources from '%s'."

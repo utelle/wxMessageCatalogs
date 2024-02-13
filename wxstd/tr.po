@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -6654,6 +6654,10 @@ msgstr "\"%s\" görüntüsü açılamadı."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML işleme sorunu: '%s' %d satırında"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "%d. sayfa"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

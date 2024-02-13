@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -6691,6 +6691,10 @@ msgstr "\"%s\" காட்சியமைவை திறப்பதில் 
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML parsing பிழை: '%s', %d வரியில்"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "பக்கம் %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2020-06-26 21:31+0700\n"
 "Last-Translator: Hertatijanto Hartono <dvertx@gmail.com>\n"
 "Language-Team: ID <doplank@gmx.com>\n"
@@ -6715,6 +6715,10 @@ msgstr "Gagal membuka \"%s\"."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "Kesalahan parsing XML: '%s' pada baris %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Halaman %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

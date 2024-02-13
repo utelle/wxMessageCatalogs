@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -7152,6 +7152,10 @@ msgstr "Αποτυχία ανοίγματος του '%s' για το '%s'"
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "XML σφάλμα ανάγνωσης (parsing error): '%s' στη γραμμή %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Σελίδα %d"
 
 #, fuzzy, c-format
 msgid "Cannot load resources from '%s'."

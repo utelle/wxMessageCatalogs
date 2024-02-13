@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -6978,6 +6978,10 @@ msgstr "प्रदर्श युक्ति \"%s\" को खोलने �
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "एक्सएम एल पदभंजन त्रुटि: '%s' %d पंक्ति पर"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "पृष्ट %d"
 
 #, fuzzy, c-format
 msgid "Cannot load resources from '%s'."

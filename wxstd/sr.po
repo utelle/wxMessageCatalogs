@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WX Widgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2022-12-07 21:12+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: Nikola Jović <wwenikola123@gmail.com>\n"
@@ -6694,6 +6694,10 @@ msgstr "Neuspešno otvaranje ekrana \"%s\"."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "Greška XML raščlanjivanja: '%s' u redu %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Stranica %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."

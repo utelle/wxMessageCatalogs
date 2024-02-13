@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-30 03:38+0000\n"
+"POT-Creation-Date: 2024-02-13 03:36+0000\n"
 "PO-Revision-Date: 2022-04-10 12:52+0200\n"
 "Last-Translator: Gérard DURAND <gerard-florence.durand@orange.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -6768,6 +6768,10 @@ msgstr "Échec de l'ouverture de l'écran « %s »."
 #, c-format
 msgid "XML parsing error: '%s' at line %d"
 msgstr "Erreur d'analyse XML : « %s » à la ligne %d"
+
+#, fuzzy, c-format
+msgid "Page %i"
+msgstr "Page %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."
