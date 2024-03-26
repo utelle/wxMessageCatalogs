@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.00.00\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2024-03-26 03:37+0000\n"
 "PO-Revision-Date: 2006-07-14 20:43+0900\n"
 "Last-Translator: 鈴見咲君高 <suzumizaki@free.japandesign.ne.jp>\n"
 "Language-Team: 鈴見咲 <suzumizaki@free.japandesign.ne.jp>\n"
@@ -128,6 +128,10 @@ msgstr ""
 
 #, c-format
 msgid "... and in the locale language: %s"
+msgstr ""
+
+#, c-format
+msgid "Preferred UI languages: [%s]"
 msgstr ""
 
 msgid "Numeric input:"

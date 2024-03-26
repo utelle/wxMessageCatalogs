@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWindows 2.5 internat sample\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2024-03-26 03:37+0000\n"
 "PO-Revision-Date: 2003-02-03 23:45+0100\n"
 "Last-Translator: James Bishop\n"
 "MIME-Version: 1.0\n"
@@ -125,6 +125,10 @@ msgstr ""
 
 #, c-format
 msgid "... and in the locale language: %s"
+msgstr ""
+
+#, c-format
+msgid "Preferred UI languages: [%s]"
 msgstr ""
 
 msgid "Numeric input:"

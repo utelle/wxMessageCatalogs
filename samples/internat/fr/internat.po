@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWindows 2.0 i18n sample\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2024-03-26 03:37+0000\n"
 "PO-Revision-Date: 2021-12-10 10:12+0100\n"
 "Last-Translator: Ulrich Telle <ulrich@telle-online.eu>\n"
 "Language-Team: \n"
@@ -137,6 +137,10 @@ msgstr "Nom de paramètres régionaux en anglais: %s"
 #, c-format
 msgid "... and in the locale language: %s"
 msgstr "... et dans la langue courante: %s"
+
+#, c-format
+msgid "Preferred UI languages: [%s]"
+msgstr ""
 
 msgid "Numeric input:"
 msgstr "Entrée numérique:"

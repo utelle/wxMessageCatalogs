@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-09 03:41+0000\n"
+"POT-Creation-Date: 2024-03-26 03:37+0000\n"
 "PO-Revision-Date: 2004-05-12 13:50+0100\n"
 "Last-Translator: Włodzimierz ABX Skiba <abx@abx.art.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -137,6 +137,10 @@ msgstr ""
 
 #, c-format
 msgid "... and in the locale language: %s"
+msgstr ""
+
+#, c-format
+msgid "Preferred UI languages: [%s]"
 msgstr ""
 
 msgid "Numeric input:"
