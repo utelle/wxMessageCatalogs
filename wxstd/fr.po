@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-13 03:36+0000\n"
+"POT-Creation-Date: 2024-05-28 03:37+0000\n"
 "PO-Revision-Date: 2022-04-10 12:52+0200\n"
 "Last-Translator: Gérard DURAND <gerard-florence.durand@orange.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -3675,6 +3675,30 @@ msgstr "Choisir la police"
 msgid ""
 "Error copying grid to the clipboard. Either selected cells were not "
 "contiguous or no cell was selected."
+msgstr ""
+
+#, fuzzy
+msgid "Grid Corner"
+msgstr "Coin"
+
+#, fuzzy, c-format
+msgid "Column %s Header"
+msgstr "Colonne %u"
+
+#, c-format
+msgid "Row %s Header"
+msgstr ""
+
+#, fuzzy, c-format
+msgid "Column %s: %s"
+msgstr "Colonne %u"
+
+#, fuzzy, c-format
+msgid "Row %s: %s"
+msgstr "\t%s : %s\n"
+
+#, c-format
+msgid "Row %s, Column %s: %s"
 msgstr ""
 
 #, c-format
@@ -7799,9 +7823,6 @@ msgstr "Échec de la création de %s « %s »."
 
 #~ msgid "|<<"
 #~ msgstr "|<<"
-
-#~ msgid "\t%s: %s\n"
-#~ msgstr "\t%s : %s\n"
 
 #~ msgid " Couldn't create the UnicodeConverter"
 #~ msgstr "Impossible de créer le UnicodeConverter"

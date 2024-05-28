@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-13 03:36+0000\n"
-"PO-Revision-Date: 2023-10-03 22:56+0900\n"
+"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"PO-Revision-Date: 2024-05-15 23:51+0900\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <wx-translators@wxwidgets.org>\n"
 "Language: ja\n"
@@ -44,7 +44,7 @@ msgid "Help"
 msgstr "ヘルプ"
 
 msgid "Cannot initialize OLE"
-msgstr "OLEを初期化できません"
+msgstr "OLE を初期化できません"
 
 #, c-format
 msgid "Unable to close the handle for '%s'"
@@ -52,52 +52,49 @@ msgstr "'%s' へのハンドルを閉じることができませんでした。"
 
 #, c-format
 msgid "Failed to open directory \"%s\" for monitoring."
-msgstr "監視対象のディレクトリー \"%s\" を開くことができませんでした。"
+msgstr "監視対象のディレクトリ \"%s\" を開けませんでした。"
 
 msgid "Unable to close I/O completion port handle"
-msgstr "I/O完了ポートハンドルを閉じることができませんでした"
+msgstr "I/O 完了ポートハンドルを閉じられません"
 
 msgid "Unable to associate handle with I/O completion port"
-msgstr "ハンドルをI/O完了ポートに関連づけることができませんでした"
+msgstr "ハンドルを I/O 完了ポートに関連づけできません"
 
 msgid "Unexpectedly new I/O completion port was created"
-msgstr "予期しない新しいI/O完了ポートが作成されました"
+msgstr "予期しない新しい I/O 完了ポートが作成されました"
 
 msgid "Unable to post completion status"
 msgstr "完了状態を post できませんでした"
 
 msgid "Unable to dequeue completion packet"
-msgstr "完了パケットを双方向に扱えませんでした"
+msgstr "完了パケットをキューから取り出せません"
 
 msgid "Unable to create I/O completion port"
-msgstr "I/O完了ポートを作成できません"
+msgstr "I/O 完了ポートを作成できません"
 
 msgid "Printout"
 msgstr "印刷出力"
 
 msgid "&See details"
-msgstr "詳細を表示 (&S)"
+msgstr "詳細を表示(&S)"
 
 msgid "&Hide details"
-msgstr "詳細を非表示 (&H)"
+msgstr "詳細を非表示(&H)"
 
-#, fuzzy
 msgid "&Box"
-msgstr "太字 (&B)"
+msgstr "ボックス(&B)"
 
 msgid "&Picture"
-msgstr ""
+msgstr "画像(&P)"
 
-#, fuzzy
 msgid "&Cell"
-msgstr "キャンセル (&C)"
+msgstr "セル(&C)"
 
-#, fuzzy
 msgid "&Table"
-msgstr "タブ"
+msgstr "表(&T)"
 
 msgid "Object Properties"
-msgstr "オブジェクトのプロパティー"
+msgstr "オブジェクトのプロパティ"
 
 msgid "Printing"
 msgstr "印刷"
@@ -123,7 +120,7 @@ msgid "Unable to close path '%s'"
 msgstr "パス '%s' を閉じることができませんでした。"
 
 msgid "SetProperty called w/o valid setter"
-msgstr "SetProperty が適切なsetterなしで呼び出されました"
+msgstr "適切なsetterなしにSetPropertyが呼び出されました"
 
 msgid "GetProperty called w/o valid getter"
 msgstr "適切な getter なしに GetPropertyが呼び出されました"
@@ -148,78 +145,69 @@ msgid "Close All"
 msgstr "すべて閉じる"
 
 msgid "&Next"
-msgstr "次 (&N)"
+msgstr "次へ(&N)"
 
 msgid "&Previous"
-msgstr "前 (&P)"
+msgstr "前へ(&P)"
 
 msgid "&Window"
-msgstr "ウィンドウ (&W)"
+msgstr "ウィンドウ(&W)"
 
 msgctxt "keyboard key"
 msgid "Delete"
-msgstr "削除"
+msgstr "Delete"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Del"
-msgstr "削除"
+msgstr "Del"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Back"
-msgstr "戻る (&B)"
+msgstr "Back"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Backspace"
-msgstr "戻る (&B)"
+msgstr "Backspace"
 
 msgctxt "keyboard key"
 msgid "Insert"
-msgstr "挿入"
+msgstr "Insert"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Ins"
-msgstr "挿入"
+msgstr "Ins"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Enter"
-msgstr "プリンター"
+msgstr "Enter"
 
 msgctxt "keyboard key"
 msgid "Return"
-msgstr ""
+msgstr "Return"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "PageUp"
-msgstr "指定"
+msgstr "PageUp"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Page Up"
-msgstr "%dページ"
+msgstr "Page Up"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "PageDown"
-msgstr "下へ"
+msgstr "PageDown"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Page Down"
-msgstr "%dページ"
+msgstr "Page Down"
 
 msgctxt "keyboard key"
 msgid "PgUp"
-msgstr ""
+msgstr "PgUp"
 
 msgctxt "keyboard key"
 msgid "PgDn"
-msgstr ""
+msgstr "PgDn"
 
 msgctxt "keyboard key"
 msgid "Left"
@@ -231,47 +219,43 @@ msgstr "右"
 
 msgctxt "keyboard key"
 msgid "Up"
-msgstr "上へ"
+msgstr "上"
 
 msgctxt "keyboard key"
 msgid "Down"
-msgstr "下へ"
+msgstr "下"
 
 msgctxt "keyboard key"
 msgid "Home"
-msgstr "ホーム"
+msgstr "Home"
 
 msgctxt "keyboard key"
 msgid "End"
-msgstr ""
+msgstr "End"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Space"
-msgstr "間隔"
+msgstr "スペース"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Tab"
-msgstr "タブ"
+msgstr "Tab"
 
 msgctxt "keyboard key"
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Escape"
-msgstr "横置き"
+msgstr "Escape"
 
 msgctxt "keyboard key"
 msgid "Cancel"
 msgstr "キャンセル"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Clear"
-msgstr "消去 (&C)"
+msgstr "Clear"
 
 msgctxt "keyboard key"
 msgid "Menu"
@@ -279,14 +263,12 @@ msgstr "メニュー"
 
 msgctxt "keyboard key"
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Capital"
-msgstr "大文字化 (&P)"
+msgstr "Capital"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Select"
 msgstr "選択"
@@ -295,14 +277,13 @@ msgctxt "keyboard key"
 msgid "Print"
 msgstr "印刷"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Execute"
-msgstr "実行 (&E)"
+msgstr "実行"
 
 msgctxt "keyboard key"
 msgid "Snapshot"
-msgstr ""
+msgstr "スナップショット"
 
 msgctxt "keyboard key"
 msgid "Help"
@@ -310,7 +291,7 @@ msgstr "ヘルプ"
 
 msgctxt "keyboard key"
 msgid "Add"
-msgstr "追加"
+msgstr "加算"
 
 msgctxt "keyboard key"
 msgid "Separator"
@@ -318,7 +299,7 @@ msgstr ""
 
 msgctxt "keyboard key"
 msgid "Subtract"
-msgstr ""
+msgstr "減算"
 
 msgctxt "keyboard key"
 msgid "Decimal"
@@ -326,260 +307,239 @@ msgstr ""
 
 msgctxt "keyboard key"
 msgid "Multiply"
-msgstr ""
+msgstr "乗算"
 
 msgctxt "keyboard key"
 msgid "Divide"
-msgstr ""
+msgstr "除算"
 
 msgctxt "keyboard key"
 msgid "Num_lock"
-msgstr ""
+msgstr "Num_lock"
 
 msgctxt "keyboard key"
 msgid "Num Lock"
-msgstr ""
+msgstr "Num Lock"
 
 msgctxt "keyboard key"
 msgid "Scroll_lock"
-msgstr ""
+msgstr "Scroll_lock"
 
 msgctxt "keyboard key"
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Scroll Lock"
 
 msgctxt "keyboard key"
 msgid "KP_Space"
-msgstr ""
+msgstr "KP_Space"
 
 msgctxt "keyboard key"
 msgid "Num Space"
-msgstr ""
+msgstr "Num Space"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Tab"
-msgstr "KP_TAB"
+msgstr "KP_Tab"
 
 msgctxt "keyboard key"
 msgid "Num Tab"
-msgstr ""
+msgstr "Num Tab"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Enter"
-msgstr "プリンター"
+msgstr "KP_Enter"
 
 msgctxt "keyboard key"
 msgid "Num Enter"
-msgstr ""
+msgstr "Num Enter"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Home"
-msgstr "ホーム"
+msgstr "KP_Home"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Num Home"
-msgstr "ホーム"
+msgstr "Num Home"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Left"
-msgstr "左"
+msgstr "KP_Left"
 
 msgctxt "keyboard key"
 msgid "Num left"
-msgstr ""
+msgstr "Num left"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Up"
-msgstr "Num↑"
+msgstr "KP_Up"
 
 msgctxt "keyboard key"
 msgid "Num Up"
-msgstr ""
+msgstr "Num Up"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Right"
-msgstr "右"
+msgstr "KP_Right"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Num Right"
-msgstr "右"
+msgstr "Num Right"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Down"
-msgstr "下へ"
+msgstr "KP_Down"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Num Down"
-msgstr "下へ"
+msgstr "Num Down"
 
 msgctxt "keyboard key"
 msgid "KP_PageUp"
-msgstr ""
+msgstr "KP_PageUp"
 
 msgctxt "keyboard key"
 msgid "Num Page Up"
-msgstr ""
+msgstr "Num Page Up"
 
 msgctxt "keyboard key"
 msgid "KP_PageDown"
-msgstr ""
+msgstr "KP_PageDown"
 
 msgctxt "keyboard key"
 msgid "Num Page Down"
-msgstr ""
+msgstr "Num Page Down"
 
 msgctxt "keyboard key"
 msgid "KP_Prior"
-msgstr ""
+msgstr "KP_Prior"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Next"
-msgstr "次"
+msgstr "KP_Next"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_End"
-msgstr "NumEnd"
+msgstr "KP_End"
 
 msgctxt "keyboard key"
 msgid "Num End"
-msgstr ""
+msgstr "Num End"
 
 msgctxt "keyboard key"
 msgid "KP_Begin"
-msgstr ""
+msgstr "KP_Begin"
 
 msgctxt "keyboard key"
 msgid "Num Begin"
-msgstr ""
+msgstr "Num Begin"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Insert"
-msgstr "挿入"
+msgstr "KP_Insert"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Num Insert"
-msgstr "挿入"
+msgstr "Num Insert"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Delete"
-msgstr "削除"
+msgstr "KP_Delete"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Num Delete"
-msgstr "削除"
+msgstr "Num Delete"
 
 msgctxt "keyboard key"
 msgid "KP_Equal"
-msgstr ""
+msgstr "KP_Equal"
 
 msgctxt "keyboard key"
 msgid "Num ="
-msgstr ""
+msgstr "Num ="
 
 msgctxt "keyboard key"
 msgid "KP_Multiply"
-msgstr ""
+msgstr "KP_Multiply"
 
 msgctxt "keyboard key"
 msgid "Num *"
-msgstr ""
+msgstr "Num *"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "KP_Add"
-msgstr "Num+"
+msgstr "KP_Add"
 
 msgctxt "keyboard key"
 msgid "Num +"
-msgstr ""
+msgstr "Num +"
 
 msgctxt "keyboard key"
 msgid "KP_Separator"
-msgstr ""
+msgstr "KP_Separator"
 
 msgctxt "keyboard key"
 msgid "Num ,"
-msgstr ""
+msgstr "Num ,"
 
 msgctxt "keyboard key"
 msgid "KP_Subtract"
-msgstr ""
+msgstr "KP_Subtract"
 
 msgctxt "keyboard key"
 msgid "Num -"
-msgstr ""
+msgstr "Num -"
 
 msgctxt "keyboard key"
 msgid "KP_Decimal"
-msgstr ""
+msgstr "KP_Decimal"
 
 msgctxt "keyboard key"
 msgid "Num ."
-msgstr ""
+msgstr "Num ."
 
 msgctxt "keyboard key"
 msgid "KP_Divide"
-msgstr ""
+msgstr "KP_Divide"
 
 msgctxt "keyboard key"
 msgid "Num /"
-msgstr ""
+msgstr "Num /"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Windows_Left"
-msgstr "Windows 95"
+msgstr "Windows_Left"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Windows_Right"
-msgstr "Windows Vista (ビルド %lu"
+msgstr "Windows_Right"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "Windows_Menu"
-msgstr "Windows ME"
+msgstr "Windows_Menu"
 
 msgctxt "keyboard key"
 msgid "Command"
-msgstr ""
+msgstr "Command"
 
 msgctxt "keyboard key"
 msgid "ctrl"
-msgstr "Ctrl"
+msgstr "ctrl"
 
 msgctxt "keyboard key"
 msgid "alt"
-msgstr "Alt"
+msgstr "alt"
 
 msgctxt "keyboard key"
 msgid "shift"
-msgstr "Shift"
+msgstr "shift"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "rawctrl"
-msgstr "Ctrl"
+msgstr "rawctrl"
 
 msgctxt "keyboard key"
 msgid "num "
-msgstr ""
+msgstr "num "
 
 msgctxt "keyboard key"
 msgid "F"
@@ -587,11 +547,11 @@ msgstr "F"
 
 msgctxt "keyboard key"
 msgid "KP_F"
-msgstr ""
+msgstr "KP_F"
 
 msgctxt "keyboard key"
 msgid "KP_"
-msgstr "Num"
+msgstr "KP_"
 
 msgctxt "keyboard key"
 msgid "SPECIAL"
@@ -609,22 +569,21 @@ msgctxt "keyboard key"
 msgid "Shift+"
 msgstr "Shift+"
 
-#, fuzzy
 msgctxt "keyboard key"
 msgid "RawCtrl+"
-msgstr "Ctrl+"
+msgstr "RawCtrl+"
 
 msgid "show this help message"
-msgstr "このヘルプメッセージを表示します"
+msgstr "このヘルプメッセージを表示する"
 
 msgid "generate verbose log messages"
-msgstr "冗長なログメッセージを生成します"
+msgstr "冗長なログメッセージを生成する"
 
 msgid "specify the theme to use"
-msgstr "使用するテーマを指定ください"
+msgstr "使用するテーマを指定する"
 
 msgid "specify display mode to use (e.g. 640x480-16)"
-msgstr "使用する画面モードを指定ください(例: 640x480-16)"
+msgstr "使用する画面モードを指定する (例: 640x480-16)"
 
 #, c-format
 msgid "Unsupported theme '%s'."
@@ -634,9 +593,9 @@ msgstr "テーマ '%s' は未対応です。"
 msgid "Invalid display mode specification '%s'."
 msgstr "画面モード '%s' は正しい指定ではありません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Option '%s' can't be negated"
-msgstr "ディレクトリー '%s' を作成できませんでした"
+msgstr "オプション '%s' は無効にできません"
 
 #, c-format
 msgid "Unknown long option '%s'"
@@ -644,7 +603,7 @@ msgstr "未定義の詳細オプション名 '%s'"
 
 #, c-format
 msgid "Unknown option '%s'"
-msgstr "未定義の簡易オプション名 '%s'"
+msgstr "未定義のオプション名 '%s'"
 
 #, c-format
 msgid "Unexpected characters following option '%s'."
@@ -668,7 +627,7 @@ msgstr "オプション '%s': '%s' という表現は日付に変換できませ
 
 #, c-format
 msgid "Unexpected parameter '%s'"
-msgstr "想定外の変数 '%s' があります"
+msgstr "想定外の引数 '%s'"
 
 #, c-format
 msgid "%s (or %s)"
@@ -676,7 +635,7 @@ msgstr "%s (または %s)"
 
 #, c-format
 msgid "The value for the option '%s' must be specified."
-msgstr "オプション '%s' とその値は必ず指定してください。"
+msgstr "オプション '%s' の値は必ず指定してください。"
 
 #, c-format
 msgid "The required parameter '%s' was not specified."
@@ -702,33 +661,33 @@ msgid "Unnamed command"
 msgstr "無名コマンド"
 
 msgid "&Undo "
-msgstr "元に戻す (&U)"
+msgstr "元に戻す(&U)"
 
 msgid "Can't &Undo "
-msgstr "戻せません (&U)"
+msgstr "戻せません(&U)"
 
 msgid "&Undo"
-msgstr "元に戻す (&U)"
+msgstr "元に戻す(&U)"
 
 msgid "&Redo "
-msgstr "再実行 (&R)"
+msgstr "やり直す(&R)"
 
 msgid "&Redo"
-msgstr "再実行 (&R)"
+msgstr "やり直す(&R)"
 
 #, c-format
 msgid "String To Colour : Incorrect colour specification : %s"
-msgstr "文字列から色へ : 変換に失敗しました : %s"
+msgstr "文字列から色へ : 色指定が不正です : %s"
 
 #, c-format
 msgid "Invalid value %ld for a boolean key \"%s\" in config file."
-msgstr ""
+msgstr "不正な値 %ld が設定ファイルのbooleanキー \"%s\" に指定されています。"
 
 #, c-format
 msgid ""
 "Environment variables expansion failed: missing '%c' at position %u in '%s'."
 msgstr ""
-"環境変数拡張に失敗しました: '%c' が %u 文字目 ('%s' 内) に欠けています。"
+"環境変数の拡張に失敗しました: '%3$s' の %2$u 文字目に '%1$c' がありません。"
 
 #, c-format
 msgid "'%s' has extra '..', ignored."
@@ -736,16 +695,15 @@ msgstr "'%s' に余分な '..' がありました。無視します。"
 
 #. TRANSLATORS: Checkbox state name
 msgid "checked"
-msgstr ""
+msgstr "チェックあり"
 
 #. TRANSLATORS: Checkbox state name
 msgid "unchecked"
-msgstr ""
+msgstr "チェックなし"
 
 #. TRANSLATORS: Checkbox state name
-#, fuzzy
 msgid "undetermined"
-msgstr "下線"
+msgstr "未定義"
 
 msgid "today"
 msgstr "今日"
@@ -824,24 +782,24 @@ msgstr "0時"
 
 #, c-format
 msgid "Failed to create directory \"%s\""
-msgstr "ディレクトリー \"%s\" を作成できませんでした。"
+msgstr "ディレクトリ \"%s\" を作成できませんでした"
 
 msgid "Debug report couldn't be created."
-msgstr "デバッグレポートを作成できません。"
+msgstr "デバッグレポートを作成できませんでした。"
 
 #, c-format
 msgid "Failed to remove debug report file \"%s\""
-msgstr "デバッグレポートファイル \"%s\" を削除できませんでした。"
+msgstr "デバッグレポートファイル \"%s\" を削除できませんでした"
 
 #, c-format
 msgid "Failed to clean up debug report directory \"%s\""
-msgstr "デバッグレポートディレクトリーを全削除できませんでした \"%s\""
+msgstr "デバッグレポートディレクトリ \"%s\" を全削除できませんでした"
 
 msgid "process context description"
 msgstr "プロセスコンテキストの記述"
 
 msgid "dump of the process state (binary)"
-msgstr "バイナリーによるプロセス状態のダンプ"
+msgstr "プロセス状態のダンプ (バイナリ)"
 
 msgid "Debug report generation has failed."
 msgstr "デバッグレポートの作成に失敗しました。"
@@ -850,31 +808,32 @@ msgstr "デバッグレポートの作成に失敗しました。"
 msgid ""
 "Processing debug report has failed, leaving the files in \"%s\" directory."
 msgstr ""
-"デバッグレポートの処理に失敗しました。ディレクトリー \"%s\" にファイルを残し"
-"ます。"
+"デバッグレポートの処理に失敗しました。ディレクトリ \"%s\" にファイルを残しま"
+"す。"
 
 msgid "A debug report has been generated. It can be found in"
 msgstr "デバッグレポートが作成されました。次の場所にあります:"
 
 msgid "And includes the following files:\n"
-msgstr "次のファイルが含まれています:\n"
+msgstr "次のファイルが含まれます:\n"
 
 msgid ""
 "\n"
 "Please send this report to the program maintainer, thank you!\n"
 msgstr ""
 "\n"
-"お手数ですがこのレポートをプログラムの保守担当者に送信ください。\n"
+"このレポートをプログラムの保守担当者に送信してください。よろしくお願いいたし"
+"ます。\n"
 
 msgid "Failed to execute curl, please install it in PATH."
 msgstr "curl を実行できません。PATHの参照先にインストールしてください。"
 
 #, c-format
 msgid "Failed to upload the debug report (error code %d)."
-msgstr "デバッグレポートのアップロードができませんでした (エラーコード %d)。"
+msgstr "デバッグレポートをアップロードできませんでした (エラーコード %d)。"
 
 msgid "Save As"
-msgstr "Save As"
+msgstr "別名で保存"
 
 msgid "Discard changes and reload the last saved version?"
 msgstr "変更を破棄して最後に保存したものを読み直しますか?"
@@ -884,35 +843,33 @@ msgstr "名称未指定"
 
 #, c-format
 msgid "Do you want to save changes to %s?"
-msgstr "変更結果を %s へ保存しますか?"
+msgstr "変更を %s へ保存しますか?"
 
 msgid "&Save"
-msgstr "保存 (&S)"
+msgstr "保存(&S)"
 
 msgid "&Discard changes"
-msgstr ""
+msgstr "変更を破棄(&D)"
 
-#, fuzzy
 msgid "Do&n't close"
-msgstr "保存しない"
+msgstr "閉じない(&N)"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Do you want to save changes to %s before closing it?"
-msgstr "変更結果を %s へ保存しますか?"
+msgstr "閉じる前に変更を %s へ保存しますか?"
 
-#, fuzzy
 msgid "The document must be closed."
-msgstr "テキストが保存できませんでした。"
+msgstr "文書を閉じる必要があります。"
 
 #, c-format
 msgid "Saving %s failed, would you like to retry?"
-msgstr ""
+msgstr "%s の保存に失敗しました。再試行しますか?"
 
 msgid "Retry"
-msgstr ""
+msgstr "再試行"
 
 msgid "Discard changes"
-msgstr ""
+msgstr "変更を破棄"
 
 #, c-format
 msgid "File \"%s\" could not be opened for writing."
@@ -930,11 +887,13 @@ msgstr "ファイル '%s' を読み取り用に開けませんでした。"
 msgid "Failed to read document from the file \"%s\"."
 msgstr "ファイル \"%s\" から文書を読み取れませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr "最近使ったファイルのリストから削除されています。"
+msgstr ""
+"ファイル '%s' が存在しないため開けませんでした。\n"
+"最近使ったファイルの一覧から削除されています。"
 
 msgid "Print preview creation failed."
 msgstr "印刷プレビューを作成できませんでした。"
@@ -944,7 +903,7 @@ msgstr "印刷プレビュー"
 
 #, c-format
 msgid "The format of file '%s' couldn't be determined."
-msgstr "ファイル '%s' の様式を決定できませんでした。"
+msgstr "ファイル '%s' の形式を判断できませんでした。"
 
 #, c-format
 msgid "unnamed%d"
@@ -960,16 +919,16 @@ msgid "File error"
 msgstr "ファイルエラー"
 
 msgid "Sorry, could not open this file."
-msgstr "ファイルを開くことができませんでした。"
+msgstr "このファイルを開くことができませんでした。"
 
 msgid "Sorry, the format for this file is unknown."
-msgstr "このファイルの形式は未対応です。"
+msgstr "このファイルは形式が不明です。"
 
 msgid "Select a document template"
-msgstr "文書の雛形を選んでください"
+msgstr "文書のテンプレートを選んでください"
 
 msgid "Templates"
-msgstr "雛形"
+msgstr "テンプレート"
 
 msgid "Select a document view"
 msgstr "文書ビューの選択"
@@ -979,7 +938,7 @@ msgstr "ビュー"
 
 #, c-format
 msgid "Failed to load shared library '%s'"
-msgstr "共有ライブラリ '%s' を読み取れませんでした。"
+msgstr "共有ライブラリ '%s' を読み取れませんでした"
 
 #, c-format
 msgid "Couldn't find symbol '%s' in a dynamic library"
@@ -987,7 +946,7 @@ msgstr "シンボル '%s' が動的ライブラリーの中に見つかりませ
 
 #, c-format
 msgid "can't open file '%s'"
-msgstr "ファイル '%s' を開くことができません。"
+msgstr "ファイル '%s' を開くことができません"
 
 #, c-format
 msgid "can't close file '%s'"
@@ -1007,7 +966,7 @@ msgstr "ファイル '%s' のフラッシュができませんでした"
 
 #, c-format
 msgid "Seek error on file '%s' (large files not supported by stdio)"
-msgstr "ファイル '%s' のシークエラー(stdioでは大きなファイルに対応できません)"
+msgstr "ファイル '%s' のシークエラー (stdioでは大きなファイルに対応できません)"
 
 #, c-format
 msgid "Seek error on file '%s'"
@@ -1026,7 +985,7 @@ msgstr "ファイル '%s' を削除できません"
 
 #, c-format
 msgid "can't commit changes to file '%s'"
-msgstr "変更をファイル '%s' に反映できません。"
+msgstr "変更をファイル '%s' に反映できません"
 
 #, c-format
 msgid "can't remove temporary file '%s'"
@@ -1054,7 +1013,7 @@ msgstr "記述子 %d のファイルをフラッシュできません"
 
 #, c-format
 msgid "can't seek on file descriptor %d"
-msgstr "記述子 %d のファイル上をシークできません"
+msgstr "記述子 %d のファイルをシークできません"
 
 #, c-format
 msgid "can't get seek position on file descriptor %d"
@@ -1076,7 +1035,7 @@ msgstr ""
 
 #, fuzzy
 msgid " due to the following error:\n"
-msgstr "次のファイルが含まれています:\n"
+msgstr "次のファイルが含まれます:\n"
 
 #, fuzzy
 msgid "failed to rename the existing file"
@@ -1084,7 +1043,7 @@ msgstr "ファイル \"%s\" から文書を読み取れませんでした。"
 
 #, fuzzy
 msgid "failed to create the new file directory"
-msgstr "作業ディレクトリーを取得できませんでした"
+msgstr "作業ディレクトリを取得できませんでした"
 
 #, fuzzy
 msgid "failed to move the file to the new location"
@@ -1100,33 +1059,33 @@ msgstr "ユーザー設定ファイル '%s' を開くことができません。
 
 #, c-format
 msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
-msgstr "ファイル \"%s\" への上書きが拒否されたため変更内容は保存されていません"
+msgstr "既存ファイル \"%s\" への上書きを防ぐため、変更内容は保存されません"
 
 msgid "Error reading config options."
-msgstr "設定オプションの読み取りエラー。"
+msgstr "設定オプションの読み取り中にエラーが発生しました。"
 
 msgid "Failed to read config options."
 msgstr "設定オプションを読み取ることができませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "file '%s': unexpected character %c at line %zu."
-msgstr "ファイル '%s': 想定外の文字 %c が %d 行目にありました。"
+msgstr "ファイル '%s': 想定外の文字 %c が %zu 行目にありました。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "file '%s', line %zu: '%s' ignored after group header."
-msgstr "ファイル '%s' %d行目: グループヘッダの後にある '%s' は無視されます。"
+msgstr "ファイル '%s' %zu 行目: グループヘッダの後にある '%s' は無視されます。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "file '%s', line %zu: '=' expected."
-msgstr "ファイル '%s' %d行目: '=' がありません｡"
+msgstr "ファイル '%s' %zu 行目: '=' がありません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "file '%s', line %zu: value for immutable key '%s' ignored."
-msgstr "ファイル '%s'  %d行目: 不変キー '%s' への値は無視されます。"
+msgstr "ファイル '%s' %zu 行目: 不変キー '%s' への値は無視されます。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "file '%s', line %zu: key '%s' was first found at line %d."
-msgstr "ファイル '%s' %d行目: キー '%s' はすでに %d行目に出てきました。"
+msgstr "ファイル '%s' %zu 行目: キー '%s' はすでに %d 行目に存在します。"
 
 #, c-format
 msgid "Config entry name cannot start with '%c'."
@@ -1154,7 +1113,7 @@ msgstr "ユーザー設定ファイル '%s' を削除できません"
 
 #, c-format
 msgid "entry '%s' appears more than once in group '%s'"
-msgstr "項目 '%s' が二回以上グループ '%s' に現れています"
+msgstr "項目 '%s' がグループ '%s' に2つ以上存在します"
 
 #, c-format
 msgid "attempt to change immutable key '%s' ignored."
@@ -1162,11 +1121,11 @@ msgstr "不変キー '%s' への変更要求を無視しました。"
 
 #, c-format
 msgid "trailing backslash ignored in '%s'"
-msgstr "'%s' の末尾にある / は無視されました"
+msgstr "'%s' の末尾にあるバックスラッシュを無視しました"
 
 #, c-format
 msgid "unexpected \" at position %d in '%s'."
-msgstr "%d文字目に想定外の\"があります '%s'。"
+msgstr "'%2$s' の %1$d 文字目に想定外の\"があります。"
 
 #, c-format
 msgid "Failed to copy the file '%s' to '%s'"
@@ -1174,15 +1133,15 @@ msgstr "ファイル '%s' を '%s' へコピーできませんでした。"
 
 #, c-format
 msgid "Impossible to get permissions for file '%s'"
-msgstr "ファイル '%s' へのパーミッションは取得不可能です"
+msgstr "ファイル '%s' のパーミッションは取得不可能です"
 
 #, c-format
 msgid "Impossible to overwrite the file '%s'"
 msgstr "ファイル '%s' の上書きは不可能です"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Error copying the file '%s' to '%s'."
-msgstr "ファイル '%s' を '%s' へコピーできませんでした。"
+msgstr "ファイル '%s' を '%s' へコピー中にエラーが発生しました。"
 
 #, c-format
 msgid "Impossible to set permissions for the file '%s'"
@@ -1193,35 +1152,34 @@ msgid ""
 "Failed to rename the file '%s' to '%s' because the destination file already "
 "exists."
 msgstr ""
-"ファイル '%s' を '%s' に改名できませんでした。改名先のファイルがすでに存在し"
-"ています。"
+"ファイル '%s' を '%s' に名称変更できませんでした。名称変更先のファイルがすで"
+"に存在しています。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "File '%s' couldn't be renamed '%s'"
-msgstr "ファイル '%s' を開くことができません。"
+msgstr "ファイル '%s' を '%s' へ名称変更できませんでした"
 
-#, fuzzy, c-format
+#, c-format
 msgid "File '%s' couldn't be removed"
-msgstr "ファイル '%s' を開くことができません。"
+msgstr "ファイル '%s' を削除できませんでした"
 
 #, c-format
 msgid "Directory '%s' couldn't be created"
-msgstr "ディレクトリー '%s' を作成できませんでした"
+msgstr "ディレクトリ '%s' を作成できませんでした"
 
 #, c-format
 msgid "Directory '%s' couldn't be deleted"
-msgstr "ディレクトリー '%s' を削除できませんでした"
+msgstr "ディレクトリ '%s' を削除できませんでした"
 
 #, c-format
 msgid "Cannot enumerate files '%s'"
-msgstr "ファイルを列挙できません '%s'"
+msgstr "ファイル '%s' を列挙できません"
 
 msgid "Failed to get the working directory"
-msgstr "作業ディレクトリーを取得できませんでした"
+msgstr "作業ディレクトリを取得できませんでした"
 
-#, fuzzy
 msgid "Could not set current working directory"
-msgstr "作業ディレクトリーを取得できませんでした。"
+msgstr "作業ディレクトリを設定できませんでした"
 
 #, c-format
 msgid "Files (%s)"
@@ -1229,11 +1187,11 @@ msgstr "ファイル (%s)"
 
 #, c-format
 msgid "Failed to open '%s' for reading"
-msgstr "読み取りのためのファイル '%s' を開くことができません"
+msgstr "ファイル '%s' を読み取り用に開くことができませんでした"
 
 #, c-format
 msgid "Failed to open '%s' for writing"
-msgstr "ファイル '%s' を書き込み用に開くことができません"
+msgstr "ファイル '%s' を書き込み用に開くことができませんでした"
 
 msgid "Failed to close file handle"
 msgstr "ファイルハンドルを閉じることができませんでした"
@@ -1279,13 +1237,13 @@ msgid "Western European (ISO-8859-1)"
 msgstr "西ヨーロッパ言語 (ISO-8859-1)"
 
 msgid "Central European (ISO-8859-2)"
-msgstr "中央ヨーロッパ (ISO-8859-2)"
+msgstr "中央ヨーロッパ言語 (ISO-8859-2)"
 
 msgid "Esperanto (ISO-8859-3)"
-msgstr "エスペラントほか (Latin-3, ISO-8859-3)"
+msgstr "エスペラント (ISO-8859-3)"
 
 msgid "Baltic (old) (ISO-8859-4)"
-msgstr "バルト言語(旧規格) (ISO-8859-4)"
+msgstr "バルト言語 (旧規格) (ISO-8859-4)"
 
 msgid "Cyrillic (ISO-8859-5)"
 msgstr "キリル言語 (ISO-8859-5)"
@@ -1318,7 +1276,7 @@ msgid "Celtic (ISO-8859-14)"
 msgstr "ケルト語 (ISO-8859-14)"
 
 msgid "Western European with Euro (ISO-8859-15)"
-msgstr "西ヨーロッパ言語ユーロ記号付き (Latin-9, ISO-8859-15)"
+msgstr "西ヨーロッパ言語ユーロ記号付き (ISO-8859-15)"
 
 msgid "KOI8-R"
 msgstr "KOI8-R"
@@ -1326,27 +1284,23 @@ msgstr "KOI8-R"
 msgid "KOI8-U"
 msgstr "KOI8-U"
 
-#, fuzzy
 msgid "Windows/DOS OEM Cyrillic (CP 866)"
-msgstr "Windows キリル言語 (CP 1251)"
+msgstr "Windows/DOS OEM キリル言語 (CP 866)"
 
 msgid "Windows Thai (CP 874)"
 msgstr "Windows タイ語 (CP 874)"
 
-#, fuzzy
 msgid "Windows Japanese (CP 932) or Shift-JIS"
-msgstr "Windows 日本語/Windows シフトJIS (CP 932)"
+msgstr "Windows 日本語 (CP 932) / シフトJIS"
 
-#, fuzzy
 msgid "Windows Chinese Simplified (CP 936) or GB-2312"
-msgstr "Windows 簡体字中国語 (CP 936)"
+msgstr "Windows 簡体字中国語 (CP 936) / GB-2312"
 
 msgid "Windows Korean (CP 949)"
 msgstr "Windows 韓国語 (CP 949)"
 
-#, fuzzy
 msgid "Windows Chinese Traditional (CP 950) or Big-5"
-msgstr "Windows 繁体字中国語 (CP 950)"
+msgstr "Windows 繁体字中国語 (CP 950) / Big-5"
 
 msgid "Windows Central European (CP 1250)"
 msgstr "Windows 中央ヨーロッパ言語 (CP 1250)"
@@ -1372,40 +1326,38 @@ msgstr "Windows アラビア語 (CP 1256)"
 msgid "Windows Baltic (CP 1257)"
 msgstr "Windows バルト言語 (CP 1257)"
 
-#, fuzzy
 msgid "Windows Vietnamese (CP 1258)"
-msgstr "Windows ギリシャ語 (CP 1253)"
+msgstr "Windows ベトナム語 (CP 1258)"
 
-#, fuzzy
 msgid "Windows Johab (CP 1361)"
-msgstr "Windows アラビア語 (CP 1256)"
+msgstr "Windows Johab (CP 1361)"
 
 msgid "Windows/DOS OEM (CP 437)"
 msgstr "Windows/DOS OEM (CP 437)"
 
 msgid "Unicode 7 bit (UTF-7)"
-msgstr "ユニコード 7 ビット (UTF-7)"
+msgstr "Unicode 7 ビット (UTF-7)"
 
 msgid "Unicode 8 bit (UTF-8)"
-msgstr "ユニコード 8 ビット (UTF-8)"
+msgstr "Unicode 8 ビット (UTF-8)"
 
 msgid "Unicode 16 bit (UTF-16)"
-msgstr "ユニコード 16 ビット (UTF-16)"
+msgstr "Unicode 16 ビット (UTF-16)"
 
 msgid "Unicode 16 bit Little Endian (UTF-16LE)"
-msgstr "ユニコード 16ビット Little Endian (UTF-16LE)"
+msgstr "Unicode 16ビット リトルエンディアン (UTF-16LE)"
 
 msgid "Unicode 32 bit (UTF-32)"
-msgstr "ユニコード 32 ビット (UTF-32)"
+msgstr "Unicode 32 ビット (UTF-32)"
 
 msgid "Unicode 32 bit Little Endian (UTF-32LE)"
-msgstr "ユニコード 32 ビット Little Endian (UTF-32LE)"
+msgstr "Unicode 32 ビット リトルエンディアン (UTF-32LE)"
 
 msgid "Unicode 16 bit Big Endian (UTF-16BE)"
-msgstr "ユニコード 16 ビット Big Endian (UTF-16BE)"
+msgstr "Unicode 16 ビット ビッグエンディアン (UTF-16BE)"
 
 msgid "Unicode 32 bit Big Endian (UTF-32BE)"
-msgstr "ユニコード 32 ビット Big Endian (UTF-32BE)"
+msgstr "Unicode 32 ビット ビッグエンディアン (UTF-32BE)"
 
 msgid "Extended Unix Codepage for Japanese (EUC-JP)"
 msgstr "日本語EUC (EUC-JP)"
@@ -1541,14 +1493,14 @@ msgstr "既定のエンコーディング"
 
 #, c-format
 msgid "Unknown encoding (%d)"
-msgstr "未知のエンコーディング (%d)"
+msgstr "不明なエンコーディング (%d)"
 
 msgid "default"
 msgstr "規定"
 
 #, c-format
 msgid "unknown-%d"
-msgstr "未知-%d"
+msgstr "不明-%d"
 
 msgid "underlined"
 msgstr "下線"
@@ -1557,74 +1509,67 @@ msgid " strikethrough"
 msgstr " 打ち消し線"
 
 msgid " thin"
-msgstr ""
+msgstr " 超極細"
 
-#, fuzzy
 msgid " extra light"
-msgstr " 軽量"
+msgstr " 極細"
 
 msgid " light"
-msgstr " 軽量"
+msgstr " 細"
 
 msgid " medium"
-msgstr ""
+msgstr " 中"
 
-#, fuzzy
 msgid " semi bold"
-msgstr " 太字"
+msgstr " 中太"
 
 msgid " bold"
-msgstr " 太字"
+msgstr " 太"
 
-#, fuzzy
 msgid " extra bold"
-msgstr " 太字"
+msgstr " 特太"
 
 msgid " heavy"
-msgstr ""
+msgstr " 極太"
 
 msgid " extra heavy"
-msgstr ""
+msgstr " 超極太"
 
 msgid " italic"
 msgstr " イタリック"
 
-#, fuzzy
 msgid "strikethrough"
-msgstr "打ち消し線 (&S)"
+msgstr "打ち消し線"
 
 msgid "thin"
-msgstr ""
+msgstr "超極細"
 
-#, fuzzy
 msgid "extralight"
-msgstr "軽量"
+msgstr "極細"
 
 msgid "light"
-msgstr "軽量"
+msgstr "細"
 
 msgid "normal"
 msgstr "通常"
 
 msgid "medium"
-msgstr ""
+msgstr "中"
 
-#, fuzzy
 msgid "semibold"
-msgstr "太字"
+msgstr "中太"
 
 msgid "bold"
-msgstr "太字"
+msgstr "太"
 
-#, fuzzy
 msgid "extrabold"
-msgstr "太字"
+msgstr "特太"
 
 msgid "heavy"
-msgstr ""
+msgstr "極太"
 
 msgid "extraheavy"
-msgstr ""
+msgstr "超極太"
 
 msgid "italic"
 msgstr "イタリック"
@@ -1638,8 +1583,8 @@ msgid ""
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
 msgstr ""
-"文字集合 '%s' は未対応です。\n"
-"他の文字集合で置き換えるかそれができないときは\n"
+"文字集合 '%s' は未知です。\n"
+"他の文字集合で置き換えるか、\n"
 "キャンセルしてください"
 
 #, c-format
@@ -1659,9 +1604,10 @@ msgid ""
 "Do you want to use this encoding (otherwise you will have to choose another "
 "one)?"
 msgstr ""
-"エンコーディング '%s' のテキストを表示するフォントはありません\n"
-"他のエンコーディング '%s' でありば利用可能です。\n"
-"このエンコーディングを使いますか(そうでなければ別のものを選びます)?"
+"エンコーディング '%s' のテキストを表示するフォントは見つかりませんが、\n"
+"代替のエンコーディング '%s' は利用可能です。\n"
+"このエンコーディングを使いますか? (使わない場合、他のエンコーディングを選ぶ必"
+"要があります)"
 
 #, c-format
 msgid ""
@@ -1669,13 +1615,13 @@ msgid ""
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
 msgstr ""
-"エンコーディング '%s' のテキストを表示するフォントはありません\n"
-"このエンコーディングに使うフォントを選択しますか\n"
-"(そうでなければこのエンコーディングのテキストは正しく表示されません)?"
+"エンコーディング '%s' のテキストを表示するフォントが見つかりません。\n"
+"このエンコーディングに使うフォントを選択しますか?\n"
+"(選択しない場合、このエンコーディングのテキストは正しく表示されません)"
 
 #, c-format
 msgid "Memory VFS already contains file '%s'!"
-msgstr "メモリーVFSにはファイル '%s' がすでにあります。"
+msgstr "メモリVFSにはファイル '%s' がすでにあります。"
 
 #, c-format
 msgid "Trying to remove file '%s' from memory VFS, but it is not loaded!"
@@ -1683,12 +1629,12 @@ msgstr "メモリVFSにまだ読み込まれていない '%s' の削除を要求
 
 #, c-format
 msgid "Failed to store image '%s' to memory VFS!"
-msgstr "メモリーVFS にイメージ '%s' を格納できませんでした。"
+msgstr "メモリVFS にイメージ '%s' を保存できませんでした。"
 
 msgid "Timeout while waiting for FTP server to connect, try passive mode."
 msgstr ""
-"FTPサーバーとの接続を待機中に時間切れになりました。PASSIVEモードで試してみて"
-"ください。"
+"FTPサーバーとの接続待機中にタイムアウトしました。パッシブモードで試してみてく"
+"ださい。"
 
 #, c-format
 msgid "Failed to set FTP transfer mode to %s."
@@ -1698,13 +1644,13 @@ msgid "ASCII"
 msgstr "ASCII"
 
 msgid "binary"
-msgstr "バイナリー"
+msgstr "バイナリ"
 
 msgid "The FTP server doesn't support the PORT command."
-msgstr "そのFTPサーバーはPORTコマンドに対応していません。"
+msgstr "FTPサーバーはPORTコマンドに対応していません。"
 
 msgid "The FTP server doesn't support passive mode."
-msgstr "そのFTPサーバーはPASSIVEモードに対応していません。"
+msgstr "FTPサーバーはパッシブモードに対応していません。"
 
 #, c-format
 msgid "Incorrect GIF frame size (%u, %d) for the frame #%u"
@@ -1717,14 +1663,14 @@ msgid "Please select the columns to show and define their order:"
 msgstr "表示する列とその順番を選んでください:"
 
 msgid "Customize Columns"
-msgstr "列の編集"
+msgstr "列のカスタマイズ"
 
 msgid "&Customize..."
-msgstr "列の編集 (&C) ..."
+msgstr "カスタマイズ(&C)..."
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to open URL \"%s\" in the default browser"
-msgstr "デフォルトブラウザでURL \"%s\" を開けませんでした。"
+msgstr "デフォルトブラウザでURL \"%s\" を開けませんでした"
 
 #, c-format
 msgid "Failed to load image %%d from file '%s'."
@@ -1734,27 +1680,27 @@ msgstr "画像 %%d をファイル '%s' から読み取れませんでした。"
 msgid "Failed to load image %d from stream."
 msgstr "画像 %d をストリームから読み取れませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load icons from resource '%s'."
-msgstr "画像 %d をストリームから読み取れませんでした。"
+msgstr "アイコンをリソース '%s' から読み取れませんでした。"
 
 msgid "BMP: Couldn't save invalid image."
-msgstr "BMP: 不正な画像で保存できませんでした。"
+msgstr "BMP: 不正な画像を保存できませんでした。"
 
 msgid "BMP: wxImage doesn't have own wxPalette."
 msgstr "BMP: wxImage は自身の wxPalette を保有していません。"
 
 msgid "BMP: Couldn't write the file (Bitmap) header."
-msgstr "BMP: Bitmapヘッダの書き出しに失敗しました。"
+msgstr "BMP: ファイル (Bitmap) ヘッダの書き出しに失敗しました。"
 
 msgid "BMP: Couldn't write the file (BitmapInfo) header."
-msgstr "BMP: BitmapInfoヘッダの書き出しに失敗しました。"
+msgstr "BMP: ファイル (BitmapInfo) ヘッダの書き出しに失敗しました。"
 
 msgid "BMP: Couldn't write RGB color map."
 msgstr "BMP: RGB色索引を書き出せませんでした。"
 
 msgid "BMP: Couldn't write data."
-msgstr "BMP: データ書き出しに失敗しました。"
+msgstr "BMP: データを書き出せませんでした。"
 
 msgid "BMP: Couldn't allocate memory."
 msgstr "BMP: メモリ割り当てに失敗しました。"
@@ -1766,23 +1712,23 @@ msgid "DIB Header: Image height > 32767 pixels for file."
 msgstr "DIB ヘッダー: 画像の高さが32767ピクセルを超えています。"
 
 msgid "DIB Header: Unknown bitdepth in file."
-msgstr "DIB ヘッダー: 未知のビット深さがファイルに含まれています。"
+msgstr "DIB ヘッダー: 未知のビット深度がファイルに含まれています。"
 
 msgid "DIB Header: Unknown encoding in file."
 msgstr "DIB ヘッダー: 未知のエンコーディングがファイルに含まれています。"
 
 msgid "DIB Header: Encoding doesn't match bitdepth."
-msgstr "DIB ヘッダー: エンコーディングがビット深さに対応していません。"
+msgstr "DIB ヘッダー: エンコーディングがビット深度に一致しません。"
 
 #, c-format
 msgid "BMP: header has biClrUsed=%d when biBitCount=%d."
-msgstr ""
+msgstr "BMP: biBitCount=%2$dのとき、ヘッダーにbiClrUsed=%1$dが含まれています。"
 
 msgid "Error in reading image DIB."
-msgstr "画像のDIB読み取りエラー。"
+msgstr "画像のDIB読み取り中にエラーが発生しました。"
 
 msgid "ICO: Error in reading mask DIB."
-msgstr "ICO: マスクDIBの読み取り中にエラーを検出しました。"
+msgstr "ICO: マスクDIBの読み取り中にエラーが発生しました。"
 
 msgid "ICO: Image too tall for an icon."
 msgstr "ICO: 縦に長すぎます。アイコンに変換できません。"
@@ -1794,7 +1740,7 @@ msgid "ICO: Error writing the image file!"
 msgstr "ICO: 画像ファイルの書き出し中にエラーが発生しました。"
 
 msgid "ICO: Invalid icon index."
-msgstr "ICO: アイコンの索引が不正のようです。"
+msgstr "ICO: アイコンの索引が不正です。"
 
 msgid "Image and mask have different sizes."
 msgstr "画像とマスクが異なる大きさになっています。"
@@ -1802,55 +1748,54 @@ msgstr "画像とマスクが異なる大きさになっています。"
 msgid "No unused colour in image being masked."
 msgstr "マスクされるべき未使用色が画像にありません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load bitmap \"%s\" from resources."
-msgstr "画像 %d をストリームから読み取れませんでした。"
+msgstr "リソースからビットマップ \"%s\" を読み取れませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load icon \"%s\" from resources."
-msgstr "画像 %d をストリームから読み取れませんでした。"
+msgstr "アイコン \"%s\" をリソースから読み取れませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load image from file \"%s\"."
-msgstr "ファイル \"%s\" からメタファイルを読み取れませんでした。"
+msgstr "ファイル \"%s\" から画像を読み取れませんでした。"
 
 #, c-format
 msgid "Can't save image to file '%s': unknown extension."
-msgstr "画像を保存できません。'%s' は未対応の拡張子を持っています。"
+msgstr "ファイル '%s' に画像を保存できません: 未対応の拡張子です。"
 
 msgid "No handler found for image type."
-msgstr "イメージタイプのハンドラーが見つかりません。"
+msgstr "画像形式に対応するハンドラーが見つかりません。"
 
 #, c-format
 msgid "No image handler for type %d defined."
-msgstr "%d 型のイメージハンドラーが定義されていません。"
+msgstr "形式 %d のイメージハンドラーが定義されていません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Image file is not of type %d."
-msgstr "画像ファイルは %ld 形式ではないようです。"
+msgstr "画像ファイルは形式 %d ではありません。"
 
 msgid "Can't automatically determine the image format for non-seekable input."
-msgstr ""
+msgstr "シーク不可能な入力に対して画像形式を自動的に判断できません。"
 
-#, fuzzy
 msgid "Unknown image data format."
-msgstr "未知のデータ様式です"
+msgstr "不明な画像データ形式です。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "This is not a %s."
-msgstr "PCX: PCXファイルではないようです。"
+msgstr "これは %s ではありません。"
 
 #, c-format
 msgid "No image handler for type %s defined."
-msgstr "%s 型のイメージハンドラーが定義されていません。"
+msgstr "形式 %s の画像ハンドラーが定義されていません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Image is not of type %s."
-msgstr "画像ファイルは %s 形式ではないようです。"
+msgstr "画像は形式 %s ではありません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to check format of image file \"%s\"."
-msgstr "ファイル \"%s\" にビットマップイメージを保存できませんでした。"
+msgstr "画像ファイル \"%s\" の形式を確認できませんでした。"
 
 msgid "GIF: error in GIF image format."
 msgstr "GIF: GIF画像形式にエラーがありました。"
@@ -1861,9 +1806,8 @@ msgstr "GIF: メモリ不足です。"
 msgid "GIF: data stream seems to be truncated."
 msgstr "GIF: データストリームに欠落があるようです。"
 
-#, fuzzy
 msgid "Couldn't initialize GIF hash table."
-msgstr "zlib の deflate ストリームを初期化できません。"
+msgstr "GIFハッシュテーブルを初期化できません。"
 
 msgid "IFF: error in IFF image format."
 msgstr "IFF: IFF画像形式にエラーがありました。"
@@ -1878,7 +1822,7 @@ msgid "IFF: data stream seems to be truncated."
 msgstr "IFF: データストリームに欠落があるようです。"
 
 msgid "JPEG: Couldn't load - file is probably corrupted."
-msgstr "JPEG: 読み取れません。おそらくファイルが壊れています。"
+msgstr "JPEG: 読み取れません。ファイルが壊れている可能性があります。"
 
 msgid "JPEG: Couldn't save image."
 msgstr "JPEG: 画像を保存できません。"
@@ -1901,31 +1845,31 @@ msgstr "PCX: 未対応のエラーが発生しました。"
 msgid "PCX: invalid image"
 msgstr "PCX: 不正な画像です"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Unknown PNG resolution unit %d"
-msgstr "未知の解像度単位 %d を無視しました"
+msgstr "未知のPNG解像度単位 %d"
 
 msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
-msgstr "PNG画像を読み出せませんでした。ファイルが壊れているかメモリ不足です。"
+msgstr "PNG画像を読み取れませんでした。ファイルが壊れているかメモリ不足です。"
 
 msgid "Couldn't save PNG image."
 msgstr "PNG画像を保存できませんでした。"
 
 msgid "PNM: File format is not recognized."
-msgstr "PNM: ファイル形式を解析できません。"
+msgstr "PNM: ファイル形式を認識できません。"
 
 msgid "PNM: Couldn't allocate memory."
 msgstr "PNM: メモリを割り当てることができません。"
 
 msgid "PNM: File seems truncated."
-msgstr "PNM: ファイルが欠けているようです。"
+msgstr "PNM: ファイルに欠落があるようです。"
 
 #, c-format
 msgid " (in module \"%s\")"
 msgstr " (モジュール \"%s\")"
 
 msgid "TIFF: Error loading image."
-msgstr "TIFF: 画像の読み取りエラーを検出しました。"
+msgstr "TIFF: 画像の読み取りエラーが発生しました。"
 
 msgid "Invalid TIFF image index."
 msgstr "TIFF 画像索引が不正です。"
@@ -1937,30 +1881,30 @@ msgid "TIFF: Couldn't allocate memory."
 msgstr "TIFF: メモリ割り当てに失敗しました。"
 
 msgid "TIFF: Error reading image."
-msgstr "TIFF: 画像の読み取りエラーを検出しました。"
+msgstr "TIFF: 画像の読み取りエラーが発生しました。"
 
 #, c-format
 msgid "Unknown TIFF resolution unit %d ignored"
-msgstr "未知の解像度単位 %d を無視しました"
+msgstr "未知のTIFF解像度単位 %d を無視しました"
 
 msgid "TIFF: Error saving image."
-msgstr "TIFF: 画像の書き出しエラーを検出しました。"
+msgstr "TIFF: 画像の保存エラーが発生しました。"
 
 msgid "TIFF: Error writing image."
-msgstr "TIFF: 画像の書き出しエラーを検出しました。"
+msgstr "TIFF: 画像の書き出しエラーが発生しました。"
 
 #, fuzzy
 msgid "TIFF: Error flushing data."
-msgstr "TIFF: 画像の書き出しエラーを検出しました。"
+msgstr "TIFF: 画像の保存エラーが発生しました。"
 
 #, c-format
 msgid ""
 "Command line argument %d couldn't be converted to Unicode and will be "
 "ignored."
-msgstr "コマンドライン引数 %d はユニコードに変換できません。無視されます。"
+msgstr "コマンドライン引数 %d はUnicodeに変換できません。無視されます。"
 
 msgid "Initialization failed in post init, aborting."
-msgstr "PostInit の初期化に失敗しました。中断します。"
+msgstr "PostInit での初期化に失敗しました。中断します。"
 
 #, c-format
 msgid "Cannot set locale to language \"%s\"."
@@ -1972,71 +1916,66 @@ msgstr "エラー: "
 msgid "Warning: "
 msgstr "警告: "
 
-#, fuzzy
 msgid "The previous message repeated once."
-msgstr "直前のメッセージは %lu 回繰り返されました。"
+msgstr "直前のメッセージは 1 回繰り返されました。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "The previous message repeated %u time."
 msgid_plural "The previous message repeated %u times."
-msgstr[0] "直前のメッセージは %lu 回繰り返されました。"
+msgstr[0] "直前のメッセージは %u 回繰り返されました。"
 
 #, c-format
 msgid "Last repeated message (\"%s\", %u time) wasn't output"
 msgid_plural "Last repeated message (\"%s\", %u times) wasn't output"
-msgstr[0] ""
+msgstr[0] "最後に繰り返されたメッセージ (\"%s\", %u 回) は出力ではありません"
 
 #, c-format
 msgid " (error %ld: %s)"
 msgstr " (エラー %ld: %s)"
 
-#, fuzzy
 msgid "Failed to allocate memory for LZMA decompression."
-msgstr "OpenGL に色を割り当てることができませんでした。"
+msgstr "LZMA展開にメモリを割り当てることができませんでした。"
 
 #, c-format
 msgid "Failed to initialize LZMA decompression: unexpected error %u."
-msgstr ""
+msgstr "LZMA展開を初期化できませんでした: 想定外のエラー %u が発生しました。"
 
 msgid "input is not in XZ format"
-msgstr ""
+msgstr "入力はXZ形式ではありません"
 
 msgid "input compressed using unknown XZ option"
-msgstr ""
+msgstr "未知のXZオプションを使用して圧縮されました"
 
 msgid "input is corrupted"
-msgstr ""
+msgstr "入力は壊れています"
 
-#, fuzzy
 msgid "unknown decompression error"
-msgstr "展開エラー"
+msgstr "未知の展開エラー"
 
-#, fuzzy, c-format
+#, c-format
 msgid "LZMA decompression error: %s"
-msgstr "展開エラー"
+msgstr "LZMA展開エラー: %s"
 
-#, fuzzy
 msgid "Failed to allocate memory for LZMA compression."
-msgstr "OpenGL に色を割り当てることができませんでした。"
+msgstr "LZMA圧縮にメモリを割り当てることができませんでした。"
 
 #, c-format
 msgid "Failed to initialize LZMA compression: unexpected error %u."
-msgstr ""
+msgstr "LZMA圧縮を初期化できませんでした: 想定外のエラー %u が発生しました。"
 
 msgid "out of memory"
 msgstr "メモリ不足"
 
-#, fuzzy
 msgid "unknown compression error"
-msgstr "圧縮エラー"
+msgstr "未知の圧縮エラー"
 
-#, fuzzy, c-format
+#, c-format
 msgid "LZMA compression error: %s"
-msgstr "圧縮エラー"
+msgstr "LZMA圧縮エラー: %s"
 
 #, c-format
 msgid "LZMA compression error when flushing output: %s"
-msgstr ""
+msgstr "出力のフラッシュ中にLZMA圧縮エラーが発生しました: %s"
 
 #, c-format
 msgid "Unmatched '{' in an entry for mime type %s."
@@ -2054,9 +1993,8 @@ msgstr "依存先の \"%s\" (モジュール \"%s\" 内) は存在しません�
 msgid "Module \"%s\" initialization failed"
 msgstr "モジュール \"%s\" の初期化に失敗しました"
 
-#, fuzzy
 msgid "Message"
-msgstr "%s からの通知"
+msgstr "メッセージ"
 
 msgid "Letter, 8 1/2 x 11 in"
 msgstr "レター, 8 1/2 x 11インチ"
@@ -2089,7 +2027,7 @@ msgid "Statement, 5 1/2 x 8 1/2 in"
 msgstr "ステートメント(計算書), 5 1/2 x 8 1/2インチ"
 
 msgid "Executive, 7 1/4 x 10 1/2 in"
-msgstr "エグゼキュティブ, 7 1/4 x 10 1/2インチ"
+msgstr "エグゼクティブ, 7 1/4 x 10 1/2インチ"
 
 msgid "A3 sheet, 297 x 420 mm"
 msgstr "A3 シート, 297 x 420 mm"
@@ -2149,7 +2087,7 @@ msgid "C4 Envelope, 229 x 324 mm"
 msgstr "C4 封筒, 229×324mm"
 
 msgid "C6 Envelope, 114 x 162 mm"
-msgstr "消去 (&L)"
+msgstr "C6 封筒, 114 x 162 mm"
 
 msgid "C65 Envelope, 114 x 229 mm"
 msgstr "C65 封筒, 114×229mm"
@@ -2413,10 +2351,10 @@ msgid "A1 sheet, 594 x 841 mm"
 msgstr "A1 シート, 594 x 841 mm"
 
 msgid "General"
-msgstr ""
+msgstr "一般"
 
 msgid "Advanced"
-msgstr ""
+msgstr "高度"
 
 msgid "Generic PostScript"
 msgstr "汎用 PostScipt"
@@ -2431,37 +2369,34 @@ msgid "Print"
 msgstr "印刷"
 
 msgid "Page setup"
-msgstr "ページの設定"
+msgstr "ページ設定"
 
-#, fuzzy
 msgid "Please wait while printing..."
-msgstr "印刷が終わるまでお待ちください\n"
+msgstr "印刷が終わるまでお待ちください..."
 
-#, fuzzy
 msgid "Document:"
-msgstr "説明書 : "
+msgstr "文書:"
 
 msgid "Progress:"
-msgstr ""
+msgstr "進捗:"
 
 msgid "Preparing"
-msgstr ""
+msgstr "準備中"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d"
-msgstr "%d ページを印刷中 ..."
+msgstr "ページ %d を印刷中"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d of %d"
-msgstr "%d ページを印刷中 ..."
+msgstr "ページ %d / %dを印刷中"
 
-#, fuzzy, c-format
+#, c-format
 msgid " (copy %d of %d)"
-msgstr "%dページ (%dページ中)"
+msgstr " (部数 %d / %d)"
 
-#, fuzzy
 msgid "First page"
-msgstr "次のページ"
+msgstr "最初のページ"
 
 msgid "Previous page"
 msgstr "前のページ"
@@ -2469,20 +2404,17 @@ msgstr "前のページ"
 msgid "Next page"
 msgstr "次のページ"
 
-#, fuzzy
 msgid "Last page"
-msgstr "次のページ"
+msgstr "最後のページ"
 
-#, fuzzy
 msgid "Zoom Out"
-msgstr "縮小(&O)"
+msgstr "縮小"
 
-#, fuzzy
 msgid "Zoom In"
-msgstr "拡大(&I)"
+msgstr "拡大"
 
 msgid "&Close"
-msgstr "閉じる (&C)"
+msgstr "閉じる(&C)"
 
 msgid "Could not start document preview."
 msgstr "文書プレビューを開始できませんでした。"
@@ -2491,26 +2423,26 @@ msgid "Print Preview Failure"
 msgstr "印刷プレビュー失敗"
 
 msgid "Sorry, not enough memory to create a preview."
-msgstr "プレビューのためのメモリが足りません。"
+msgstr "プレビュー作成に必要なメモリが足りません。"
 
 #, c-format
 msgid "Page %d of %d"
-msgstr "%dページ (%dページ中)"
+msgstr "ページ %d / %d"
 
 #, c-format
 msgid "Page %d"
-msgstr "%dページ"
+msgstr "ページ %d"
 
 msgid "unknown error"
-msgstr "想定外のエラーです"
+msgstr "未知のエラー"
 
 #, c-format
 msgid "Invalid regular expression '%s': %s"
-msgstr "不正な正規表現です '%s': %s"
+msgstr "不正な正規表現 '%s': %s"
 
 #, c-format
 msgid "Failed to find match for regular expression: %s"
-msgstr "正規表現に合致する部分が見つかりませんでした: %s"
+msgstr "正規表現に一致する部分が見つかりませんでした: %s"
 
 #, c-format
 msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
@@ -2519,22 +2451,22 @@ msgstr ""
 "できません。"
 
 msgid "Not available for this platform"
-msgstr ""
+msgstr "このプラットフォームでは利用不可です"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Saving password for \"%s\" failed: %s."
-msgstr "'%s' を '%s' に展開できませんでした。"
+msgstr "\"%s\" のパスワードを保存できませんでした: %s。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Reading password for \"%s\" failed: %s."
-msgstr "'%s' を '%s' に展開できませんでした。"
+msgstr "\"%s\" のパスワードを読み取れませんでした: %s。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Deleting password for \"%s\" failed: %s."
-msgstr "'%s' を '%s' に展開できませんでした。"
+msgstr "\"%s\" のパスワードを削除できませんでした: %s。"
 
 msgid "Failed to monitor I/O channels"
-msgstr "I/O チャンネルの監視に失敗しました"
+msgstr "I/O チャネルの監視に失敗しました"
 
 msgid "Save"
 msgstr "保存"
@@ -2545,90 +2477,81 @@ msgstr "保存しない"
 msgid "Cannot initialize sockets"
 msgstr "ソケットを初期化できません"
 
-#, fuzzy
 msgctxt "standard Windows menu"
 msgid "&Help"
-msgstr "ヘルプ (&H)"
+msgstr "ヘルプ(&H)"
 
 msgid "&About"
-msgstr "詳細 (&A)"
+msgstr "情報(&A)"
 
-#, fuzzy
 msgid "About"
-msgstr "詳細 (&A)"
+msgstr "情報"
 
 msgid "Add"
 msgstr "追加"
 
 msgid "&Apply"
-msgstr "適用 (&A)"
+msgstr "適用(&A)"
 
-#, fuzzy
 msgid "Apply"
-msgstr "適用 (&A)"
+msgstr "適用"
 
 msgid "&Back"
-msgstr "戻る (&B)"
+msgstr "戻る(&B)"
 
-#, fuzzy
 msgid "Back"
-msgstr "戻る (&B)"
+msgstr "戻る"
 
 msgid "&Bold"
-msgstr "太字 (&B)"
+msgstr "太字(&B)"
 
 msgid "Bold"
 msgstr "太字"
 
 msgid "&Bottom"
-msgstr "下端 (&B)"
+msgstr "下(&B)"
 
-#, fuzzy
 msgid "Bottom"
-msgstr "下端 (&B)"
+msgstr "下"
 
 msgid "&Cancel"
-msgstr "キャンセル (&C)"
+msgstr "キャンセル(&C)"
 
-#, fuzzy
 msgid "&CD-ROM"
-msgstr "CD-ROM (&C)"
+msgstr "CD-ROM(&C)"
 
-#, fuzzy
 msgid "CD-ROM"
-msgstr "CD-ROM (&C)"
+msgstr "CD-ROM"
 
 msgid "&Clear"
-msgstr "消去 (&C)"
+msgstr "消去(&C)"
 
-#, fuzzy
 msgid "Clear"
-msgstr "消去 (&C)"
+msgstr "消去"
 
 msgid "Close"
 msgstr "閉じる"
 
 msgid "&Convert"
-msgstr "変換 (&C)"
+msgstr "変換(&C)"
 
-#, fuzzy
 msgid "Convert"
-msgstr "変換 (&C)"
+msgstr "変換"
 
 msgid "&Copy"
-msgstr "コピー (&C)"
+msgstr "コピー(&C)"
 
 msgid "Copy"
 msgstr "コピー"
 
 msgid "Cu&t"
-msgstr "切り取り (&T)"
+msgstr "切り取り(&T)"
 
 msgid "Cut"
 msgstr "切り取り"
 
 msgid "&Delete"
-msgstr "削除 (&D)"
+msgstr "削除(&D)"
 
 msgid "Delete"
 msgstr "削除"
@@ -2637,28 +2560,25 @@ msgid "&Down"
 msgstr "下(&D)"
 
 msgid "Down"
-msgstr "下へ"
+msgstr "下"
 
 msgid "&Edit"
 msgstr "編集(&E)"
 
-#, fuzzy
 msgid "Edit"
-msgstr "編集(&E)"
+msgstr "編集"
 
 msgid "&Execute"
-msgstr "実行 (&E)"
+msgstr "実行(&E)"
 
-#, fuzzy
 msgid "Execute"
-msgstr "実行 (&E)"
+msgstr "実行"
 
 msgid "&Quit"
-msgstr "終了 (&Q)"
+msgstr "終了(&Q)"
 
-#, fuzzy
 msgid "Quit"
-msgstr "終了 (&Q)"
+msgstr "終了"
 
 msgid "&File"
 msgstr "ファイル(&F)"
@@ -2666,47 +2586,41 @@ msgstr "ファイル(&F)"
 msgid "File"
 msgstr "ファイル"
 
-#, fuzzy
 msgid "&Find..."
-msgstr "検索(&F)"
+msgstr "検索(&F)..."
 
-#, fuzzy
 msgid "Find..."
-msgstr "検索"
+msgstr "検索..."
 
 msgid "&First"
-msgstr "最初 (&F)"
+msgstr "最初へ(&F)"
 
-#, fuzzy
 msgid "First"
-msgstr "最初 (&F)"
+msgstr "最初へ"
 
 msgid "&Floppy"
-msgstr "フロッピーディスク (&F)"
+msgstr "フロッピー(&F)"
 
-#, fuzzy
 msgid "Floppy"
-msgstr "フロッピーディスク (&F)"
+msgstr "フロッピー"
 
 msgid "&Forward"
-msgstr "進行 (&F)"
+msgstr "前へ(&F)"
 
-#, fuzzy
 msgid "Forward"
-msgstr "進行 (&F)"
+msgstr "前へ"
 
 msgid "&Harddisk"
-msgstr "ハードディスク (&H)"
+msgstr "ハードディスク(&H)"
 
-#, fuzzy
 msgid "Harddisk"
-msgstr "ハードディスク (&H)"
+msgstr "ハードディスク"
 
 msgid "&Help"
-msgstr "ヘルプ (&H)"
+msgstr "ヘルプ(&H)"
 
 msgid "&Home"
-msgstr "ホーム (&H)"
+msgstr "ホーム(&H)"
 
 msgid "Home"
 msgstr "ホーム"
@@ -2715,30 +2629,28 @@ msgid "Indent"
 msgstr "字下げ"
 
 msgid "&Index"
-msgstr "索引 (&I)"
+msgstr "索引(&I)"
 
 msgid "Index"
 msgstr "索引"
 
 msgid "&Info"
-msgstr "情報 (&I)"
+msgstr "情報(&I)"
 
-#, fuzzy
 msgid "Info"
-msgstr "情報 (&I)"
+msgstr "情報"
 
 msgid "&Italic"
-msgstr "イタリック (&I)"
+msgstr "イタリック(&I)"
 
 msgid "Italic"
 msgstr "イタリック"
 
 msgid "&Jump to"
-msgstr "移動 (&J)"
+msgstr "移動(&J)"
 
-#, fuzzy
 msgid "Jump to"
-msgstr "移動 (&J)"
+msgstr "移動"
 
 msgid "Centered"
 msgstr "中央寄せ"
@@ -2753,76 +2665,67 @@ msgid "Align Right"
 msgstr "右寄せ"
 
 msgid "&Last"
-msgstr "最後 (&L)"
+msgstr "最後へ(&L)"
 
-#, fuzzy
 msgid "Last"
-msgstr "最後 (&L)"
+msgstr "最後へ"
 
 msgid "&Network"
-msgstr "ネットワーク (&N)"
+msgstr "ネットワーク(&N)"
 
-#, fuzzy
 msgid "Network"
-msgstr "ネットワーク (&N)"
+msgstr "ネットワーク"
 
 msgid "&New"
-msgstr "新規作成 (&N)"
+msgstr "新規作成(&N)"
 
-#, fuzzy
 msgid "New"
-msgstr "新規作成 (&N)"
+msgstr "新規作成"
 
 msgid "&No"
-msgstr "いいえ (&N)"
+msgstr "いいえ(&N)"
 
 msgid "&OK"
-msgstr "OK (&O)"
+msgstr "OK(&O)"
 
 msgid "&Open..."
-msgstr "開く (&O) ..."
+msgstr "開く(&O)..."
 
-#, fuzzy
 msgid "Open..."
-msgstr "開く (&O) ..."
+msgstr "開く..."
 
 msgid "&Paste"
-msgstr "貼り付け (&P)"
+msgstr "貼り付け(&P)"
 
 msgid "Paste"
 msgstr "貼り付け"
 
 msgid "&Preferences"
-msgstr "設定 (&P)"
+msgstr "設定(&P)"
 
-#, fuzzy
 msgid "Preferences"
-msgstr "設定 (&P)"
+msgstr "設定"
 
-#, fuzzy
 msgid "Print previe&w..."
-msgstr "印刷プレビュー(&W)"
+msgstr "印刷プレビュー(&W)..."
 
-#, fuzzy
 msgid "Print preview..."
-msgstr "印刷プレビュー"
+msgstr "印刷プレビュー..."
 
 msgid "&Print..."
-msgstr "印刷 (&P) ..."
+msgstr "印刷(&P)..."
 
-#, fuzzy
 msgid "Print..."
-msgstr "印刷 (&P) ..."
+msgstr "印刷..."
 
 msgid "&Properties"
-msgstr "プロパティー (&P)"
+msgstr "プロパティ(&P)"
 
-#, fuzzy
 msgid "Properties"
-msgstr "プロパティー (&P)"
+msgstr "プロパティ"
 
 msgid "Redo"
-msgstr "再実行"
+msgstr "やり直す"
 
 msgid "Refresh"
 msgstr "更新"
@@ -2830,23 +2733,20 @@ msgstr "更新"
 msgid "Remove"
 msgstr "削除"
 
-#, fuzzy
 msgid "Rep&lace..."
-msgstr "置換(&L)"
+msgstr "置換(&L)..."
 
-#, fuzzy
 msgid "Replace..."
-msgstr "置換"
+msgstr "置換..."
 
 msgid "Revert to Saved"
-msgstr "保存した状態まで戻します"
+msgstr "保存した状態に戻す"
 
 msgid "Save &As..."
-msgstr "別名で保存(&A) ..."
+msgstr "別名で保存(&A)..."
 
-#, fuzzy
 msgid "Save As..."
-msgstr "別名で保存(&A) ..."
+msgstr "別名で保存..."
 
 msgid "Select &All"
 msgstr "すべて選択(&A)"
@@ -2855,102 +2755,91 @@ msgid "Select All"
 msgstr "すべて選択"
 
 msgid "&Color"
-msgstr "色 (&C)"
+msgstr "色(&C)"
 
-#, fuzzy
 msgid "Color"
-msgstr "色 (&C)"
+msgstr "色"
 
 msgid "&Font"
-msgstr "フォント (&F)"
+msgstr "フォント(&F)"
 
 msgid "Font"
 msgstr "フォント"
 
 msgid "&Ascending"
-msgstr "昇順 (&A)"
+msgstr "昇順(&A)"
 
-#, fuzzy
 msgid "Ascending"
-msgstr "昇順 (&A)"
+msgstr "昇順"
 
 msgid "&Descending"
-msgstr "降順 (&D)"
+msgstr "降順(&D)"
 
-#, fuzzy
 msgid "Descending"
-msgstr "降順 (&D)"
+msgstr "降順"
 
 msgid "&Spell Check"
-msgstr "スペルチェック (&S)"
+msgstr "スペルチェック(&S)"
 
-#, fuzzy
 msgid "Spell Check"
-msgstr "スペルチェック (&S)"
+msgstr "スペルチェック"
 
 msgid "&Stop"
-msgstr "停止 (&S)"
+msgstr "停止(&S)"
 
-#, fuzzy
 msgid "Stop"
-msgstr "停止 (&S)"
+msgstr "停止"
 
 msgid "&Strikethrough"
-msgstr "打ち消し線 (&S)"
+msgstr "打ち消し線(&S)"
 
-#, fuzzy
 msgid "Strikethrough"
-msgstr "打ち消し線 (&S)"
+msgstr "打ち消し線"
 
 msgid "&Top"
-msgstr "上端 (&T)"
+msgstr "上(&T)"
 
-#, fuzzy
 msgid "Top"
-msgstr "上端 (&T)"
+msgstr "上"
 
 msgid "Undelete"
 msgstr "削除の取り消し"
 
 msgid "&Underline"
-msgstr "下線 (&U)"
+msgstr "下線(&U)"
 
-#, fuzzy
 msgid "Underline"
-msgstr "下線 (&U)"
+msgstr "下線"
 
 msgid "Undo"
 msgstr "元に戻す"
 
 msgid "&Unindent"
-msgstr "字下げ解除 (&U)"
+msgstr "字下げ解除(&U)"
 
-#, fuzzy
 msgid "Unindent"
-msgstr "字下げ解除 (&U)"
+msgstr "字下げ解除"
 
 msgid "&Up"
-msgstr "上 (&U)"
+msgstr "上(&U)"
 
 msgid "Up"
-msgstr "上へ"
+msgstr "上"
 
 msgid "&Yes"
-msgstr "はい (&Y)"
+msgstr "はい(&Y)"
 
 msgid "&Actual Size"
-msgstr "原寸 (&A)"
+msgstr "原寸(&A)"
 
-#, fuzzy
 msgid "Actual Size"
-msgstr "原寸 (&A)"
+msgstr "原寸"
 
 msgid "Zoom to &Fit"
 msgstr "画面に合わせる(&F)"
 
-#, fuzzy
 msgid "Zoom to Fit"
-msgstr "画面に合わせる(&F)"
+msgstr "画面に合わせる"
 
 msgid "Zoom &In"
 msgstr "拡大(&I)"
@@ -2968,34 +2857,31 @@ msgid "Cut selection"
 msgstr "選択範囲を切り取ります"
 
 msgid "Delete selection"
-msgstr "選択範囲の削除"
+msgstr "選択範囲を削除します"
 
-#, fuzzy
 msgid "Find in document"
-msgstr "HTML文書を開く"
+msgstr "文書内を検索します"
 
 msgid "Find and replace in document"
-msgstr ""
+msgstr "文書内で検索と置換を行います"
 
 msgid "Paste selection"
-msgstr "選択部分を貼り付け"
+msgstr "選択範囲を貼り付けます"
 
 msgid "Quit this program"
 msgstr "このプログラムを終了します"
 
 msgid "Redo last action"
-msgstr "最後に取り消した編集を再実行します"
+msgstr "最後のアクションをやり直します"
 
 msgid "Undo last action"
-msgstr "最後の編集を取り消します"
+msgstr "最後のアクションを元に戻します"
 
-#, fuzzy
 msgid "Create new document"
-msgstr "新しいディレクトリーを作成します"
+msgstr "新しい文書を作成します"
 
-#, fuzzy
 msgid "Open an existing document"
-msgstr "HTML文書を開く"
+msgstr "既存の文書を開きます"
 
 msgid "Close current document"
 msgstr "現在の文書を閉じます"
@@ -3011,7 +2897,7 @@ msgid "Conversion to charset '%s' doesn't work."
 msgstr "文字集合 '%s' への変換が機能していません。"
 
 msgid "unknown"
-msgstr "不明"
+msgstr "未知"
 
 msgid "incomplete header block in tar"
 msgstr "不完全なtarヘッダブロックです"
@@ -3037,7 +2923,7 @@ msgstr "tar項目に不正な大きさが与えられています"
 
 #, c-format
 msgid "'%s' is probably a binary buffer."
-msgstr "'%s' はおそらくバイナリーバッファーです。"
+msgstr "'%s' はおそらくバイナリバッファーです。"
 
 msgid "File couldn't be loaded."
 msgstr "ファイルを読み取ることができません。"
@@ -3104,9 +2990,9 @@ msgstr "'%s' は正しいメッセージカタログではありません。"
 msgid "'%s' contains invalid character(s)"
 msgstr "'%s' はアルファベット以外を受け付けません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Error: %s (%d)"
-msgstr "エラー:"
+msgstr "エラー: %s (%d)"
 
 msgid "Not enough free disk space for download."
 msgstr ""
@@ -3121,11 +3007,11 @@ msgstr "文字列変換は未対応です"
 
 #, c-format
 msgid "Error running JavaScript: %s"
-msgstr ""
+msgstr "JavaScript実行エラー: %s"
 
 #, fuzzy, c-format
 msgid "Failed to set proxy \"%s\": %s"
-msgstr "ディレクトリー \"%s\" を作成できませんでした。"
+msgstr "ディレクトリ \"%s\" を作成できませんでした"
 
 msgid ""
 "Chromium can't be used because libcef.so was't loaded early enough; please "
@@ -3148,7 +3034,7 @@ msgstr ""
 "す。"
 
 msgid "XPM: incorrect header format!"
-msgstr "XPM: ヘッダーが必要な様式を満たしていません。"
+msgstr "XPM: ヘッダーの書式が不正です。"
 
 #, c-format
 msgid "XPM: incorrect colour description in line %d"
@@ -3247,13 +3133,13 @@ msgid "invalid zip file"
 msgstr "不完全なzipファイルです"
 
 msgid "can't find central directory in zip"
-msgstr "zip内にセントラルディレクトリー部が見つかりません"
+msgstr "zip 内にセントラルディレクトリが見つかりません"
 
 msgid "error reading zip central directory"
-msgstr "zipのセントラルディレクトリーを読み取り中にエラーを検出しました"
+msgstr "zip のセントラルディレクトリを読み取り中にエラーが発生しました"
 
 msgid "error reading zip local header"
-msgstr "zipのローカルヘッダーを読み取り中にエラーを検出しました"
+msgstr "zipのローカルヘッダーを読み取り中にエラーが発生しました"
 
 msgid "bad zipfile offset to entry"
 msgstr "項目へのzipfileオフセットが不適当です"
@@ -3375,7 +3261,7 @@ msgstr "%ld 型のアニメーションハンドラーは未定義です。"
 
 #, c-format
 msgid "Animation file is not of type %ld."
-msgstr "アニメーションファイルが %ld 型ではありません｡"
+msgstr "アニメーションファイルが %ld 型ではありません。"
 
 msgid "Choose colour"
 msgstr "色を選んでください"
@@ -3422,9 +3308,9 @@ msgstr ""
 msgid "Expand"
 msgstr ""
 
-#, fuzzy, c-format
+#, c-format
 msgid "%s (%d items)"
-msgstr "%s (または %s)"
+msgstr "%s (%d 項目)"
 
 #, c-format
 msgid "Column %u"
@@ -3455,16 +3341,15 @@ msgstr "ファイル \"%s\" を開く"
 msgid "Enter command to open file \"%s\":"
 msgstr "\"%s\" ファイルを開くためのコマンドを入力してください:"
 
-#, fuzzy
 msgid "Executable files (*.exe)|*.exe|"
-msgstr "実行ファイル (*.exe)|*.exe|すべてのファイル (*.*)|*.*||"
+msgstr "実行ファイル (*.exe)|*.exe|"
 
 #, c-format
 msgid "Debug report \"%s\""
 msgstr "デバッグレポート \"%s\""
 
 msgid "A debug report has been generated in the directory\n"
-msgstr "デバッグレポートが次のディレクトリーに作成されます\n"
+msgstr "デバッグレポートが次のディレクトリに作成されました\n"
 
 msgid "The following debug report will be generated\n"
 msgstr ""
@@ -3493,13 +3378,13 @@ msgid "              Thank you and we're sorry for the inconvenience!\n"
 msgstr "              ご不便をおかけして申し訳ございません。\n"
 
 msgid "&Debug report preview:"
-msgstr "デバッグレポートプレビュー (&D):"
+msgstr "デバッグレポートプレビュー(&D):"
 
 msgid "&View..."
-msgstr "見る (&V) ..."
+msgstr "表示(&V) ..."
 
 msgid "&Notes:"
-msgstr "注意書き (&N):"
+msgstr "注意書き(&N):"
 
 msgid ""
 "If you have any additional information pertaining to this bug\n"
@@ -3518,14 +3403,14 @@ msgid "Sections"
 msgstr "セクション"
 
 msgid "Home directory"
-msgstr "ホームディレクトリー"
+msgstr "ホームディレクトリ"
 
 #. TRANSLATORS: Keyword of system colour
 msgid "Desktop"
 msgstr "デスクトップ"
 
 msgid "Illegal directory name."
-msgstr "不正なディレクトリー名です。"
+msgstr "不正なディレクトリ名です。"
 
 msgid "Error"
 msgstr "エラー"
@@ -3537,24 +3422,24 @@ msgid "Operation not permitted."
 msgstr "処理が許可されていません。"
 
 msgid "Create new directory"
-msgstr "新しいディレクトリーを作成します"
+msgstr "新しいディレクトリを作成します"
 
 msgid "Go to home directory"
-msgstr "ホームディレクトリーへ移動"
+msgstr "ホームディレクトリへ移動"
 
 msgid "Show &hidden directories"
-msgstr "隠しディレクトリーを表示する(&H)"
+msgstr "隠しディレクトリを表示する(&H)"
 
 #, c-format
 msgid ""
 "The directory '%s' does not exist\n"
 "Create it now?"
 msgstr ""
-"ディレクトリー '%s' は存在しません\n"
+"ディレクトリ '%s' は存在しません\n"
 "作成しますか?"
 
 msgid "Directory does not exist"
-msgstr "ディレクトリーが存在しません"
+msgstr "ディレクトリが存在しません"
 
 #, c-format
 msgid ""
@@ -3565,13 +3450,13 @@ msgstr ""
 "処理に必要なパーミッションをお持ちですか?"
 
 msgid "Error creating directory"
-msgstr "ディレクトリー作成エラー"
+msgstr "ディレクトリ作成エラー"
 
 msgid "You cannot add a new directory to this section."
-msgstr "このセクションに新しいディレクトリーは追加できません。"
+msgstr "このセクションに新しいディレクトリは追加できません。"
 
 msgid "Create directory"
-msgstr "ディレクトリーを作成します"
+msgstr "ディレクトリを作成します"
 
 msgid "NewName"
 msgstr "新しい名前"
@@ -3607,13 +3492,13 @@ msgid "Search direction"
 msgstr "検索の方向"
 
 msgid "&Replace"
-msgstr "置換 (&R)"
+msgstr "置換(&R)"
 
 msgid "Replace &all"
 msgstr "すべて置換(&A)"
 
 msgid "<DIR>"
-msgstr "<ディレクトリー>"
+msgstr "<ディレクトリ>"
 
 msgid "<LINK>"
 msgstr "<リンク>"
@@ -3645,7 +3530,7 @@ msgid "Attributes"
 msgstr "属性"
 
 msgid "Current directory:"
-msgstr "カレントディレクトリー:"
+msgstr "カレントディレクトリ:"
 
 msgid "Show &hidden files"
 msgstr "隠しファイルを表示する(&H)"
@@ -3654,7 +3539,7 @@ msgid "Illegal file specification."
 msgstr "ファイル記述子が不正です。"
 
 msgid "Directory doesn't exist."
-msgstr "ディレクトリーが存在しません。"
+msgstr "ディレクトリが存在しません。"
 
 msgid "View files as a list view"
 msgstr "リスト形式でファイル一覧を見る"
@@ -3663,7 +3548,7 @@ msgid "View files as a detailed view"
 msgstr "詳細情報付きでファイル一覧を見る"
 
 msgid "Go to parent directory"
-msgstr "親ディレクトリーへ移動"
+msgstr "親ディレクトリへ移動"
 
 #, c-format
 msgid "File '%s' already exists, do you really want to overwrite it?"
@@ -3709,31 +3594,31 @@ msgid "Light"
 msgstr "軽量"
 
 msgid "&Font family:"
-msgstr "フォントファミリー (&F):"
+msgstr "フォントファミリー(&F):"
 
 msgid "The font family."
 msgstr "フォントのファミリーを指定できます。"
 
 msgid "&Style:"
-msgstr "スタイル (&S):"
+msgstr "スタイル(&S):"
 
 msgid "The font style."
 msgstr "フォントのスタイルを指定できます。"
 
 msgid "&Weight:"
-msgstr "ウエイト (&W):"
+msgstr "ウエイト(&W):"
 
 msgid "The font weight."
 msgstr "フォントのウエイトを指定できます。"
 
 msgid "C&olour:"
-msgstr "色 (&C):"
+msgstr "色(&C):"
 
 msgid "The font colour."
 msgstr "フォントの色を指定できます。"
 
 msgid "&Point size:"
-msgstr "大きさ-ポイント (&P):"
+msgstr "ポイントサイズ(&P):"
 
 msgid "The font point size."
 msgstr "フォントの大きさをポイントで記します。"
@@ -3761,9 +3646,32 @@ msgid ""
 "contiguous or no cell was selected."
 msgstr ""
 
+msgid "Grid Corner"
+msgstr ""
+
+#, c-format
+msgid "Column %s Header"
+msgstr ""
+
+#, c-format
+msgid "Row %s Header"
+msgstr ""
+
+#, c-format
+msgid "Column %s: %s"
+msgstr ""
+
+#, fuzzy, c-format
+msgid "Row %s: %s"
+msgstr "\t%s: %s\n"
+
+#, c-format
+msgid "Row %s, Column %s: %s"
+msgstr ""
+
 #, c-format
 msgid "Help directory \"%s\" not found."
-msgstr "ヘルプディレクトリー \"%s\" が見つかりません。"
+msgstr "ヘルプディレクトリ \"%s\" が見つかりません。"
 
 #, c-format
 msgid "Help file \"%s\" not found."
@@ -3791,7 +3699,7 @@ msgid "Entries found"
 msgstr "候補が見つかりました"
 
 msgid "&Copy URL"
-msgstr "URLをコピー (&C)"
+msgstr "URLをコピー(&C)"
 
 msgid "Hide this notification message."
 msgstr "この通知メッセージを隠します。"
@@ -3808,15 +3716,14 @@ msgstr "%s 警告"
 msgid "%s Information"
 msgstr "%s 情報"
 
-#, fuzzy
 msgid "Application"
-msgstr "選択"
+msgstr "アプリケーション"
 
 msgid "Save log contents to file"
 msgstr "ログの内容をファイルに保存します"
 
 msgid "C&lear"
-msgstr "消去 (&L)"
+msgstr "消去(&L)"
 
 msgid "Clear the log contents"
 msgstr "ログの内容を消去します"
@@ -3825,7 +3732,7 @@ msgid "Close this window"
 msgstr "このウィンドウを閉じます"
 
 msgid "&Log"
-msgstr "ログ (&L)"
+msgstr "ログ(&L)"
 
 msgid "Can't save log contents to file."
 msgstr "ログの内容をファイルに保存できませんでした。"
@@ -3835,7 +3742,7 @@ msgid "Log saved to the file '%s'."
 msgstr "ファイル '%s' にログを保存しました。"
 
 msgid "&Details"
-msgstr "詳細 (&D)"
+msgstr "詳細(&D)"
 
 msgid "Failed to copy dialog contents to the clipboard."
 msgstr "ダイアログの内容をクリップボードにコピーできませんでした。"
@@ -3957,7 +3864,7 @@ msgid "Printer..."
 msgstr "プリンター ..."
 
 msgid "&Skip"
-msgstr "スキップ (&S)"
+msgstr "スキップ(&S)"
 
 msgid "Unknown"
 msgstr "不明"
@@ -3981,19 +3888,19 @@ msgid "Did you know..."
 msgstr "ご存じですか?"
 
 msgid "&Show tips at startup"
-msgstr "ヒントを起動時に表示 (&S)"
+msgstr "ヒントを起動時に表示(&S)"
 
 msgid "&Next Tip"
-msgstr "次のヒント (&N)"
+msgstr "次のヒント(&N)"
 
 msgid "&Next >"
-msgstr "次へ (&N) >"
+msgstr "次へ(&N) >"
 
 msgid "&Finish"
-msgstr "完了 (&F)"
+msgstr "完了(&F)"
 
 msgid "< &Back"
-msgstr "< 戻る (&B)"
+msgstr "< 戻る(&B)"
 
 msgid "translator-credits"
 msgstr ""
@@ -4012,11 +3919,11 @@ msgid ""
 msgstr ""
 
 msgid "Unable to initialize GTK+, is DISPLAY set properly?"
-msgstr "GTK+を初期化できません。 DISPLAY の設定が不適切の可能性があります。"
+msgstr "GTK+を初期化できません。 DISPLAY が不適切の可能性があります。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Changing current directory to \"%s\" failed"
-msgstr "ディレクトリー \"%s\" を作成できませんでした。"
+msgstr "カレントディレクトリを \"%s\" に変更できませんでした"
 
 msgid ""
 "Using private fonts is not supported on this system: Pango library is too "
@@ -4060,7 +3967,7 @@ msgid "Custom size"
 msgstr "任意の寸法指定"
 
 msgid "Error while printing: "
-msgstr "印刷中にエラー発生: "
+msgstr "印刷中にエラーが発生しました: "
 
 msgid "Page Setup"
 msgstr "ページの設定"
@@ -4120,7 +4027,7 @@ msgid "bad signature"
 msgstr "未対応の識別文字です"
 
 msgid "error in data format"
-msgstr "データ様式にエラーがありました"
+msgstr "データ書式のエラー"
 
 msgid "checksum error"
 msgstr "チェックサムエラー"
@@ -4400,7 +4307,7 @@ msgid "Failed to get data from the clipboard"
 msgstr "クリップボードからデータを取得できませんでした"
 
 msgid "Failed to retrieve the supported clipboard formats"
-msgstr "対応しているクリップボードの様式を取得できませんでした"
+msgstr "対応しているクリップボードの形式を取得できませんでした"
 
 #, c-format
 msgid "Colour selection dialog failed with error %0lx."
@@ -4476,7 +4383,7 @@ msgid "a parameter failed to be validated by the DDEML."
 msgstr "DDEML の評価により引数の失敗が検出されました。"
 
 msgid "a DDEML application has created a prolonged race condition."
-msgstr "DDEML アプリケーションが競合状態の延長として作成されています｡"
+msgstr "DDEML アプリケーションが競合状態の延長として作成されています。"
 
 msgid "a memory allocation failed."
 msgstr "メモリ割り当てに失敗しました。"
@@ -4597,15 +4504,15 @@ msgstr "ビットマップデータ用のメモリ割り当て(%luKb)に失敗�
 
 #, c-format
 msgid "Cannot enumerate files in directory '%s'"
-msgstr "ディレクトリー '%s' のファイルは列挙できません"
+msgstr "ディレクトリ '%s' のファイルは列挙できません"
 
 #, fuzzy
 msgid "Couldn't obtain folder name"
 msgstr "タイマーを作成できませんでした"
 
-#, fuzzy, c-format
+#, c-format
 msgid "(error %d: %s)"
-msgstr " (エラー %ld: %s)"
+msgstr "(エラー %d: %s)"
 
 msgid "Couldn't add an image to the image list."
 msgstr "イメージリストに画像を追加できませんでした。"
@@ -4646,9 +4553,9 @@ msgstr ""
 msgid "Unable to set up watch for '%s'"
 msgstr "'%s' の監視を準備できませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Can't monitor non-existent directory \"%s\" for changes."
-msgstr "監視対象のディレクトリー \"%s\" を開くことができませんでした。"
+msgstr "存在しないディレクトリ \"%s\" は変更の監視ができません。"
 
 msgid "OpenGL 3.0 or later is not supported by the OpenGL driver."
 msgstr ""
@@ -4682,7 +4589,7 @@ msgid "Couldn't retrieve information about list control item %d."
 msgstr "リストコントロールの項目 %d に関する情報を取得できませんでした。"
 
 msgid "&Cascade"
-msgstr "重ねて表示 (&C)"
+msgstr "重ねて表示(&C)"
 
 msgid "Tile &Horizontally"
 msgstr "横に並べる(&H)"
@@ -4691,7 +4598,7 @@ msgid "Tile &Vertically"
 msgstr "縦に並べる(&V)"
 
 msgid "&Arrange Icons"
-msgstr "アイコンの整列 (&A)"
+msgstr "アイコンの整列(&A)"
 
 msgid "Failed to create MDI parent frame."
 msgstr "MDI親フレームを作成できませんでした。"
@@ -4704,9 +4611,9 @@ msgstr "'%s' 用のレジストリエントリを作成できませんでした�
 msgid "Failed to find CLSID of \"%s\""
 msgstr "リソース \"%s\" を読み取れませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to create an instance of \"%s\""
-msgstr "ディレクトリー \"%s\" を作成できませんでした。"
+msgstr "\"%s\" のインスタンスを作成できませんでした"
 
 #, fuzzy, c-format
 msgid "Cannot get an active instance of \"%s\""
@@ -4767,11 +4674,11 @@ msgstr ""
 
 #, c-format
 msgid "Couldn't register clipboard format '%s'."
-msgstr "クリップボードの様式 '%s' を登録できませんでした。"
+msgstr "クリップボードの形式 '%s' を登録できませんでした。"
 
 #, c-format
 msgid "The clipboard format '%d' doesn't exist."
-msgstr "クリップボード様式 '%d' は存在しません。"
+msgstr "クリップボードの形式 '%d' は存在しません。"
 
 msgid "Skip"
 msgstr "スキップ"
@@ -4782,19 +4689,19 @@ msgstr "不明"
 
 #, c-format
 msgid "Can't get info about registry key '%s'"
-msgstr "レジストリーキー '%s' の情報を取得できません"
+msgstr "レジストリキー '%s' の情報を取得できません"
 
 #, c-format
 msgid "Can't open registry key '%s'"
-msgstr "レジストリーキー '%s' を開くことができません"
+msgstr "レジストリキー '%s' を開くことができません"
 
 #, c-format
 msgid "Can't create registry key '%s'"
-msgstr "レジストリーキー '%s' を作成できません"
+msgstr "レジストリキー '%s' を作成できません"
 
 #, c-format
 msgid "Can't close registry key '%s'"
-msgstr "レジストリーキー '%s' を閉じることができません"
+msgstr "レジストリキー '%s' を閉じることができません"
 
 #, c-format
 msgid "Registry value '%s' already exists."
@@ -4802,7 +4709,7 @@ msgstr "レジストリの値 '%s' はすでに存在します。"
 
 #, c-format
 msgid "Failed to rename registry value '%s' to '%s'."
-msgstr "レジストリーの値を '%s' から '%s' に改名できませんでした。"
+msgstr "レジストリの値を '%s' から '%s' に名称変更できませんでした。"
 
 #, c-format
 msgid "Can't copy values of unsupported type %d."
@@ -4810,27 +4717,27 @@ msgstr "未対応型 %d の値はコピーできません。"
 
 #, c-format
 msgid "Registry key '%s' does not exist, cannot rename it."
-msgstr "改名元に指定されたレジストリーキー '%s' は存在しません。"
+msgstr "名称変更元に指定されたレジストリキー '%s' は存在しません。"
 
 #, c-format
 msgid "Registry key '%s' already exists."
-msgstr "レジストリーキー '%s' はすでに存在します。"
+msgstr "レジストリキー '%s' はすでに存在します。"
 
 #, c-format
 msgid "Failed to rename the registry key '%s' to '%s'."
-msgstr "レジストリーキー '%s' を '%s' に改名できませんでした。"
+msgstr "レジストリキー '%s' を '%s' に名称変更できませんでした。"
 
 #, c-format
 msgid "Failed to copy the registry subkey '%s' to '%s'."
-msgstr "レジストリーのサブキー '%s' を '%s' へコピーできませんでした。"
+msgstr "レジストリのサブキー '%s' を '%s' へコピーできませんでした。"
 
 #, c-format
 msgid "Failed to copy registry value '%s'"
-msgstr "レジストリーの値 '%s' をコピーできませんでした。"
+msgstr "レジストリの値 '%s' をコピーできませんでした。"
 
 #, c-format
 msgid "Failed to copy the contents of registry key '%s' to '%s'."
-msgstr "レジストリーキー '%s' の内容を '%s' へコピーできませんでした。"
+msgstr "レジストリキー '%s' の内容を '%s' へコピーできませんでした。"
 
 #, c-format
 msgid ""
@@ -4838,7 +4745,7 @@ msgid ""
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
 msgstr ""
-"レジストリーキー '%s' は通常のシステム動作に必要です。\n"
+"レジストリキー '%s' は通常のシステム動作に必要です。\n"
 "これを削除するとシステムを不安定にします:\n"
 "処理を中断しました。"
 
@@ -4886,8 +4793,8 @@ msgstr "キー '%s' のサブキーを列挙できません"
 msgid ""
 "Exporting registry key: file \"%s\" already exists and won't be overwritten."
 msgstr ""
-"レジストリーのエクスポート: ファイル \"%s\" はすでに存在します。上書きも行い"
-"ません。"
+"レジストリのエクスポート: ファイル \"%s\" はすでに存在します。上書きも行いま"
+"せん。"
 
 #, c-format
 msgid "Can't export value of unsupported type %d."
@@ -4952,7 +4859,7 @@ msgid "Failed to retrieve user information: %s"
 msgstr "'%s' のファイル時刻を取得できませんでした。"
 
 msgid "can't find user's HOME, using current directory."
-msgstr "ユーザーのHOMEが見つかりません。カレントディレクトリーを使用します。"
+msgstr "ユーザーの HOME が見つかりません。カレントディレクトリを使用します。"
 
 #, c-format
 msgid "Failed to kill process %d"
@@ -4966,9 +4873,9 @@ msgstr "リソース \"%s\" を読み取れませんでした。"
 msgid "Failed to lock resource \"%s\"."
 msgstr "リソース \"%s\" をロックできませんでした。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "build %lu"
-msgstr "Windows XP (ビルド %lu"
+msgstr "ビルド %lu"
 
 msgid ", 64-bit edition"
 msgstr ", 64ビットエディション"
@@ -5009,103 +4916,94 @@ msgstr ""
 msgid "Can't run JavaScript script without a valid HTML document"
 msgstr ""
 
-#, fuzzy
 msgid "Can't get the JavaScript object"
-msgstr "スレッド優先度を設定できません"
+msgstr "JavaScript オブジェクトを取得できません"
 
-#, fuzzy
 msgid "failed to evaluate"
-msgstr "'%s' の実行に失敗しました\n"
+msgstr "評価に失敗しました"
 
 #, fuzzy
 msgid "File type:"
 msgstr "Teletype"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Window"
-msgstr "ウィンドウ (&W)"
+msgstr "ウインドウ"
 
-#, fuzzy
 msgctxt "macOS menu name"
 msgid "Help"
 msgstr "ヘルプ"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Minimize"
-msgstr "最小化 (&N)"
+msgstr "しまう"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Zoom"
-msgstr "拡大(&I)"
+msgstr "拡大"
 
 msgctxt "macOS menu item"
 msgid "Bring All to Front"
-msgstr ""
+msgstr "すべてを手前に移動"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load sound from \"%s\" (error %d)."
-msgstr "リソース \"%s\" を読み取れませんでした。"
+msgstr "\"%s\" からサウンドを読み取れませんでした (エラー %d)。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Font file \"%s\" doesn't exist."
-msgstr "ファイル %s は存在しません。"
+msgstr "フォントファイル \"%s\" は存在しません。"
 
 #, c-format
 msgid ""
 "Font file \"%s\" cannot be used as it is not inside the font directory "
 "\"%s\"."
 msgstr ""
+"フォントファイル \"%s\" は、フォントディレクトリ \"%s\" に存在しないため、使"
+"用できません。"
 
 #, c-format
 msgctxt "macOS menu item"
 msgid "About %s"
-msgstr "%s について"
+msgstr "%sについて"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "About..."
-msgstr "詳細 (&A)"
+msgstr "このアプリケーションについて..."
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Preferences..."
-msgstr "設定 (&P)"
+msgstr "設定..."
 
 msgctxt "macOS menu item"
 msgid "Services"
-msgstr ""
+msgstr "サービス"
 
-#, fuzzy, c-format
+#, c-format
 msgctxt "macOS menu item"
 msgid "Hide %s"
-msgstr "ヘルプ: %s"
+msgstr "%sを非表示"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Hide Application"
-msgstr "選択"
+msgstr "アプリケーションを非表示"
 
 msgctxt "macOS menu item"
 msgid "Hide Others"
-msgstr ""
+msgstr "ほかを非表示"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Show All"
-msgstr "すべて表示"
+msgstr "すべてを表示"
 
-#, fuzzy, c-format
+#, c-format
 msgctxt "macOS menu item"
 msgid "Quit %s"
-msgstr "終了 (&Q)"
+msgstr "%sを終了"
 
-#, fuzzy
 msgctxt "macOS menu item"
 msgid "Quit Application"
-msgstr "選択"
+msgstr "アプリケーションを終了"
 
 #, fuzzy
 msgid "Printing is not supported by the system web control"
@@ -5426,7 +5324,7 @@ msgid "Make a selection:"
 msgstr "選択してください:"
 
 msgid "Property"
-msgstr "プロパティー"
+msgstr "プロパティ"
 
 msgid "Value"
 msgstr "値"
@@ -5450,23 +5348,22 @@ msgid "Unspecified"
 msgstr "未指定"
 
 #. TRANSLATORS: Caption of message box displaying any property error
-#, fuzzy
 msgid "Property Error"
-msgstr "プロパティー"
+msgstr "プロパティエラー"
 
 msgid "You have entered invalid value. Press ESC to cancel editing."
 msgstr ""
 
 #, c-format
 msgid "Error in resource: %s"
-msgstr "リソースにエラー: %s"
+msgstr "リソース中にエラー: %s"
 
 #, c-format
 msgid ""
 "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
 "\"%s\"."
 msgstr ""
-"型の処理 \"%s\" に失敗:  \"%s\" とラベルされたプロパティーは \"%s\" 型で"
+"型の処理 \"%s\" に失敗: \"%s\" とラベルされたプロパティは \"%s\" 型で"
 "す。\"%s\" ではありません。"
 
 #, c-format
@@ -5490,7 +5387,7 @@ msgid "Not %s"
 msgstr "%sではない"
 
 msgid "Choose a directory:"
-msgstr "ディレクトリーを選んでください:"
+msgstr "ディレクトリを選んでください:"
 
 msgid "Choose a file"
 msgstr "フォントを選んでください"
@@ -5598,7 +5495,7 @@ msgid "Border"
 msgstr "Modern"
 
 msgid "&Left:"
-msgstr "左 (&L):"
+msgstr "左(&L):"
 
 msgid "Units for the left border width."
 msgstr ""
@@ -5608,21 +5505,19 @@ msgid "The border line style."
 msgstr "フォントのスタイルを指定できます。"
 
 msgid "&Right:"
-msgstr "右 (&R):"
+msgstr "右(&R):"
 
 msgid "Units for the right border width."
 msgstr ""
 
-#, fuzzy
 msgid "&Top:"
-msgstr "上端 (&T)"
+msgstr "上(&T):"
 
 msgid "Units for the top border width."
 msgstr ""
 
-#, fuzzy
 msgid "&Bottom:"
-msgstr "下端 (&B)"
+msgstr "下(&B):"
 
 msgid "Units for the bottom border width."
 msgstr ""
@@ -5705,9 +5600,8 @@ msgstr "スタイルの変更"
 msgid "Change Object Style"
 msgstr "リストスタイルを変更します"
 
-#, fuzzy
 msgid "Change Properties"
-msgstr "プロパティー (&P)"
+msgstr "プロパティを変更"
 
 msgid "Change List Style"
 msgstr "リストスタイルを変更します"
@@ -5792,13 +5686,13 @@ msgid "image"
 msgstr "画像一時ファイル"
 
 msgid "&Bullet style:"
-msgstr "行頭文字のスタイル (&B):"
+msgstr "行頭文字のスタイル(&B):"
 
 msgid "The available bullet styles."
 msgstr "使用できる行頭文字スタイルです。"
 
 msgid "Peri&od"
-msgstr "ピリオド (&O)"
+msgstr "ピリオド(&O)"
 
 msgid "Check to add a period after the bullet."
 msgstr "行頭文字の後にピリオドを付ける場合にチェックしてください。"
@@ -5825,16 +5719,16 @@ msgid "The bullet character."
 msgstr "行頭文字を指定します。"
 
 msgid "&Symbol:"
-msgstr "記号 (&S):"
+msgstr "記号(&S):"
 
 msgid "Ch&oose..."
-msgstr "選択 (&O)..."
+msgstr "選択(&O)..."
 
 msgid "Click to browse for a symbol."
 msgstr "クリックで記号を一覧できます。"
 
 msgid "Symbol &font:"
-msgstr "記号フォント (&F) :"
+msgstr "記号フォント(&F):"
 
 msgid "Available fonts."
 msgstr "有効なフォントです。"
@@ -5846,7 +5740,7 @@ msgid "A standard bullet name."
 msgstr "標準の行頭文字名を指定します。"
 
 msgid "&Number:"
-msgstr "番号 (&N):"
+msgstr "番号(&N):"
 
 msgid "The list item number."
 msgstr "連番の番号を指定できます。"
@@ -5916,13 +5810,13 @@ msgid "Replace"
 msgstr "置換"
 
 msgid "&Font:"
-msgstr "フォント (&F):"
+msgstr "フォント(&F):"
 
 msgid "Type a font name."
 msgstr "フォント名を指定します。"
 
 msgid "&Size:"
-msgstr "大きさ (&S):"
+msgstr "大きさ(&S):"
 
 msgid "Type a size in points."
 msgstr "ポイントで大きさを指定します。"
@@ -6010,7 +5904,7 @@ msgid "Check to suppress hyphenation."
 msgstr ""
 
 msgid "Shows a preview of the font settings."
-msgstr "フォント設定のプレビューを表示します｡"
+msgstr "フォント設定のプレビューを表示します。"
 
 msgid "(none)"
 msgstr "(なし)"
@@ -6577,7 +6471,7 @@ msgid "&Subset:"
 msgstr "部分表示 (&S):"
 
 msgid "Shows a Unicode subset."
-msgstr "ユニコードの部分集合を表示します。"
+msgstr "Unicode の部分集合を表示します。"
 
 msgid "xxxx"
 msgstr "xxxx"
@@ -6592,7 +6486,7 @@ msgid "&From:"
 msgstr "取得元 (&F):"
 
 msgid "Unicode"
-msgstr "ユニコード"
+msgstr "Unicode"
 
 msgid "The range to show."
 msgstr "表示する範囲を指定できます。"
@@ -6736,7 +6630,7 @@ msgstr "kqueue からのイベントを取得できませんでした"
 
 #, c-format
 msgid "Media playback error: %s"
-msgstr ""
+msgstr "メディア再生エラー: %s"
 
 #, fuzzy, c-format
 msgid "Failed to prepare playing \"%s\"."
@@ -6808,10 +6702,10 @@ msgstr "音声データを '%s' から取得できませんでした。"
 
 #, c-format
 msgid "Sound file '%s' is in unsupported format."
-msgstr "'%s' は未対応の様式が使われている音声ファイルです。"
+msgstr "'%s' は未対応の形式が使われている音声ファイルです。"
 
 msgid "Sound data are in unsupported format."
-msgstr "未対応の様式が使われている音声データです。"
+msgstr "未対応の形式が使われている音声データです。"
 
 #, c-format
 msgid "Couldn't open audio: %s"
@@ -6851,9 +6745,8 @@ msgstr "スレッドモジュールの初期化に失敗: スレッドキーを�
 msgid "Impossible to get child process input"
 msgstr "子プロセスの入力は取得不可能です"
 
-#, fuzzy
 msgid "Can't write to child process's stdin"
-msgstr "プロセス %d の kill に失敗しました"
+msgstr "子プロセスの標準入力には書き込めません"
 
 #, c-format
 msgid "Failed to execute '%s'\n"
@@ -6862,9 +6755,8 @@ msgstr "'%s' の実行に失敗しました\n"
 msgid "Fork failed"
 msgstr "フォークに失敗しました"
 
-#, fuzzy
 msgid "Failed to set process priority"
-msgstr "スレッド優先度を %d に設定できませんでした。"
+msgstr "プロセスの優先度を設定できませんでした"
 
 msgid "Failed to redirect child process input/output"
 msgstr "子プロセスの入出力をリダイレクトできませんでした"
@@ -6908,26 +6800,26 @@ msgstr "XML 解析エラー: '%s' (%d行目)"
 
 #, fuzzy, c-format
 msgid "Page %i"
-msgstr "%dページ"
+msgstr "ページ %d"
 
 #, c-format
 msgid "Cannot load resources from '%s'."
-msgstr "ファイル '%s' からリソースを読み取れません。"
+msgstr "リソースファイル '%s' を読み取れません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot open resources file '%s'."
-msgstr "ファイル '%s' からリソースを読み取れません。"
+msgstr "リソースファイル '%s' を開くことができません。"
 
 #, c-format
 msgid "Cannot load resources from file '%s'."
 msgstr "ファイル '%s' からリソースを読み取れません。"
 
-#, fuzzy, c-format
+#, c-format
 msgid "Creating %s \"%s\" failed."
-msgstr "'%s' を '%s' に展開できませんでした。"
+msgstr "%s \"%s\" を作成できませんでした。"
 
 #~ msgid "Unsupported clipboard format."
-#~ msgstr "未対応のクリップボード様式です。"
+#~ msgstr "未対応のクリップボードの形式です。"
 
 #~ msgid "Failed to set clipboard data."
 #~ msgstr "クリップボードデータを設定できませんでした。"
@@ -6948,7 +6840,7 @@ msgstr "'%s' を '%s' に展開できませんでした。"
 #~ msgstr "スタイル:"
 
 #~ msgid "Check to make the font bold."
-#~ msgstr "フォントを太字にするときにチェックしてください｡"
+#~ msgstr "フォントを太字にするときにチェックしてください。"
 
 #~ msgid "Check to make the font italic."
 #~ msgstr "フォントをイタリックにするときにチェックしてください。"
@@ -7127,7 +7019,7 @@ msgstr "'%s' を '%s' に展開できませんでした。"
 #~ msgstr "列の幅を設定できませんでした。"
 
 #~ msgid "Confirm registry update"
-#~ msgstr "レジストリーの更新を確定"
+#~ msgstr "レジストリの更新を確定"
 
 #~ msgid "Could not determine column index."
 #~ msgstr "列の索引番号を特定できませんでした。"
@@ -7868,9 +7760,6 @@ msgstr "'%s' を '%s' に展開できませんでした。"
 
 #~ msgid "|<<"
 #~ msgstr "|<<"
-
-#~ msgid "\t%s: %s\n"
-#~ msgstr "\t%s: %s\n"
 
 #~ msgid " Couldn't create the UnicodeConverter"
 #~ msgstr " UnicodeConverterを作成できません"

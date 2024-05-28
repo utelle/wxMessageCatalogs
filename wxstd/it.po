@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets revised 09.02.2023 by bovirus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-13 03:36+0000\n"
+"POT-Creation-Date: 2024-05-28 03:37+0000\n"
 "PO-Revision-Date: 2023-02-09 19:31+0100\n"
 "Last-Translator: bovirus <bovirus@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -3673,6 +3673,30 @@ msgstr "Carattere"
 msgid ""
 "Error copying grid to the clipboard. Either selected cells were not "
 "contiguous or no cell was selected."
+msgstr ""
+
+#, fuzzy
+msgid "Grid Corner"
+msgstr "Angolo"
+
+#, fuzzy, c-format
+msgid "Column %s Header"
+msgstr "Colonna %u"
+
+#, c-format
+msgid "Row %s Header"
+msgstr ""
+
+#, fuzzy, c-format
+msgid "Column %s: %s"
+msgstr "Colonna %u"
+
+#, fuzzy, c-format
+msgid "Row %s: %s"
+msgstr "Colonna %i"
+
+#, c-format
+msgid "Row %s, Column %s: %s"
 msgstr ""
 
 #, c-format

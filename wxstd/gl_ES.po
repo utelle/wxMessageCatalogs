@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-13 03:36+0000\n"
+"POT-Creation-Date: 2024-05-28 03:37+0000\n"
 "PO-Revision-Date: 2013-11-01 21:34+0100\n"
 "Last-Translator: Nuria Andión <nandiez@gmail.com>\n"
 "Language-Team: Proxecto Trasno <proxecto@trasno.net>\n"
@@ -3721,6 +3721,29 @@ msgstr "Elixa un tipo de letra"
 msgid ""
 "Error copying grid to the clipboard. Either selected cells were not "
 "contiguous or no cell was selected."
+msgstr ""
+
+msgid "Grid Corner"
+msgstr ""
+
+#, fuzzy, c-format
+msgid "Column %s Header"
+msgstr "Engadir columna"
+
+#, c-format
+msgid "Row %s Header"
+msgstr ""
+
+#, fuzzy, c-format
+msgid "Column %s: %s"
+msgstr "Engadir columna"
+
+#, fuzzy, c-format
+msgid "Row %s: %s"
+msgstr "\t%s: %s\n"
+
+#, c-format
+msgid "Row %s, Column %s: %s"
 msgstr ""
 
 #, c-format
@@ -7796,9 +7819,6 @@ msgstr "Fallou a extración de '%s' a '%s'."
 
 #~ msgid "|<<"
 #~ msgstr "|<<"
-
-#~ msgid "\t%s: %s\n"
-#~ msgstr "\t%s: %s\n"
 
 #, fuzzy
 #~ msgid " Couldn't create the UnicodeConverter"

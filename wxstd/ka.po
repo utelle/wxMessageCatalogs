@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-13 03:36+0000\n"
+"POT-Creation-Date: 2024-05-28 03:37+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -3649,6 +3649,30 @@ msgstr "აირჩიეთ ფონტი"
 msgid ""
 "Error copying grid to the clipboard. Either selected cells were not "
 "contiguous or no cell was selected."
+msgstr ""
+
+#, fuzzy
+msgid "Grid Corner"
+msgstr "კუთხე"
+
+#, fuzzy, c-format
+msgid "Column %s Header"
+msgstr "სვეტი %u"
+
+#, c-format
+msgid "Row %s Header"
+msgstr ""
+
+#, fuzzy, c-format
+msgid "Column %s: %s"
+msgstr "სვეტი %u"
+
+#, fuzzy, c-format
+msgid "Row %s: %s"
+msgstr "მწკრივი %i"
+
+#, c-format
+msgid "Row %s, Column %s: %s"
 msgstr ""
 
 #, c-format
