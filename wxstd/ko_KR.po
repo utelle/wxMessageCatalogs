@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2009-04-23 18:29+0900\n"
 "Last-Translator: 정성기 <dragoneyes.org@gmail.com>\n"
 "Language-Team: Korean <Korean>\n"
@@ -3119,8 +3119,14 @@ msgstr "문자열 '%s' 에는 알파벳 이외의 문자가 입력되었습니�
 msgid "Error: %s (%d)"
 msgstr "오류:"
 
-msgid "Not enough free disk space for download."
+#, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "임시 파일을 생성을 실패했습니다"
 
 #, fuzzy
 msgid "libcurl could not be initialized"
@@ -4637,6 +4643,12 @@ msgstr "\"%s\" 파일에서 메타 파일을 읽어올 수 없습니다."
 #, c-format
 msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr "표준 찾기/바꾸기 창 생성 실패(오류 코드 %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, fuzzy, c-format
 msgid "File dialog failed with error code %0lx."

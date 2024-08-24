@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -3121,8 +3121,14 @@ msgstr "'%s' deve apenas conter caracteres alfabéticos."
 msgid "Error: %s (%d)"
 msgstr "Erro: "
 
-msgid "Not enough free disk space for download."
+#, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "Falha a criar nome de ficheiro temporário"
 
 #, fuzzy
 msgid "libcurl could not be initialized"
@@ -4661,6 +4667,12 @@ msgstr "Falha na leitura de metafile do ficheiro \"%s\"."
 msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr ""
 "Falha a criar dialogo standard de procura/substitui (código de erro %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, fuzzy, c-format
 msgid "File dialog failed with error code %0lx."

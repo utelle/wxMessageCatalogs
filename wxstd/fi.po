@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -3150,8 +3150,14 @@ msgstr "”%s” saa sisältää vain kirjaimia."
 msgid "Error: %s (%d)"
 msgstr "Virhe: "
 
-msgid "Not enough free disk space for download."
+#, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "Tilapäistiedoston nimen luonti epäonnistui."
 
 #, fuzzy
 msgid "libcurl could not be initialized"
@@ -4670,6 +4676,12 @@ msgstr "Metatiedostoa ei voitu ladata tiedostosta ”%s”."
 #, c-format
 msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr "Standardin etsi/korvaa ikkunan luonti epäonnistui (virhekoodi %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, fuzzy, c-format
 msgid "File dialog failed with error code %0lx."

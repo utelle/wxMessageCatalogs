@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2015-10-27 22:33+0100\n"
 "Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -1858,7 +1858,7 @@ msgstr "Ingen bildebehandler for type %s definert."
 
 #, fuzzy, c-format
 msgid "Image is not of type %s."
-msgstr "Bildefil er ikke av type %d."
+msgstr "Bildefil er ikke av type %s."
 
 #, fuzzy, c-format
 msgid "Failed to check format of image file \"%s\"."
@@ -3172,8 +3172,14 @@ msgstr "«%s» må kun inneholde bokstaver."
 msgid "Error: %s (%d)"
 msgstr "Feil:"
 
-msgid "Not enough free disk space for download."
+#, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "Klarte ikke opprette et midlertidig filnavn"
 
 #, fuzzy
 msgid "libcurl could not be initialized"
@@ -4711,6 +4717,12 @@ msgstr "Klarte ikke laste metafil fra filen «%s»."
 #, c-format
 msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr "Klarte ikke opprette standard finn/erstattvindu (feilkode %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, fuzzy, c-format
 msgid "File dialog failed with error code %0lx."

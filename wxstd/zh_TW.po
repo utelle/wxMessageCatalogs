@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -2994,8 +2994,14 @@ msgstr "'%s' 含有無效字元"
 msgid "Error: %s (%d)"
 msgstr "錯誤：%s (%d)"
 
-msgid "Not enough free disk space for download."
+#, fuzzy, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr "沒有足夠磁碟空間可供下載。"
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "無法創建暫存檔的檔名"
 
 msgid "libcurl could not be initialized"
 msgstr "無法初始化 libcurl"
@@ -4494,7 +4500,7 @@ msgstr "無法取得資料夾名稱"
 
 #, c-format
 msgid "(error %d: %s)"
-msgstr "(錯誤 %id: %s)"
+msgstr "(錯誤 %d: %s)"
 
 msgid "Couldn't add an image to the image list."
 msgstr "無法把影像加到影像清單。"
@@ -4506,6 +4512,12 @@ msgstr "從 '%s' 檔案讀取中繼檔案失敗。"
 #, c-format
 msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr "無法創建標準的「尋找/更改」對話窗 (錯誤碼 %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, c-format
 msgid "File dialog failed with error code %0lx."

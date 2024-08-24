@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2006-11-06 10:48+0800\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: ms_MY <ms@li.org>\n"
@@ -3149,8 +3149,14 @@ msgstr "'%s' sepatutnya mengandungi aksara abjab sahaja."
 msgid "Error: %s (%d)"
 msgstr "Ralat: "
 
-msgid "Not enough free disk space for download."
+#, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "Gagal mencipta nama fail sementara"
 
 #, fuzzy
 msgid "libcurl could not be initialized"
@@ -4681,6 +4687,12 @@ msgstr "Gagal memuat metafail dari fail \"%s\"."
 #, c-format
 msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr "Gagal mencipta dialog cari/ganti piawai (kod ralat %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, fuzzy, c-format
 msgid "File dialog failed with error code %0lx."

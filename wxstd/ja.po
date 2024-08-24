@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2024-05-15 23:51+0900\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <wx-translators@wxwidgets.org>\n"
@@ -2994,8 +2994,14 @@ msgstr "'%s' はアルファベット以外を受け付けません。"
 msgid "Error: %s (%d)"
 msgstr "エラー: %s (%d)"
 
-msgid "Not enough free disk space for download."
+#, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "一時ファイルの名前を作成できませんでした"
 
 #, fuzzy
 msgid "libcurl could not be initialized"
@@ -4524,6 +4530,12 @@ msgstr "ファイル \"%s\" からメタファイルを読み取れませんで�
 #, c-format
 msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr "標準の検索置換ダイアログを作成できませんでした (エラーコード %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, c-format
 msgid "File dialog failed with error code %0lx."

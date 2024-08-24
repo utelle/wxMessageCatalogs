@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 03:37+0000\n"
+"POT-Creation-Date: 2024-08-24 03:37+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -3218,8 +3218,14 @@ msgstr "'%s' πρέπει να περιέχει μόνο αλφαβητικού�
 msgid "Error: %s (%d)"
 msgstr "Σφάλμα: "
 
-msgid "Not enough free disk space for download."
+#, c-format
+msgid ""
+"Not enough free disk space for download: %llu needed but only %llu available."
 msgstr ""
+
+#, fuzzy, c-format
+msgid "Failed to create temporary file in %s"
+msgstr "Αποτυχία δημιουργίας ονόματος προσωρινού αρχείου"
 
 #, fuzzy
 msgid "libcurl could not be initialized"
@@ -4778,6 +4784,12 @@ msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr ""
 "Απέτυχε η δημιουργία καθιερωμένου παράθυρου διαλόγου εύρεσης/αντικατάστασης "
 "(κωδικός σφάλματος %d)"
+
+msgid "Access to the file system is not allowed from secure desktop."
+msgstr ""
+
+msgid "Security warning"
+msgstr ""
 
 #, fuzzy, c-format
 msgid "File dialog failed with error code %0lx."
