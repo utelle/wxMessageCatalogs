@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-24 03:37+0000\n"
+"POT-Creation-Date: 2024-09-24 03:42+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -3025,6 +3025,16 @@ msgstr ""
 #, fuzzy
 msgid "Could not initialize Chromium"
 msgstr "無法初始化 libnotify。"
+
+msgid "Show DevTools"
+msgstr ""
+
+#, fuzzy
+msgid "Close DevTools"
+msgstr "全部關閉"
+
+msgid "Inspect"
+msgstr ""
 
 msgid "This platform does not support background transparency."
 msgstr "這個平臺不支援透明背景。"

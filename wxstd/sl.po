@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-24 03:37+0000\n"
+"POT-Creation-Date: 2024-09-24 03:42+0000\n"
 "PO-Revision-Date: 2023-09-14 22:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -3645,6 +3645,19 @@ msgstr ""
 #, fuzzy
 msgid "Could not initialize Chromium"
 msgstr "Inicializacija OLE ni možna"
+
+msgid "Show DevTools"
+msgstr ""
+
+# common/prntbase.cpp:359
+# generic/progdlgg.cpp:307
+# generic/proplist.cpp:518
+#, fuzzy
+msgid "Close DevTools"
+msgstr "Zapri vse"
+
+msgid "Inspect"
+msgstr ""
 
 msgid "This platform does not support background transparency."
 msgstr "Ta platforma ne podpira prosojnosti ozadja."

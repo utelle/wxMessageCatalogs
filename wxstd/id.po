@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-24 03:37+0000\n"
+"POT-Creation-Date: 2024-09-24 03:42+0000\n"
 "PO-Revision-Date: 2020-06-26 21:31+0700\n"
 "Last-Translator: Hertatijanto Hartono <dvertx@gmail.com>\n"
 "Language-Team: ID <doplank@gmx.com>\n"
@@ -3054,6 +3054,16 @@ msgstr ""
 #, fuzzy
 msgid "Could not initialize Chromium"
 msgstr "Gagal menginisialisasi libnotify."
+
+msgid "Show DevTools"
+msgstr ""
+
+#, fuzzy
+msgid "Close DevTools"
+msgstr "Tutup Semua"
+
+msgid "Inspect"
+msgstr ""
 
 msgid "This platform does not support background transparency."
 msgstr "Platform ini tidak mendukung transparansi background."

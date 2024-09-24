@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-24 03:37+0000\n"
+"POT-Creation-Date: 2024-09-24 03:42+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -3251,6 +3251,16 @@ msgstr ""
 #, fuzzy
 msgid "Could not initialize Chromium"
 msgstr "Δεν ήταν δυνατή η εκκίνηση της εκτύπωσης."
+
+msgid "Show DevTools"
+msgstr ""
+
+#, fuzzy
+msgid "Close DevTools"
+msgstr "Κλείσιμο"
+
+msgid "Inspect"
+msgstr ""
 
 msgid "This platform does not support background transparency."
 msgstr ""

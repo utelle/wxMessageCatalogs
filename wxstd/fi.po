@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-24 03:37+0000\n"
+"POT-Creation-Date: 2024-09-24 03:42+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -3182,6 +3182,16 @@ msgstr ""
 #, fuzzy
 msgid "Could not initialize Chromium"
 msgstr "Tasausta ei voitu asettaa."
+
+msgid "Show DevTools"
+msgstr ""
+
+#, fuzzy
+msgid "Close DevTools"
+msgstr "Sulje kaikki"
+
+msgid "Inspect"
+msgstr ""
 
 msgid "This platform does not support background transparency."
 msgstr ""

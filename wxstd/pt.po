@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-24 03:37+0000\n"
+"POT-Creation-Date: 2024-09-24 03:42+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -3154,6 +3154,16 @@ msgstr ""
 #, fuzzy
 msgid "Could not initialize Chromium"
 msgstr "Não foi possível inicia a impressão."
+
+msgid "Show DevTools"
+msgstr ""
+
+#, fuzzy
+msgid "Close DevTools"
+msgstr "Fechar Tudo"
+
+msgid "Inspect"
+msgstr ""
 
 msgid "This platform does not support background transparency."
 msgstr ""
