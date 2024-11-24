@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2013-01-23 13:14+0300\n"
 "Last-Translator: Jānis Eisaks <jancs@dv.lv>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -34,6 +34,14 @@ msgstr "Aptuvenais laiks:"
 #, fuzzy
 msgid "Remaining time:"
 msgstr "Atlikušais laiks:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Izdruka"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Drukāšana"
 
 msgid "Yes"
 msgstr "Jā"
@@ -79,9 +87,6 @@ msgstr ""
 msgid "Unable to create I/O completion port"
 msgstr ""
 
-msgid "Printout"
-msgstr "Izdruka"
-
 msgid "&See details"
 msgstr "&Skatīt detaļas"
 
@@ -102,9 +107,6 @@ msgstr "&Tabula"
 
 msgid "Object Properties"
 msgstr "Objekta īpašības"
-
-msgid "Printing"
-msgstr "Drukāšana"
 
 msgid "Symbols"
 msgstr "Simboli"
@@ -4358,7 +4360,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": fails neeksistē!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Priekšskatījums"
 
 msgid ""
@@ -6181,6 +6185,9 @@ msgstr "Apakšējā papildinājuma lielums."
 
 msgid "Units for the bottom padding."
 msgstr "Vienības apakšējās malas papildinājumam."
+
+msgid " Preview"
+msgstr " Priekšskatījums"
 
 msgid "Floating"
 msgstr "Peldošs"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2022-07-11 10:47+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: wxWidgets tranlators <wx-translators@wxwidgets.org>\n"
@@ -34,6 +34,14 @@ msgstr "预期时间："
 
 msgid "Remaining time:"
 msgstr "剩余时间："
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "打印"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "正在打印"
 
 msgid "Yes"
 msgstr "是"
@@ -79,9 +87,6 @@ msgstr "无法移出完成封包"
 msgid "Unable to create I/O completion port"
 msgstr "无法创建 I/O 完成端口"
 
-msgid "Printout"
-msgstr "打印"
-
 msgid "&See details"
 msgstr "查看细节(&S)"
 
@@ -102,9 +107,6 @@ msgstr "表格(&T)"
 
 msgid "Object Properties"
 msgstr "对象属性"
-
-msgid "Printing"
-msgstr "正在打印"
 
 msgid "Symbols"
 msgstr "符号"
@@ -4275,7 +4277,9 @@ msgstr "如有可能，请尝试更改布局参数以使输出结果更紧凑。
 msgid ": file does not exist!"
 msgstr "：文件不存在！"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " 预览"
 
 msgid ""
@@ -6046,6 +6050,9 @@ msgstr "底内衬大小。"
 
 msgid "Units for the bottom padding."
 msgstr "下内衬单位。"
+
+msgid " Preview"
+msgstr " 预览"
 
 msgid "Floating"
 msgstr "浮动"

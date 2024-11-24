@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2022-07-30 11:10+0200\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: \n"
@@ -32,6 +32,14 @@ msgstr "დაახლოებით დრო:"
 
 msgid "Remaining time:"
 msgstr "დარჩენილი დრო:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "გამობეჭდვა"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "დაბეჭდვა"
 
 msgid "Yes"
 msgstr "დიახ"
@@ -77,9 +85,6 @@ msgstr "დასრულების პაკეტის რიგიდა�
 msgid "Unable to create I/O completion port"
 msgstr "I/O დასრულების პორტის შექმნის შეცდომა"
 
-msgid "Printout"
-msgstr "გამობეჭდვა"
-
 msgid "&See details"
 msgstr "&დეტალების ჩვენება"
 
@@ -100,9 +105,6 @@ msgstr "&ცხრილი"
 
 msgid "Object Properties"
 msgstr "ობიექტის თვისებები"
-
-msgid "Printing"
-msgstr "დაბეჭდვა"
 
 msgid "Symbols"
 msgstr "სიმბოლოები"
@@ -4286,7 +4288,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": ფაილი არ არსებობს!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " გადახედვა"
 
 msgid ""
@@ -6041,6 +6045,9 @@ msgstr "ქვემოთ შევსების ზომა."
 
 msgid "Units for the bottom padding."
 msgstr "ქვემოთ შევსების ზომის ერთეული."
+
+msgid " Preview"
+msgstr " გადახედვა"
 
 msgid "Floating"
 msgstr "მცურავი"

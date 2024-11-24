@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2014-02-23 11:45+0100\n"
 "Last-Translator: Jonas Rydberg <jonas@drevo.se>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -26,6 +26,14 @@ msgstr "Uppskattad tid: "
 
 msgid "Remaining time:"
 msgstr "Återstående tid: "
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Utskrift"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Skriver ut "
 
 msgid "Yes"
 msgstr "Ja"
@@ -71,9 +79,6 @@ msgstr "Kunde inte ta bort avslutningspaket från kö"
 msgid "Unable to create I/O completion port"
 msgstr "Kunde inte skapa I/O-avslutningsport"
 
-msgid "Printout"
-msgstr "Utskrift"
-
 msgid "&See details"
 msgstr "&Visa detaljer"
 
@@ -94,9 +99,6 @@ msgstr "&Tabell"
 
 msgid "Object Properties"
 msgstr "Objektegenskaper"
-
-msgid "Printing"
-msgstr "Skriver ut "
 
 msgid "Symbols"
 msgstr "Symboler"
@@ -4347,7 +4349,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": filen finns inte!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Förhandsgranska"
 
 msgid ""
@@ -6181,6 +6185,9 @@ msgstr "Undre utfyllnadsstorlek."
 
 msgid "Units for the bottom padding."
 msgstr "Enheter för undre utfyllnadsstorlek."
+
+msgid " Preview"
+msgstr " Förhandsgranska"
 
 msgid "Floating"
 msgstr "Flytande"

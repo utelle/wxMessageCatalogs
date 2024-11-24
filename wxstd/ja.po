@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2024-05-15 23:51+0900\n"
 "Last-Translator: Ryo Nakano <ryonakaknock3@gmail.com>\n"
 "Language-Team: Japanese <wx-translators@wxwidgets.org>\n"
@@ -27,6 +27,14 @@ msgstr "予定時間:"
 
 msgid "Remaining time:"
 msgstr "残り時間:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "印刷出力"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "印刷"
 
 msgid "Yes"
 msgstr "はい"
@@ -72,9 +80,6 @@ msgstr "完了パケットをキューから取り出せません"
 msgid "Unable to create I/O completion port"
 msgstr "I/O 完了ポートを作成できません"
 
-msgid "Printout"
-msgstr "印刷出力"
-
 msgid "&See details"
 msgstr "詳細を表示(&S)"
 
@@ -95,9 +100,6 @@ msgstr "表(&T)"
 
 msgid "Object Properties"
 msgstr "オブジェクトのプロパティ"
-
-msgid "Printing"
-msgstr "印刷"
 
 msgid "Symbols"
 msgstr "記号"
@@ -4298,7 +4300,9 @@ msgstr "出力結果がより狭い範囲に収まるように印刷設定値を
 msgid ": file does not exist!"
 msgstr ": ファイルがありません。"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " プレビュー"
 
 msgid ""
@@ -6165,6 +6169,9 @@ msgstr "フォントの大きさをポイントで記します。"
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " プレビュー"
 
 msgid "Floating"
 msgstr ""

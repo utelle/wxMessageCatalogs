@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2015-10-27 22:33+0100\n"
 "Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
 "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
@@ -34,6 +34,16 @@ msgstr "Anslått tid :"
 #, fuzzy
 msgid "Remaining time:"
 msgstr "Gjenstående tid :"
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "Utskrift"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "Skriver ut"
 
 msgid "Yes"
 msgstr "Ja"
@@ -82,10 +92,6 @@ msgid "Unable to create I/O completion port"
 msgstr "Klarte ikke opprette peker."
 
 #, fuzzy
-msgid "Printout"
-msgstr "Utskrift"
-
-#, fuzzy
 msgid "&See details"
 msgstr "&detaljer"
 
@@ -110,10 +116,6 @@ msgstr "&Tabell"
 #, fuzzy
 msgid "Object Properties"
 msgstr "&Egenskaper"
-
-#, fuzzy
-msgid "Printing"
-msgstr "Skriver ut"
 
 msgid "Symbols"
 msgstr "Symboler"
@@ -4483,7 +4485,9 @@ msgstr "Om mulig forsøk å endre parametrene for å gjøre utskriften smalere."
 msgid ": file does not exist!"
 msgstr ": filen eksisterer ikke!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr "Forhåndsvisning"
 
 msgid ""
@@ -6375,6 +6379,9 @@ msgstr "Skriftpunktstørrelse"
 
 msgid "Units for the bottom padding."
 msgstr "Enheter for polstring på bunnen."
+
+msgid " Preview"
+msgstr "Forhåndsvisning"
 
 msgid "Floating"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2003-07-22 11:31+0100\n"
 "Last-Translator: Robert Millan <rmh@aybabtu.com>\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -28,6 +28,16 @@ msgstr "Temps estimat:"
 #, fuzzy
 msgid "Remaining time:"
 msgstr "Temps restant :"
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "Imprimix"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "S'està imprimint"
 
 msgid "Yes"
 msgstr "Sí"
@@ -76,10 +86,6 @@ msgid "Unable to create I/O completion port"
 msgstr "No s'ha pogut crear una barra d'estat."
 
 #, fuzzy
-msgid "Printout"
-msgstr "Imprimix"
-
-#, fuzzy
 msgid "&See details"
 msgstr "&Detalls"
 
@@ -104,10 +110,6 @@ msgstr ""
 #, fuzzy
 msgid "Object Properties"
 msgstr "&Previ"
-
-#, fuzzy
-msgid "Printing"
-msgstr "S'està imprimint"
 
 #, fuzzy
 msgid "Symbols"
@@ -4563,7 +4565,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": fitxer no existix!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Previsualitza"
 
 msgid ""
@@ -6469,6 +6473,9 @@ msgstr "Grandària de la font:"
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Previsualitza"
 
 msgid "Floating"
 msgstr ""

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2014-03-07 16:07+0100\n"
 "Last-Translator: Alfredo <.>\n"
 "Language-Team: Portuguese <opensuse-pt@opensuse.org>\n"
@@ -35,6 +35,14 @@ msgstr "Tempo estimado: "
 #, fuzzy
 msgid "Remaining time:"
 msgstr "Tempo restante : "
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Impressão"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "A Imprimir  ..."
 
 msgid "Yes"
 msgstr "Sim"
@@ -82,9 +90,6 @@ msgstr ""
 msgid "Unable to create I/O completion port"
 msgstr "Não foi possível criar TextEncodingConverter"
 
-msgid "Printout"
-msgstr "Impressão"
-
 msgid "&See details"
 msgstr "&Ver Detalhes"
 
@@ -107,9 +112,6 @@ msgstr "&Tabela"
 #, fuzzy
 msgid "Object Properties"
 msgstr "&Propriedades do Objeto"
-
-msgid "Printing"
-msgstr "A Imprimir  ..."
 
 msgid "Symbols"
 msgstr "Símbolos"
@@ -4423,7 +4425,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": ficheiro inexistente!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Antevisão"
 
 msgid ""
@@ -6321,6 +6325,9 @@ msgstr "O tamanho do ponto da fonte."
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Antevisão"
 
 #, fuzzy
 msgid "Floating"

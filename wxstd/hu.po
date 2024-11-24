@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2009-07-26 20:12+0100\n"
 "Last-Translator: Oaron <oaron1@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -28,6 +28,16 @@ msgstr "A becsült idő : "
 #, fuzzy
 msgid "Remaining time:"
 msgstr "A hátralevő idő : "
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "Nyomtatás"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "Nyomtatás"
 
 msgid "Yes"
 msgstr "Igen"
@@ -76,10 +86,6 @@ msgid "Unable to create I/O completion port"
 msgstr "Nem sikerült lérehozni egér mutatót."
 
 #, fuzzy
-msgid "Printout"
-msgstr "Nyomtatás"
-
-#, fuzzy
 msgid "&See details"
 msgstr "&Részletek"
 
@@ -104,10 +110,6 @@ msgstr ""
 #, fuzzy
 msgid "Object Properties"
 msgstr "&Tulajdonságok"
-
-#, fuzzy
-msgid "Printing"
-msgstr "Nyomtatás"
 
 #, fuzzy
 msgid "Symbols"
@@ -4465,7 +4467,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": a file nem létezik!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Nyomtatási előkép"
 
 msgid ""
@@ -6390,6 +6394,9 @@ msgstr "A jelkészlet mérete."
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Nyomtatási előkép"
 
 msgid "Floating"
 msgstr ""

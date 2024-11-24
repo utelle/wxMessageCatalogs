@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2013-11-04 10:21+0200\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: translate-discuss-af@lists.sourceforge.net\n"
@@ -29,6 +29,16 @@ msgstr "Geskatte tyd:"
 
 msgid "Remaining time:"
 msgstr "Oorblywende tyd:"
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "Druk"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "Besig met drukwerk"
 
 msgid "Yes"
 msgstr "Ja"
@@ -76,10 +86,6 @@ msgstr ""
 msgid "Unable to create I/O completion port"
 msgstr "Wyser kon nie geskep word nie."
 
-#, fuzzy
-msgid "Printout"
-msgstr "Druk"
-
 msgid "&See details"
 msgstr "&Wys besonderhede"
 
@@ -100,10 +106,6 @@ msgstr "&Tabel"
 
 msgid "Object Properties"
 msgstr "Objek-eienskappe"
-
-#, fuzzy
-msgid "Printing"
-msgstr "Besig met drukwerk"
 
 msgid "Symbols"
 msgstr "Simbole"
@@ -4396,7 +4398,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": lêer bestaan nie!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Voorskou"
 
 msgid ""
@@ -6253,6 +6257,9 @@ msgstr "fontgrootte"
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Voorskou"
 
 msgid "Floating"
 msgstr ""

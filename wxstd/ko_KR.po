@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2009-04-23 18:29+0900\n"
 "Last-Translator: 정성기 <dragoneyes.org@gmail.com>\n"
 "Language-Team: Korean <Korean>\n"
@@ -28,6 +28,16 @@ msgstr "예상 시간:"
 
 msgid "Remaining time:"
 msgstr "남은 시간:"
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "인쇄"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "인쇄중"
 
 msgid "Yes"
 msgstr "예"
@@ -76,10 +86,6 @@ msgid "Unable to create I/O completion port"
 msgstr "Epoll 디스크립터 생성을 실패했습니다."
 
 #, fuzzy
-msgid "Printout"
-msgstr "인쇄"
-
-#, fuzzy
 msgid "&See details"
 msgstr "자세히(&D)"
 
@@ -105,10 +111,6 @@ msgstr "탭"
 #, fuzzy
 msgid "Object Properties"
 msgstr "특성(&P)"
-
-#, fuzzy
-msgid "Printing"
-msgstr "인쇄중"
 
 msgid "Symbols"
 msgstr "기호"
@@ -4413,7 +4415,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": 파일이 존재하지 않습니다!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " 미리보기"
 
 msgid ""
@@ -6301,6 +6305,9 @@ msgstr "글꼴 크기"
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " 미리보기"
 
 msgid "Floating"
 msgstr ""

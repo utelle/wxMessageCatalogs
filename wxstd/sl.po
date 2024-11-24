@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2023-09-14 22:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Martin Srebotnjak <miles@filmsi.net>\n"
@@ -31,6 +31,18 @@ msgstr "Predviden čas:"
 
 msgid "Remaining time:"
 msgstr "Preostali čas:"
+
+# generic/prntdlgg.cpp:113
+# generic/prntdlgg.cpp:127
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Izpis"
+
+# common/prntbase.cpp:106
+# common/prntbase.cpp:148
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Tiskanje poteka"
 
 # common/dlgcmn.cpp:109
 # common/dlgcmn.cpp:116
@@ -110,11 +122,6 @@ msgstr "Paketa dokončanja ni mogoče postaviti iz vrste"
 msgid "Unable to create I/O completion port"
 msgstr "Ni mogoče ustvariti ročice vrat dokončanja V/I."
 
-# generic/prntdlgg.cpp:113
-# generic/prntdlgg.cpp:127
-msgid "Printout"
-msgstr "Izpis"
-
 msgid "&See details"
 msgstr "&Pokaži podrobnosti"
 
@@ -148,11 +155,6 @@ msgstr "&Tabela"
 # html/helpfrm.cpp:512
 msgid "Object Properties"
 msgstr "Lastnosti predmeta"
-
-# common/prntbase.cpp:106
-# common/prntbase.cpp:148
-msgid "Printing"
-msgstr "Tiskanje poteka"
 
 msgid "Symbols"
 msgstr "Simboli"
@@ -5219,7 +5221,9 @@ msgid ": file does not exist!"
 msgstr ": datoteka ne obstaja!"
 
 # html/htmprint.cpp:490
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Predogled"
 
 msgid ""
@@ -7289,6 +7293,10 @@ msgstr "Velikost zapolnjevanja na dnu."
 
 msgid "Units for the bottom padding."
 msgstr "Enote za zapolnjevanje ne dnu."
+
+# html/htmprint.cpp:490
+msgid " Preview"
+msgstr " Predogled"
 
 msgid "Floating"
 msgstr "Plavajoče"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2015-07-09 11:22+0200\n"
 "Last-Translator: Andrius <andrius.balsevicius@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
@@ -25,6 +25,14 @@ msgid "Estimated time:"
 msgstr ""
 
 msgid "Remaining time:"
+msgstr ""
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr ""
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
 msgstr ""
 
 msgid "Yes"
@@ -71,9 +79,6 @@ msgstr ""
 msgid "Unable to create I/O completion port"
 msgstr ""
 
-msgid "Printout"
-msgstr ""
-
 msgid "&See details"
 msgstr ""
 
@@ -94,9 +99,6 @@ msgstr ""
 
 msgid "Object Properties"
 msgstr "Objektų savybs"
-
-msgid "Printing"
-msgstr ""
 
 msgid "Symbols"
 msgstr "Simbolis"
@@ -4236,7 +4238,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ""
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Peržiūra"
 
 msgid ""
@@ -5999,6 +6003,9 @@ msgstr ""
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Peržiūra"
 
 msgid "Floating"
 msgstr "Plaukiojantis"

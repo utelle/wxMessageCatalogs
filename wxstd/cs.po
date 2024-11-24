@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2023-02-07 21:59+0100\n"
 "Last-Translator: PB <pbfordev@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -29,6 +29,14 @@ msgstr "Odhadovaný čas:"
 
 msgid "Remaining time:"
 msgstr "Zbývající čas:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Výtisk"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Tisk"
 
 msgid "Yes"
 msgstr "Ano"
@@ -74,9 +82,6 @@ msgstr "Paket dokončení nelze vyřadit z fronty"
 msgid "Unable to create I/O completion port"
 msgstr "Nelze vytvořit I/O port dokončení."
 
-msgid "Printout"
-msgstr "Výtisk"
-
 msgid "&See details"
 msgstr "&Zobrazit podrobnosti"
 
@@ -97,9 +102,6 @@ msgstr "&Tabulka"
 
 msgid "Object Properties"
 msgstr "Vlastnosti objektu"
-
-msgid "Printing"
-msgstr "Tisk"
 
 msgid "Symbols"
 msgstr "Symboly"
@@ -4299,7 +4301,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": soubor neexistuje!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Náhled"
 
 msgid ""
@@ -6080,6 +6084,9 @@ msgstr "Velikost vnitřního okraje dole."
 
 msgid "Units for the bottom padding."
 msgstr "Jednotky pro vnitřní okraj dole."
+
+msgid " Preview"
+msgstr " Náhled"
 
 msgid "Floating"
 msgstr "Obtékání"

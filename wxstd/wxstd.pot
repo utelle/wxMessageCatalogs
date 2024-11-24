@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,6 +31,14 @@ msgid "Estimated time:"
 msgstr ""
 
 msgid "Remaining time:"
+msgstr ""
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr ""
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
 msgstr ""
 
 msgid "Yes"
@@ -77,9 +85,6 @@ msgstr ""
 msgid "Unable to create I/O completion port"
 msgstr ""
 
-msgid "Printout"
-msgstr ""
-
 msgid "&See details"
 msgstr ""
 
@@ -99,9 +104,6 @@ msgid "&Table"
 msgstr ""
 
 msgid "Object Properties"
-msgstr ""
-
-msgid "Printing"
 msgstr ""
 
 msgid "Symbols"
@@ -4228,7 +4230,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ""
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, c-format
+msgid "%s Preview"
 msgstr ""
 
 msgid ""
@@ -5976,6 +5980,9 @@ msgid "The bottom padding size."
 msgstr ""
 
 msgid "Units for the bottom padding."
+msgstr ""
+
+msgid " Preview"
 msgstr ""
 
 msgid "Floating"

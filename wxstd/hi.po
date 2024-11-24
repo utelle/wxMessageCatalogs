@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2008-07-28 23:09+0530\n"
 "Last-Translator: Priyank Bolia <priyank.bolia@gmail.com>\n"
 "Language-Team: हिन्दी (Hindi) <dysxhi@yahoo.co.in>\n"
@@ -37,6 +37,16 @@ msgstr "अनुमानित समय : "
 #, fuzzy
 msgid "Remaining time:"
 msgstr "शेष समय : "
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "मुद्रण"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "मुद्रण हो रहा है "
 
 msgid "Yes"
 msgstr "हाँ"
@@ -85,10 +95,6 @@ msgid "Unable to create I/O completion port"
 msgstr "एमडीआई मूल खाके का निर्माण करने में असफ़ल।"
 
 #, fuzzy
-msgid "Printout"
-msgstr "मुद्रण"
-
-#, fuzzy
 msgid "&See details"
 msgstr "विवरण (&D)"
 
@@ -114,10 +120,6 @@ msgstr "टेब्स"
 #, fuzzy
 msgid "Object Properties"
 msgstr "गुणधर्म (&P)"
-
-#, fuzzy
-msgid "Printing"
-msgstr "मुद्रण हो रहा है "
 
 msgid "Symbols"
 msgstr "प्रतीकों"
@@ -4473,7 +4475,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": फ़ाइल विद्यमान नहीं है! "
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " पूर्वालोकन"
 
 msgid ""
@@ -6360,6 +6364,9 @@ msgstr "फ़ॉन्ट बिन्दु का आकार।"
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " पूर्वालोकन"
 
 msgid "Floating"
 msgstr ""

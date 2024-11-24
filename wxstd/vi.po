@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2014-03-30 09:14+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
@@ -32,6 +32,14 @@ msgstr "Thời gian ước tính:"
 
 msgid "Remaining time:"
 msgstr "Thời gian còn lại:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Dữ liệu in"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "In ấn"
 
 msgid "Yes"
 msgstr "Đồng ý"
@@ -77,9 +85,6 @@ msgstr "Không thể tạo rút ra từ hàng đợi"
 msgid "Unable to create I/O completion port"
 msgstr "Không thể tạo handle cổng Vào/Ra"
 
-msgid "Printout"
-msgstr "Dữ liệu in"
-
 msgid "&See details"
 msgstr "&Xem chi tiết"
 
@@ -100,9 +105,6 @@ msgstr "&Bảng"
 
 msgid "Object Properties"
 msgstr "Thuộc tính Đối tượng"
-
-msgid "Printing"
-msgstr "In ấn"
 
 msgid "Symbols"
 msgstr "Ký tự đặc biệt"
@@ -4364,7 +4366,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": tập tin không tồn tại!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Xem trước"
 
 msgid ""
@@ -6200,6 +6204,9 @@ msgstr "Kích thước đệm dưới đáy."
 
 msgid "Units for the bottom padding."
 msgstr "Đơn vị cho đệm đáy."
+
+msgid " Preview"
+msgstr " Xem trước"
 
 msgid "Floating"
 msgstr "Trôi nổi"

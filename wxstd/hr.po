@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2023-05-14 14:24+0200\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: \n"
@@ -33,6 +33,14 @@ msgstr "Procijenjeno vrijeme:"
 
 msgid "Remaining time:"
 msgstr "Preostalo vrijeme:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Ispis"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Ispisivanje"
 
 msgid "Yes"
 msgstr "Da"
@@ -78,9 +86,6 @@ msgstr "Nije moguće odraditi dequeue za završni paket"
 msgid "Unable to create I/O completion port"
 msgstr "Nije moguće stvoriti završni priključak ulaza/izlaza"
 
-msgid "Printout"
-msgstr "Ispis"
-
 msgid "&See details"
 msgstr "&Prikaži detalje"
 
@@ -101,9 +106,6 @@ msgstr "&Tablica"
 
 msgid "Object Properties"
 msgstr "Svojstva objekta"
-
-msgid "Printing"
-msgstr "Ispisivanje"
 
 msgid "Symbols"
 msgstr "Simboli"
@@ -4323,7 +4325,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": datoteka ne postoji!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Pregled"
 
 msgid ""
@@ -6114,6 +6118,9 @@ msgstr "Veličina donjeg odmaka."
 
 msgid "Units for the bottom padding."
 msgstr "Jedinice za debljinu donjeg odmaka."
+
+msgid " Preview"
+msgstr " Pregled"
 
 msgid "Floating"
 msgstr "Lebdeći"

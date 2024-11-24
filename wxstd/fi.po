@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2023-02-02 22:04+0200\n"
 "Last-Translator: Lauri Nurmi <lanurmi@iki.fi>\n"
 "Language-Team: \n"
@@ -36,6 +36,16 @@ msgstr "Arvioitu aika:"
 
 msgid "Remaining time:"
 msgstr "Jäljellä oleva aika:"
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "Tulosta"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "Tulostetaan "
 
 msgid "Yes"
 msgstr "Kyllä"
@@ -83,10 +93,6 @@ msgstr ""
 msgid "Unable to create I/O completion port"
 msgstr "Osoittimen luonti epäonnistui."
 
-#, fuzzy
-msgid "Printout"
-msgstr "Tulosta"
-
 msgid "&See details"
 msgstr "&Tiedot"
 
@@ -109,10 +115,6 @@ msgstr "&Taulukko"
 #, fuzzy
 msgid "Object Properties"
 msgstr "&Ominaisuudet"
-
-#, fuzzy
-msgid "Printing"
-msgstr "Tulostetaan "
 
 msgid "Symbols"
 msgstr "Symbolit"
@@ -4440,7 +4442,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": tiedostoa ei ole!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Esikatselu"
 
 msgid ""
@@ -6323,6 +6327,9 @@ msgstr "Kirjasinkoko."
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Esikatselu"
 
 msgid "Floating"
 msgstr "Liukuva"

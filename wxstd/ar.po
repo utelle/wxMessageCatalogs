@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2012-03-22 18:41+0200\n"
 "Last-Translator: Fatma Mehanna <fatma.mehanna@gmail.com>\n"
 "Language-Team: arabictranslationteam@googlegroups.com\n"
@@ -35,6 +35,16 @@ msgstr "الوقت التقديري:"
 #, fuzzy
 msgid "Remaining time:"
 msgstr "الوقت المتبقي:"
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "طابعة"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "طبع"
 
 msgid "Yes"
 msgstr "نعم"
@@ -81,10 +91,6 @@ msgid "Unable to create I/O completion port"
 msgstr ""
 
 #, fuzzy
-msgid "Printout"
-msgstr "طابعة"
-
-#, fuzzy
 msgid "&See details"
 msgstr "&تفاصيل"
 
@@ -109,10 +115,6 @@ msgstr ""
 #, fuzzy
 msgid "Object Properties"
 msgstr "خيارات الطباعة"
-
-#, fuzzy
-msgid "Printing"
-msgstr "طبع"
 
 msgid "Symbols"
 msgstr "رموز"
@@ -4370,7 +4372,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": الملف غير موجود!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr "معاينة"
 
 msgid ""
@@ -6208,6 +6212,9 @@ msgstr ""
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr "معاينة"
 
 msgid "Floating"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2015-05-09 20:03+0545\n"
 "Last-Translator: drishtibachak@gmail.com\n"
 "Language-Team: Him Prasad Gautam <himjee@yahoo.com>\n"
@@ -29,6 +29,14 @@ msgstr "अनुमानित समय:"
 
 msgid "Remaining time:"
 msgstr "बांकि समय:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "छापिएका पानाहरू"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "छाप्ने काम हुँदैछ ।"
 
 msgid "Yes"
 msgstr "हो"
@@ -74,9 +82,6 @@ msgstr "completion packet लाई छरपस्ट गर्न सकिए
 msgid "Unable to create I/O completion port"
 msgstr "I/O completion port लाई सिर्जना गर्न सकिएन ।"
 
-msgid "Printout"
-msgstr "छापिएका पानाहरू"
-
 msgid "&See details"
 msgstr "&विस्तृत अवलोकन"
 
@@ -97,9 +102,6 @@ msgstr "&तालिका"
 
 msgid "Object Properties"
 msgstr "वस्तु गुणहरू"
-
-msgid "Printing"
-msgstr "छाप्ने काम हुँदैछ ।"
 
 msgid "Symbols"
 msgstr "चिन्ह"
@@ -4307,7 +4309,9 @@ msgstr "छाप्ने सामाग्री लाइ खाँद्न
 msgid ": file does not exist!"
 msgstr ": फाइल छैन ।"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr "चेहरा"
 
 msgid ""
@@ -6137,6 +6141,9 @@ msgstr "पुछार ख्रेस्रा को आकार"
 
 msgid "Units for the bottom padding."
 msgstr "पुछार ख्रेस्रा को एकाइ"
+
+msgid " Preview"
+msgstr "चेहरा"
 
 msgid "Floating"
 msgstr "तैरि रहेको"

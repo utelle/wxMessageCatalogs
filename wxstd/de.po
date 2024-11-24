@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.3.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2023-02-06 17:46+0100\n"
 "Last-Translator: Ulrich Telle <ulrich@telle-online.eu>\n"
 "Language-Team: wxWidgets Team <wx-dev@wxwidgets.org>\n"
@@ -35,6 +35,14 @@ msgstr "Geschätzte Zeit:"
 
 msgid "Remaining time:"
 msgstr "Verbleibende Zeit:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Ausdruck"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Drucken"
 
 msgid "Yes"
 msgstr "Ja"
@@ -80,9 +88,6 @@ msgstr "Nicht möglich das Komplettierungspaket aufzulösen"
 msgid "Unable to create I/O completion port"
 msgstr "Der I/O-Completion-Port konnte nicht erstellt werden"
 
-msgid "Printout"
-msgstr "Ausdruck"
-
 msgid "&See details"
 msgstr "&Einzelheiten anzeigen"
 
@@ -103,9 +108,6 @@ msgstr "&Tabelle"
 
 msgid "Object Properties"
 msgstr "Objekteigenschaften"
-
-msgid "Printing"
-msgstr "Drucken"
 
 msgid "Symbols"
 msgstr "Symbole"
@@ -4363,7 +4365,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": Datei existiert nicht!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Vorschau"
 
 msgid ""
@@ -6209,6 +6213,9 @@ msgstr "Die untere Auffüllung."
 
 msgid "Units for the bottom padding."
 msgstr "Einheiten für die untere Auffüllung."
+
+msgid " Preview"
+msgstr " Vorschau"
 
 msgid "Floating"
 msgstr "Schwebend"

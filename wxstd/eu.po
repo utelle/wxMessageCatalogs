@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2015-07-18 21:39+0200\n"
 "Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
 "Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
@@ -28,6 +28,14 @@ msgstr "Ustezko denbora:"
 
 msgid "Remaining time:"
 msgstr "Gelditzen den denbora:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Irarketa"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Irarkitzen"
 
 msgid "Yes"
 msgstr "Bai"
@@ -73,9 +81,6 @@ msgstr "Ezinezkoa osaketa paketea deslerrotzea"
 msgid "Unable to create I/O completion port"
 msgstr "Ezinezkoa Sar/Irt osaketa ataka sortzea"
 
-msgid "Printout"
-msgstr "Irarketa"
-
 msgid "&See details"
 msgstr "&Ikusi xehetasunak"
 
@@ -96,9 +101,6 @@ msgstr "&Taula"
 
 msgid "Object Properties"
 msgstr "Objetu Ezaugarriak"
-
-msgid "Printing"
-msgstr "Irarkitzen"
 
 msgid "Symbols"
 msgstr "Sinboloak"
@@ -4328,7 +4330,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": agiria ez dago!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Aurreikuspena"
 
 msgid ""
@@ -6155,6 +6159,9 @@ msgstr "Beheko betegarri neurria."
 
 msgid "Units for the bottom padding."
 msgstr "Beheko betegarriarentzako unitateak."
+
+msgid " Preview"
+msgstr " Aurreikuspena"
 
 msgid "Floating"
 msgstr "Gain"

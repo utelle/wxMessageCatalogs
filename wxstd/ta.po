@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2022-04-14 12:56+0530\n"
 "Last-Translator: DINAKAR T.D. <td.dinkar@gmail.com>\n"
 "Language-Team: DINAKAR T.D. <td.dinkar@gmail.com>\n"
@@ -27,6 +27,14 @@ msgstr "கணக்கிடப்பட்ட நேரம்"
 
 msgid "Remaining time:"
 msgstr "எஞ்சியுள்ள நேரம்"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "அச்செடுப்பு"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "அச்சிடப்படுகிறது"
 
 msgid "Yes"
 msgstr "ஆம்"
@@ -73,9 +81,6 @@ msgstr "முழுமையடைந்த பொதியை dequeue செ�
 msgid "Unable to create I/O completion port"
 msgstr "உள்ளீடு/வெளியீடு முழுமையடைதலின் நுழைவாயிலை உருவாக்க இயலவில்லை"
 
-msgid "Printout"
-msgstr "அச்செடுப்பு"
-
 msgid "&See details"
 msgstr "விவரங்களைக் காண்க (&S)"
 
@@ -96,9 +101,6 @@ msgstr "அட்டவணை (&T)"
 
 msgid "Object Properties"
 msgstr "பொருள் பண்புகள்"
-
-msgid "Printing"
-msgstr "அச்சிடப்படுகிறது"
 
 msgid "Symbols"
 msgstr "குறியெழுத்துகள்"
@@ -4306,7 +4308,9 @@ msgstr "இயன்றால், அச்சிடுதலை குறுக
 msgid ": file does not exist!"
 msgstr "கோப்பு கிடைப்பில் இல்லை!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr "முன்தோற்றம்"
 
 msgid ""
@@ -6126,6 +6130,9 @@ msgstr "கீழ் எழுத்து திணிமத்தின் அ
 
 msgid "Units for the bottom padding."
 msgstr "கீழ் எழுத்து திணிமத்தின் தொகுதிகள்."
+
+msgid " Preview"
+msgstr "முன்தோற்றம்"
 
 msgid "Floating"
 msgstr "மிதக்கின்ற"

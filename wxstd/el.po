@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2005-02-16 09:03+0200\n"
 "Last-Translator: InterZone <info@interzone.gr>\n"
 "Language-Team: Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos "
@@ -29,6 +29,16 @@ msgstr "Υπολογισθείς χρόνος : "
 #, fuzzy
 msgid "Remaining time:"
 msgstr "Xρόνος που απομένει : "
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "Εκτύπωση"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "Γίνεται εκτύπωση του "
 
 msgid "Yes"
 msgstr "Ναι"
@@ -77,10 +87,6 @@ msgid "Unable to create I/O completion port"
 msgstr "Αποτυχία δημιουργίας δείκτη."
 
 #, fuzzy
-msgid "Printout"
-msgstr "Εκτύπωση"
-
-#, fuzzy
 msgid "&See details"
 msgstr "&Λεπτομέρειες"
 
@@ -105,10 +111,6 @@ msgstr ""
 #, fuzzy
 msgid "Object Properties"
 msgstr "&Ιδιότητες"
-
-#, fuzzy
-msgid "Printing"
-msgstr "Γίνεται εκτύπωση του "
 
 #, fuzzy
 msgid "Symbols"
@@ -4521,7 +4523,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": το αρχείο δεν υπάρχει!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Προεπισκόπηση"
 
 msgid ""
@@ -6490,6 +6494,9 @@ msgstr "Το μέγεθος κουκίδας γραμματοσειράς"
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Προεπισκόπηση"
 
 msgid "Floating"
 msgstr ""

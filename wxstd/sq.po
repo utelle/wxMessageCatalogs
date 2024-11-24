@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2024-01-17 09:33+0200\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: <wx-translators@wxwidgets.org>\n"
@@ -28,6 +28,14 @@ msgstr "Kohë përafërsisht:"
 
 msgid "Remaining time:"
 msgstr "Kohë e mbetur:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr ""
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Po shtypet"
 
 msgid "Yes"
 msgstr "Po"
@@ -73,9 +81,6 @@ msgstr ""
 msgid "Unable to create I/O completion port"
 msgstr "S’arrihet të krijohet portë plotësimi I/O"
 
-msgid "Printout"
-msgstr ""
-
 msgid "&See details"
 msgstr "&Shihni hollësi"
 
@@ -96,9 +101,6 @@ msgstr "&Tabelë"
 
 msgid "Object Properties"
 msgstr "Veti Objekti"
-
-msgid "Printing"
-msgstr "Po shtypet"
 
 msgid "Symbols"
 msgstr "Simbole"
@@ -4321,7 +4323,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": kartela s’ekziston!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Paraparje"
 
 msgid ""
@@ -6110,6 +6114,9 @@ msgstr "Madhësia e mbushjes së poshthme."
 
 msgid "Units for the bottom padding."
 msgstr "Njësi për mbushjen poshtë."
+
+msgid " Preview"
+msgstr " Paraparje"
 
 msgid "Floating"
 msgstr "Pezull"

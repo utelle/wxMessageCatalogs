@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Cătălin Răceanu <cata_sr@yahoo.com>\n"
 "Language-Team: ro.ro\n"
@@ -30,6 +30,14 @@ msgstr "Timp estimat:"
 
 msgid "Remaining time:"
 msgstr "Timp rămas:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Tipărire"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Tipărește"
 
 msgid "Yes"
 msgstr "Da"
@@ -75,9 +83,6 @@ msgstr "Pachetul de completare nu poate fi eliminat"
 msgid "Unable to create I/O completion port"
 msgstr "Nu se poate crea portul I/O de completare"
 
-msgid "Printout"
-msgstr "Tipărire"
-
 msgid "&See details"
 msgstr "&Vezi detalii"
 
@@ -98,9 +103,6 @@ msgstr "&Tabela"
 
 msgid "Object Properties"
 msgstr "Proprietăți Obiect"
-
-msgid "Printing"
-msgstr "Tipărește"
 
 msgid "Symbols"
 msgstr "Simboluri"
@@ -4337,7 +4339,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": fișierul nu există!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Previzualizare"
 
 msgid ""
@@ -6141,6 +6145,9 @@ msgstr "Dimensiunea spaCierii inferioare."
 
 msgid "Units for the bottom padding."
 msgstr "Unități pentru spațierea inferioară."
+
+msgid " Preview"
+msgstr " Previzualizare"
 
 msgid "Floating"
 msgstr "În mișcare"

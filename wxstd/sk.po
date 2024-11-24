@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2020-10-19 12:24+0200\n"
 "Last-Translator: Jozef Matta <jozef.m923@gmail.com>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -33,6 +33,14 @@ msgstr "Odhadovaný čas:"
 
 msgid "Remaining time:"
 msgstr "Zostávajúci čas:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Vytlačiť"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Tlačí sa"
 
 msgid "Yes"
 msgstr "Áno"
@@ -78,9 +86,6 @@ msgstr "Nemožno vyradiť paket"
 msgid "Unable to create I/O completion port"
 msgstr "Nemožno vytvoriť port dokončenia I/O"
 
-msgid "Printout"
-msgstr "Vytlačiť"
-
 msgid "&See details"
 msgstr "&Pozrieť detaily"
 
@@ -101,9 +106,6 @@ msgstr "&Karta"
 
 msgid "Object Properties"
 msgstr "Vlastnosti objektu"
-
-msgid "Printing"
-msgstr "Tlačí sa"
 
 msgid "Symbols"
 msgstr "Symboly"
@@ -4324,7 +4326,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": súbor neexistuje!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Náhľad"
 
 msgid ""
@@ -6149,6 +6153,9 @@ msgstr "Veľkosť spodného priestoru výplne."
 
 msgid "Units for the bottom padding."
 msgstr "Jednotky pre spodný priestor výplne."
+
+msgid " Preview"
+msgstr " Náhľad"
 
 msgid "Floating"
 msgstr "Plávajúce"

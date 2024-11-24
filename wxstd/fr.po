@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2022-04-10 12:52+0200\n"
 "Last-Translator: Gérard DURAND <gerard-florence.durand@orange.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -30,6 +30,14 @@ msgstr "Temps estimé :"
 
 msgid "Remaining time:"
 msgstr "Temps restant :"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Impression"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Impression"
 
 msgid "Yes"
 msgstr "Oui"
@@ -76,9 +84,6 @@ msgstr "Impossible d'extraire de la file d'attente le paquet de terminaison"
 msgid "Unable to create I/O completion port"
 msgstr "Impossible de créer un port de terminaison d'E/S"
 
-msgid "Printout"
-msgstr "Impression"
-
 msgid "&See details"
 msgstr "Voir les détail&s"
 
@@ -99,9 +104,6 @@ msgstr "&Table"
 
 msgid "Object Properties"
 msgstr "Propriétés de l'Objet"
-
-msgid "Printing"
-msgstr "Impression"
 
 msgid "Symbols"
 msgstr "Symboles"
@@ -4350,7 +4352,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": le fichier n'existe pas !"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Aperçu"
 
 msgid ""
@@ -6186,6 +6190,9 @@ msgstr "La taille de l'espacement inférieur."
 
 msgid "Units for the bottom padding."
 msgstr "Unités pour l'espacement inférieur."
+
+msgid " Preview"
+msgstr " Aperçu"
 
 msgid "Floating"
 msgstr "Flottant"

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wxWidgets revised 09.02.2023 by bovirus\n"
+"Project-Id-Version: wxWidgets revised 31.10.2024 by bovirus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
-"PO-Revision-Date: 2023-02-09 19:31+0100\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
+"PO-Revision-Date: 2024-10-31 10:00+0100\n"
 "Last-Translator: bovirus <bovirus@gmail.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@googlegroups.com>\n"
 "Language: it\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "All files (*.*)|*.*"
@@ -28,6 +28,14 @@ msgstr "Tempo stimato:"
 
 msgid "Remaining time:"
 msgstr "Tempo rimanente :"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Stampa"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Stampa"
 
 msgid "Yes"
 msgstr "Si"
@@ -73,9 +81,6 @@ msgstr "Impossibile eliminare dalla coda pacchetto completamento"
 msgid "Unable to create I/O completion port"
 msgstr "Impossibile creare porta completamento I/O"
 
-msgid "Printout"
-msgstr "Stampa"
-
 msgid "&See details"
 msgstr "&Visualizza dettagli"
 
@@ -96,9 +101,6 @@ msgstr "&Tabella"
 
 msgid "Object Properties"
 msgstr "Proprietà oggetto"
-
-msgid "Printing"
-msgstr "Stampa"
 
 msgid "Symbols"
 msgstr "Simboli"
@@ -3971,7 +3973,7 @@ msgid ""
 "Using private fonts is not supported on this system: Pango library is too "
 "old, 1.38 or later required."
 msgstr ""
-"L'uso di font private ​non è supportato in questo sistema: la libreria Pango "
+"L'uso di font private non è supportato in questo sistema: la libreria Pango "
 "è troppo vecchia, è richiesta la versione 1.38 o successiva."
 
 msgid "Failed to create font configuration object."
@@ -4348,7 +4350,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": il file non esiste!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Anteprima"
 
 msgid ""
@@ -6165,6 +6169,9 @@ msgstr "La dimensione del riempimento inferiore."
 
 msgid "Units for the bottom padding."
 msgstr "Unità riempimento superiore."
+
+msgid " Preview"
+msgstr " Anteprima"
 
 msgid "Floating"
 msgstr "Flottuante"

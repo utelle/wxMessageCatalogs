@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2020-06-26 21:31+0700\n"
 "Last-Translator: Hertatijanto Hartono <dvertx@gmail.com>\n"
 "Language-Team: ID <doplank@gmx.com>\n"
@@ -30,6 +30,14 @@ msgstr "Waktu perkiraan:"
 
 msgid "Remaining time:"
 msgstr "Waktu tersisa:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Hasil cetakan"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Mencetak"
 
 msgid "Yes"
 msgstr "Ya"
@@ -75,9 +83,6 @@ msgstr "Gagal men-dequeue paket penyelesaian"
 msgid "Unable to create I/O completion port"
 msgstr "Gagal membuat penyelesaian port I/O"
 
-msgid "Printout"
-msgstr "Hasil cetakan"
-
 msgid "&See details"
 msgstr "&Lihat detail"
 
@@ -98,9 +103,6 @@ msgstr "&Tabel"
 
 msgid "Object Properties"
 msgstr "Properti Obyek"
-
-msgid "Printing"
-msgstr "Mencetak"
 
 msgid "Symbols"
 msgstr "Simbol"
@@ -4323,7 +4325,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": berkas tidak ada!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Pratinjau"
 
 msgid ""
@@ -6145,6 +6149,9 @@ msgstr "Ukuran padding bawah."
 
 msgid "Units for the bottom padding."
 msgstr "Unit untuk padding bawah."
+
+msgid " Preview"
+msgstr " Pratinjau"
 
 msgid "Floating"
 msgstr "Mengambang"

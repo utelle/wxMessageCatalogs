@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2014-06-04 16:19+1200\n"
 "Last-Translator: Mariusz Drozdowski <schemedit@wp.pl>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -28,6 +28,14 @@ msgstr "Szacowany czas:"
 
 msgid "Remaining time:"
 msgstr "Pozostały czas:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Wydruk"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Drukowanie"
 
 msgid "Yes"
 msgstr "Tak"
@@ -75,9 +83,6 @@ msgstr "Nie można odkolejkować pakietu zakończenia"
 msgid "Unable to create I/O completion port"
 msgstr "Nie można utworzyć portu zakończenia I/O."
 
-msgid "Printout"
-msgstr "Wydruk"
-
 msgid "&See details"
 msgstr "&Zobacz szczegóły"
 
@@ -98,9 +103,6 @@ msgstr "&Tabela"
 
 msgid "Object Properties"
 msgstr "&Właściwości obiektu"
-
-msgid "Printing"
-msgstr "Drukowanie"
 
 msgid "Symbols"
 msgstr "Symbole"
@@ -4399,7 +4401,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": plik nie istnieje!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Podgląd"
 
 msgid ""
@@ -6255,6 +6259,9 @@ msgstr "Rozmiar dopełnienia na dole."
 
 msgid "Units for the bottom padding."
 msgstr "Jednostka dopełnienia od dołu."
+
+msgid " Preview"
+msgstr " Podgląd"
 
 msgid "Floating"
 msgstr "Pływający"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2014-04-13 17:41+0100\n"
 "Last-Translator: Jorge Pérez Pérez <jorgtum@gmail.com>\n"
 "Language-Team: softaragonés\n"
@@ -33,6 +33,14 @@ msgstr "Tiempo estimau:"
 
 msgid "Remaining time:"
 msgstr "Tiempo restant:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Impresión"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Imprentando"
 
 msgid "Yes"
 msgstr "Sí"
@@ -81,9 +89,6 @@ msgstr "No s'ha puesto sacar d'a coda o paquet de rematanza"
 msgid "Unable to create I/O completion port"
 msgstr "No s'ha puesto creyar o puerto de dentrada/salida de rematanza"
 
-msgid "Printout"
-msgstr "Impresión"
-
 msgid "&See details"
 msgstr "&Veyer os detalles"
 
@@ -104,9 +109,6 @@ msgstr "&Tabla"
 
 msgid "Object Properties"
 msgstr "Propiedatz d'obchecto"
-
-msgid "Printing"
-msgstr "Imprentando"
 
 msgid "Symbols"
 msgstr "Simbolos"
@@ -4403,7 +4405,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": o fichero no existe!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Anvista previa"
 
 msgid ""
@@ -6252,6 +6256,9 @@ msgstr "A grandaria d'o repleno inferior."
 
 msgid "Units for the bottom padding."
 msgstr "Unidatz ta lo repleno inferior."
+
+msgid " Preview"
+msgstr " Anvista previa"
 
 msgid "Floating"
 msgstr "Flotant"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2017-07-26 00:00+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish\n"
@@ -33,6 +33,14 @@ msgstr "Anslået tid:"
 
 msgid "Remaining time:"
 msgstr "Resterende tid:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Udskrift"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Udskriver"
 
 msgid "Yes"
 msgstr "Ja"
@@ -78,9 +86,6 @@ msgstr "Kunne ikke dequeue completion pakke"
 msgid "Unable to create I/O completion port"
 msgstr "Kunne ikke oprette I/O completion port"
 
-msgid "Printout"
-msgstr "Udskrift"
-
 msgid "&See details"
 msgstr "&Se detaljer"
 
@@ -101,9 +106,6 @@ msgstr "&Tabel"
 
 msgid "Object Properties"
 msgstr "Objektegenskaber"
-
-msgid "Printing"
-msgstr "Udskriver"
 
 msgid "Symbols"
 msgstr "Symboler"
@@ -4324,7 +4326,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": filen findes ikke!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Vis udskrift"
 
 msgid ""
@@ -6146,6 +6150,9 @@ msgstr "Størrelsen af den indre bundmargen."
 
 msgid "Units for the bottom padding."
 msgstr "Enheder for indre bundmargen."
+
+msgid " Preview"
+msgstr " Vis udskrift"
 
 msgid "Floating"
 msgstr "Flydende"

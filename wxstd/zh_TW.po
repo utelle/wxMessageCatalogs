@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2022-07-09 10:45+0800\n"
 "Last-Translator: James Pan <bojaypan@mail.ru>\n"
 "Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
@@ -36,6 +36,14 @@ msgstr "預計時間："
 
 msgid "Remaining time:"
 msgstr "剩餘時間："
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "列印"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "列印"
 
 msgid "Yes"
 msgstr "是"
@@ -82,9 +90,6 @@ msgstr "無法移出佇列完成封包"
 msgid "Unable to create I/O completion port"
 msgstr "無法創建 I/O 完成通訊埠"
 
-msgid "Printout"
-msgstr "列印"
-
 msgid "&See details"
 msgstr "查看細節(&S)"
 
@@ -105,9 +110,6 @@ msgstr "表格(&T)"
 
 msgid "Object Properties"
 msgstr "物件屬性"
-
-msgid "Printing"
-msgstr "列印"
 
 msgid "Symbols"
 msgstr "符號"
@@ -4285,7 +4287,9 @@ msgstr "儘量嘗試變更版面配置參數，讓列印輸出更窄。"
 msgid ": file does not exist!"
 msgstr ": 檔案不存在！"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " 預覽"
 
 msgid ""
@@ -6060,6 +6064,9 @@ msgstr "下內邊距。"
 
 msgid "Units for the bottom padding."
 msgstr "下內邊距單位。"
+
+msgid " Preview"
+msgstr " 預覽"
 
 msgid "Floating"
 msgstr "浮動"

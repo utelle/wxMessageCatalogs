@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2018-09-06 07:55+0500\n"
 "Last-Translator: Alexander Kovalenko <nktch@yandex.ru>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -33,6 +33,14 @@ msgstr "Расчётное время:"
 
 msgid "Remaining time:"
 msgstr "Оставшееся время:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Распечатка"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Печать"
 
 msgid "Yes"
 msgstr "Да"
@@ -78,9 +86,6 @@ msgstr "Не удалось удалить пакет завершения оч�
 msgid "Unable to create I/O completion port"
 msgstr "Невозможно создать порт завершения ввода/вывода"
 
-msgid "Printout"
-msgstr "Распечатка"
-
 msgid "&See details"
 msgstr "&Просмотр деталей"
 
@@ -101,9 +106,6 @@ msgstr "&Таблица"
 
 msgid "Object Properties"
 msgstr "Свойства объекта"
-
-msgid "Printing"
-msgstr "Печать"
 
 msgid "Symbols"
 msgstr "Символы"
@@ -4332,7 +4334,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": файл не существует!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Предпросмотр"
 
 msgid ""
@@ -6157,6 +6161,9 @@ msgstr "Размер заполнения внизу."
 
 msgid "Units for the bottom padding."
 msgstr "Единицы нижнего заполнения."
+
+msgid " Preview"
+msgstr " Предпросмотр"
 
 msgid "Floating"
 msgstr "Плавающий"

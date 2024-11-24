@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2023-07-06 08:52+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/klyok/wxwidgets/"
@@ -34,6 +34,14 @@ msgstr "Öngörülen süre:"
 
 msgid "Remaining time:"
 msgstr "Kalan süre:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Çıktı"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Yazdırılıyor"
 
 msgid "Yes"
 msgstr "Evet"
@@ -79,9 +87,6 @@ msgstr "Tamamlanma paketi kuyruktan çıkarılamadı"
 msgid "Unable to create I/O completion port"
 msgstr "Giriş/çıkış tamamlanma kapısı oluşturulamadı"
 
-msgid "Printout"
-msgstr "Çıktı"
-
 msgid "&See details"
 msgstr "&Ayrıntılar"
 
@@ -102,9 +107,6 @@ msgstr "&Tablo"
 
 msgid "Object Properties"
 msgstr "Nesne özellikleri"
-
-msgid "Printing"
-msgstr "Yazdırılıyor"
 
 msgid "Symbols"
 msgstr "Simgeler"
@@ -4309,7 +4311,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": dosya bulunamadı!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Ön izleme"
 
 msgid ""
@@ -6089,6 +6093,9 @@ msgstr "Alt boşluk boyutu."
 
 msgid "Units for the bottom padding."
 msgstr "Alt boşluk birimleri."
+
+msgid " Preview"
+msgstr " Ön izleme"
 
 msgid "Floating"
 msgstr "Yüzer"

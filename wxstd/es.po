@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2023-02-08 12:20+0100\n"
 "Last-Translator: Miguel Giménez <tecnico@solener.com>\n"
 "Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
@@ -28,6 +28,14 @@ msgstr "Tiempo estimado:"
 
 msgid "Remaining time:"
 msgstr "Tiempo restante:"
+
+#. TRANSLATORS: HTML printout default title.
+msgid "Printout"
+msgstr "Impresión"
+
+#. TRANSLATORS: HTML easy print default title.
+msgid "Printing"
+msgstr "Imprimiendo"
 
 msgid "Yes"
 msgstr "Sí"
@@ -73,9 +81,6 @@ msgstr "No se pudo sacar de la cola el paquete de finalización"
 msgid "Unable to create I/O completion port"
 msgstr "No se pudo crear el puerto de finalización de E/S"
 
-msgid "Printout"
-msgstr "Impresión"
-
 msgid "&See details"
 msgstr "&Ver detalles"
 
@@ -96,9 +101,6 @@ msgstr "&Tabla"
 
 msgid "Object Properties"
 msgstr "Propiedades del objeto"
-
-msgid "Printing"
-msgstr "Imprimiendo"
 
 msgid "Symbols"
 msgstr "Símbolos"
@@ -4330,7 +4332,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": ¡el archivo no existe!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Previsualización"
 
 msgid ""
@@ -6128,6 +6132,9 @@ msgstr "El tamaño del relleno inferior."
 
 msgid "Units for the bottom padding."
 msgstr "Unidades para el relleno inferior."
+
+msgid " Preview"
+msgstr " Previsualización"
 
 msgid "Floating"
 msgstr "Flotante"

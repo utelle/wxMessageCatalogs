@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wxWidgets 3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-24 03:42+0000\n"
+"POT-Creation-Date: 2024-11-24 03:49+0000\n"
 "PO-Revision-Date: 2006-11-06 10:48+0800\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: ms_MY <ms@li.org>\n"
@@ -35,6 +35,16 @@ msgstr "Masa anggaran : "
 #, fuzzy
 msgid "Remaining time:"
 msgstr "Masa yang tinggal :"
+
+#. TRANSLATORS: HTML printout default title.
+#, fuzzy
+msgid "Printout"
+msgstr "Cetak"
+
+#. TRANSLATORS: HTML easy print default title.
+#, fuzzy
+msgid "Printing"
+msgstr "Mencetak "
 
 msgid "Yes"
 msgstr "Ya"
@@ -83,10 +93,6 @@ msgid "Unable to create I/O completion port"
 msgstr "Gagal cipta TextEncodingConverter"
 
 #, fuzzy
-msgid "Printout"
-msgstr "Cetak"
-
-#, fuzzy
 msgid "&See details"
 msgstr "&Terperinci"
 
@@ -112,10 +118,6 @@ msgstr "Tab"
 #, fuzzy
 msgid "Object Properties"
 msgstr "&Ciri-ciri"
-
-#, fuzzy
-msgid "Printing"
-msgstr "Mencetak "
 
 msgid "Symbols"
 msgstr "Simbol"
@@ -4454,7 +4456,9 @@ msgstr ""
 msgid ": file does not exist!"
 msgstr ": fail tidak wujud!"
 
-msgid " Preview"
+#. TRANSLATORS: %s may be a document title.
+#, fuzzy, c-format
+msgid "%s Preview"
 msgstr " Pralihat"
 
 msgid ""
@@ -6360,6 +6364,9 @@ msgstr "Saiz titik fon."
 
 msgid "Units for the bottom padding."
 msgstr ""
+
+msgid " Preview"
+msgstr " Pralihat"
 
 #, fuzzy
 msgid "Floating"
